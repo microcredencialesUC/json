@@ -1,0 +1,2940 @@
+[
+  {
+    "Código": "08-EX3-019 (3)",
+    "Nombre": "Diploma Universitario de Especialización en EW Defensa Electrónica",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1603459404909-2ce99c16ab54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFc3BlY2lhbGl6YWNpJUMzJUIzbiUyMEVXJTIwRGVmZW5zYSUyMEVsZWN0ciVDMyVCM25pY2F8ZW58MHx8fHwxNzU1NTg5MzYyfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Jimi Malmberg",
+    "Link": "https://unsplash.com/@jimi_malmberg",
+    "ImagenID": "",
+    "Director": "HERRERA GUARDADO, AMPARO / REYES RODRIGUEZ, JESÚS MIGUEL",
+    "Creditos": 32,
+    "Horas": 800,
+    "Horario": "Lun-Vie: 7am-8pm; Sáb-Dom: 8am-6pm",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-09-14T22:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 2750,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "08-EX3-020 (3)",
+    "Nombre": "Microcredencial Universitaria en EW Actividades Prácticas I",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1716337563200-67992e14a5d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwRVclMjBBY3RpdmlkYWRlcyUyMFByJUMzJUExY3RpY2FzJTIwSXxlbnwwfHx8fDE3NTU1ODkzNjR8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Sam Jotham Sutharson",
+    "Link": "https://unsplash.com/@jothamsutharson",
+    "ImagenID": "",
+    "Director": "HERRERA GUARDADO, AMPARO",
+    "Creditos": 4,
+    "Horas": 100,
+    "Horario": "Lun-Sáb: 10am-7pm; Dom: Cerrado",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-09-14T22:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 400,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "08-EX3-025 (2)",
+    "Nombre": "Microcredencial Universitaria en EW Contexto y Evolución",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1614793319738-bde496bbe85e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwRVclMjBDb250ZXh0byUyMHklMjBFdm9sdWNpJUMzJUIzbnxlbnwwfHx8fDE3NTU1ODkzNjZ8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Max Shilov",
+    "Link": "https://unsplash.com/@mxshlv",
+    "ImagenID": "",
+    "Director": "HERRERA GUARDADO, AMPARO",
+    "Creditos": 3,
+    "Horas": 75,
+    "Horario": "Lun-Vie: 5am-10pm; Sáb-Dom: 7am-8pm",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-09-14T22:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 350,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "08-FC3-013 (3)",
+    "Nombre": "Diploma Universitario de Experto en Banca y Finanzas",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1592698765727-387c9464cd7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwQmFuY2ElMjB5JTIwRmluYW56YXN8ZW58MHx8fHwxNzU1NTg5MzY3fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Luke Shaffer",
+    "Link": "https://unsplash.com/@shafferluke",
+    "ImagenID": "",
+    "Director": "DIAZ DIAZ, BELEN / TORRE OLMO, MARIA BEGOÑA",
+    "Creditos": 6.1,
+    "Horas": 152.5,
+    "Horario": "Lun-Vie: 8am-6pm; Sáb: 9am-2pm; Dom: Cerrado",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-09-14T22:00:00.000Z",
+    "FechaFin": "2026-06-29T22:00:00.000Z",
+    "Precio": 875,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "08-FC3-014 (3)",
+    "Nombre": "Máster de Formación Permanente en Banca y Mercados Financieros (Edición España)",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1656013277711-fc39ec97845f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBCYW5jYSUyMHklMjBNZXJjYWRvcyUyMEZpbmFuY2llcm9zJTIwJTI4RWRpY2klQzMlQjNuJTIwRXNwYSVDMyVCMWElMjl8ZW58MHx8fHwxNzU1NTg5MzY5fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Dominik Varga",
+    "Link": "https://unsplash.com/@dominikfckngschuster",
+    "ImagenID": "",
+    "Director": "DIAZ DIAZ, BELEN / TORRE OLMO, MARIA BEGOÑA",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "Mar-Dom: 12pm-10pm; Lun: Cerrado",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-09-14T22:00:00.000Z",
+    "FechaFin": "2026-06-29T22:00:00.000Z",
+    "Precio": 12500,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "08-FC3-015 (3)",
+    "Nombre": "Microcredencial Universitaria en Dinámica de Fluidos Aplicada: Fundamentos de CFD para Ingenieros",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1659092836003-95b01045b1e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwRGluJUMzJUExbWljYSUyMEZsdWlkb3MlMjBBcGxpY2FkYSUzQSUyMEZ1bmRhbWVudG9zJTIwQ0ZEJTIwcGFyYSUyMEluZ2VuaWVyb3N8ZW58MHx8fHwxNzU1NTg5MzcwfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Marco Angelo",
+    "Link": "https://unsplash.com/@marcoangelo",
+    "ImagenID": "",
+    "Director": "FALLANZA TORICES, MARCOS",
+    "Creditos": 5,
+    "Horas": 125,
+    "Horario": "Mar-Dom: 12pm-10pm; Lun: Cerrado",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-09-15T22:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 700,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "A"
+  },
+  {
+    "Código": "08-FC3-016 (3)",
+    "Nombre": "Microcredencial Universitaria en Introducción a la Realidad Extendida",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1723746571161-e45723f5db33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwSW50cm9kdWNjaSVDMyVCM24lMjBhJTIwbGElMjBSZWFsaWRhZCUyMEV4dGVuZGlkYXxlbnwwfHx8fDE3NTU1ODkzNzF8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Sichen Xiang",
+    "Link": "https://unsplash.com/@imseason",
+    "ImagenID": "",
+    "Director": "FALLANZA TORICES, MARCOS / DOMINGUEZ RAMOS, ANTONIO",
+    "Creditos": 3,
+    "Horas": 75,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-09-18T22:00:00.000Z",
+    "FechaFin": "2025-11-06T23:00:00.000Z",
+    "Precio": 23.82,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "08-FC3-017 (3)",
+    "Nombre": "Diploma Universitario de Experto en Innovación y Creatividad: Capacidades Personales para el Diseño de Soluciones",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1596807711641-70bd1248abd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwSW5ub3ZhY2klQzMlQjNuJTIweSUyMENyZWF0aXZpZGFkJTNBJTIwQ2FwYWNpZGFkZXMlMjBQZXJzb25hbGVzJTIwcGFyYSUyMGVsJTIwRGlzZSVDMyVCMW8lMjBTb2x1Y2lvbmVzfGVufDB8fHx8MTc1NTU4OTM3M3ww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Robert Boyer",
+    "Link": "https://unsplash.com/@boyerobert",
+    "ImagenID": "",
+    "Director": "TORRE OLMO, MARIA BEGOÑA / GUTIERREZ-SOLANA SALCEDO, FEDERICO",
+    "Creditos": 20.09,
+    "Horas": 502.25,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-09-23T22:00:00.000Z",
+    "FechaFin": "2025-12-18T23:00:00.000Z",
+    "Precio": 490,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "08-FC3-024 (2)",
+    "Nombre": "Máster de Formación Permanente en Innovación y Emprendimiento",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1704969723938-0c310608d6c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBJbm5vdmFjaSVDMyVCM24lMjB5JTIwRW1wcmVuZGltaWVudG98ZW58MHx8fHwxNzU1NTg5Mzc0fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Markus Winkler",
+    "Link": "https://unsplash.com/@markuswinkler",
+    "ImagenID": "",
+    "Director": "TORRE OLMO, MARIA BEGOÑA / GUTIERREZ-SOLANA SALCEDO, FEDERICO",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-09-23T22:00:00.000Z",
+    "FechaFin": "2026-09-10T22:00:00.000Z",
+    "Precio": 1390,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "08-MA3-022 (19)",
+    "Nombre": "Microcredencial Universitaria en Construyendo Redes de Comunicaciones: Explorando las Tecnologías tras Internet",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1565194745451-b5b5d894e045?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwQ29uc3RydXllbmRvJTIwUmVkZXMlMjBDb211bmljYWNpb25lcyUzQSUyMEV4cGxvcmFuZG8lMjBsYXMlMjBUZWNub2xvZyVDMyVBRGFzJTIwdHJhcyUyMEludGVybmV0fGVufDB8fHx8MTc1NTU4OTM3Nnww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "kiryl",
+    "Link": "https://unsplash.com/@kshar2",
+    "ImagenID": "",
+    "Director": "LANZA CALDERON, JORGE",
+    "Creditos": 3,
+    "Horas": 75,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-09-25T22:00:00.000Z",
+    "FechaFin": "2025-12-30T23:00:00.000Z",
+    "Precio": 25,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "08-MA3-023 (19)",
+    "Nombre": "Microcredencial Universitaria en Ciberseguridad en Redes de Comunicaciones: Cómo Asegurar tus Comunicaciones a través de Internet",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1565194745451-b5b5d894e045?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwQ2liZXJzZWd1cmlkYWQlMjBSZWRlcyUyMENvbXVuaWNhY2lvbmVzJTNBJTIwQyVDMyVCM21vJTIwQXNlZ3VyYXIlMjB0dXMlMjBDb211bmljYWNpb25lcyUyMGElMjB0cmF2JUMzJUE5cyUyMEludGVybmV0fGVufDB8fHx8MTc1NTU4OTM3N3ww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "kiryl",
+    "Link": "https://unsplash.com/@kshar2",
+    "ImagenID": "",
+    "Director": "SANCHEZ GONZALEZ, LUIS",
+    "Creditos": 3,
+    "Horas": 75,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-09-25T22:00:00.000Z",
+    "FechaFin": "2025-12-30T23:00:00.000Z",
+    "Precio": 25,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "10-ES3-044 (2)",
+    "Nombre": "Microcredencial Universitaria en MARPOL 73/78: Herramientas de Simulación de Seguimiento de Derrames en el Mar",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1639295359038-2bea883767dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwTUFSUE9MJTIwNzMlMkY3OCUzQSUyMEhlcnJhbWllbnRhcyUyMFNpbXVsYWNpJUMzJUIzbiUyMFNlZ3VpbWllbnRvJTIwRGVycmFtZXMlMjBlbCUyME1hcnxlbnwwfHx8fDE3NTU1ODkzNzh8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Bernd 📷 Dittrich",
+    "Link": "https://unsplash.com/@hdbernd",
+    "ImagenID": "",
+    "Director": "MADARIAGA DOMINGUEZ, ERNESTO",
+    "Creditos": 3,
+    "Horas": 75,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-09-28T22:00:00.000Z",
+    "FechaFin": "2025-12-30T23:00:00.000Z",
+    "Precio": 340,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "A"
+  },
+  {
+    "Código": "10-EX3-037 (2)",
+    "Nombre": "Diploma Universitario de Experto en Power BI Aplicado a la Gestión Empresarial",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1738750908048-14200459c3c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwUG93ZXIlMjBCSSUyMEFwbGljYWRvJTIwYSUyMGxhJTIwR2VzdGklQzMlQjNuJTIwRW1wcmVzYXJpYWx8ZW58MHx8fHwxNzU1NTg5MzgwfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Mudia Mowoe",
+    "Link": "https://unsplash.com/@mudia23",
+    "ImagenID": "",
+    "Director": "MONTOYA DEL CORTE, JAVIER / PALAZUELOS COBO, ESTEFANIA",
+    "Creditos": 20,
+    "Horas": 500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-09-29T22:00:00.000Z",
+    "FechaFin": "2026-03-13T23:00:00.000Z",
+    "Precio": 1250,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "10-EX3-038 (2)",
+    "Nombre": "Diploma Universitario de Experto en la Administración de las Sociedades de Garantía Reciproca",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1704565522499-321a97525d9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwbGElMjBBZG1pbmlzdHJhY2klQzMlQjNuJTIwbGFzJTIwU29jaWVkYWRlcyUyMEdhcmFudCVDMyVBRGElMjBSZWNpcHJvY2F8ZW58MHx8fHwxNzU1NTg5MzgyfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "550Park Luxury Wedding Films",
+    "Link": "https://unsplash.com/@550park",
+    "ImagenID": "",
+    "Director": "FERNANDEZ FERNANDEZ, MARIA EUGENIA",
+    "Creditos": 5,
+    "Horas": 125,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-09-30T22:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 300,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "10-EX3-039 (2)",
+    "Nombre": "Diploma Universitario de Especialización en Cuidados y Curas de Heridas Crónicas (Virtual)",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1626178794106-474fa92d6524?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFc3BlY2lhbGl6YWNpJUMzJUIzbiUyMEN1aWRhZG9zJTIweSUyMEN1cmFzJTIwSGVyaWRhcyUyMENyJUMzJUIzbmljYXMlMjAlMjhWaXJ0dWFsJTI5fGVufDB8fHx8MTc1NTU4OTM4M3ww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Towfiqu barbhuiya",
+    "Link": "https://unsplash.com/@towfiqu999999",
+    "ImagenID": "",
+    "Director": "SARABIA LAVIN, RAQUEL",
+    "Creditos": 32,
+    "Horas": 800,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-09-30T22:00:00.000Z",
+    "FechaFin": "2026-06-04T22:00:00.000Z",
+    "Precio": 600,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "10-EX3-040 (2)",
+    "Nombre": "Máster de Formación Permanente en Banca y Mercados Financieros (Edición México)",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1676383045685-41cf03b900b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBCYW5jYSUyMHklMjBNZXJjYWRvcyUyMEZpbmFuY2llcm9zJTIwJTI4RWRpY2klQzMlQjNuJTIwTSVDMyVBOXhpY28lMjl8ZW58MHx8fHwxNzU1NTg5Mzg1fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Jimmy Woo",
+    "Link": "https://unsplash.com/@woomantsing",
+    "ImagenID": "",
+    "Director": "TORRE OLMO, MARIA BEGOÑA / FREGOSO LARA, JORGE",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-09-30T22:00:00.000Z",
+    "FechaFin": "2027-06-29T22:00:00.000Z",
+    "Precio": 19000,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "10-EX3-041 (2)",
+    "Nombre": "Microcredencial Universitaria en Inteligencia Artificial Aplicada al Turismo",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1644328037979-6eef4ea7834f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwSW50ZWxpZ2VuY2lhJTIwQXJ0aWZpY2lhbCUyMEFwbGljYWRhJTIwYWwlMjBUdXJpc21vfGVufDB8fHx8MTc1NTU4OTM4Nnww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Paras Kapoor",
+    "Link": "https://unsplash.com/@kapoorparas28",
+    "ImagenID": "",
+    "Director": "SOLANA GONZALEZ, PEDRO",
+    "Creditos": 2,
+    "Horas": 50,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-09-30T22:00:00.000Z",
+    "FechaFin": "2025-11-11T23:00:00.000Z",
+    "Precio": 140,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "10-EX3-042 (2)",
+    "Nombre": "Máster de Formación Permanente en Gestión del Negocio Marítimo y Logística Asociada",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1673844939454-25b56d5c9288?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBHZXN0aSVDMyVCM24lMjBkZWwlMjBOZWdvY2lvJTIwTWFyJUMzJUFEdGltbyUyMHklMjBMb2clQzMlQURzdGljYSUyMEFzb2NpYWRhfGVufDB8fHx8MTc1NTU4OTM4OHww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Ernie Journeys",
+    "Link": "https://unsplash.com/@erniejourneys",
+    "ImagenID": "",
+    "Director": "BLANCO ROJO, BEATRIZ",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-01T22:00:00.000Z",
+    "FechaFin": "2026-12-30T23:00:00.000Z",
+    "Precio": 3000,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "W"
+  },
+  {
+    "Código": "10-EX3-043 (2)",
+    "Nombre": "Curso Universitario de Formación Permanente en Certificado Oficial de Formación Pedagógica y Didáctica Equivalente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1715173679369-18006e84d6a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBDZXJ0aWZpY2FkbyUyME9maWNpYWwlMjBGb3JtYWNpJUMzJUIzbiUyMFBlZGFnJUMzJUIzZ2ljYSUyMHklMjBEaWQlQzMlQTFjdGljYSUyMEVxdWl2YWxlbnRlfGVufDB8fHx8MTc1NTU4OTM4OXww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Duc Van",
+    "Link": "https://unsplash.com/@duke91",
+    "ImagenID": "",
+    "Director": "LAZARO VISA, SUSANA / GARCIA LASTRA, MARTA",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-01T22:00:00.000Z",
+    "FechaFin": "2026-06-28T22:00:00.000Z",
+    "Precio": 677,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "N"
+  },
+  {
+    "Código": "10-FC3-047 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente de Desarrollo e Industria del Videojuego PlayStation Talents",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1622779553291-9f2006fddd5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBEZXNhcnJvbGxvJTIwZSUyMEluZHVzdHJpYSUyMGRlbCUyMFZpZGVvanVlZ28lMjBQbGF5U3RhdGlvbiUyMFRhbGVudHN8ZW58MHx8fHwxNzU1NTg5MzkwfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Jose Castillo",
+    "Link": "https://unsplash.com/@curiousjorge",
+    "ImagenID": "",
+    "Director": "BLANCO BUENO, CARLOS / GUIRAO SAGI-VELA, GONZALO",
+    "Creditos": 29,
+    "Horas": 725,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-02T22:00:00.000Z",
+    "FechaFin": "2026-03-20T23:00:00.000Z",
+    "Precio": 50,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "10-FC3-048 (1)",
+    "Nombre": "Diploma Universitario de Especialización BIM Manager en Ingeniería Civil",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1622117523535-ecb446c0c1ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFc3BlY2lhbGl6YWNpJUMzJUIzbiUyMEJJTSUyME1hbmFnZXIlMjBJbmdlbmllciVDMyVBRGElMjBDaXZpbHxlbnwwfHx8fDE3NTU1ODkzOTJ8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Ofspace LLC",
+    "Link": "https://unsplash.com/@ofspace",
+    "ImagenID": "",
+    "Director": "MANCHADO DEL VAL, CRISTINA",
+    "Creditos": 32,
+    "Horas": 800,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-05T22:00:00.000Z",
+    "FechaFin": "2026-08-29T22:00:00.000Z",
+    "Precio": 3840,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "A"
+  },
+  {
+    "Código": "10-MA3-028 (26)",
+    "Nombre": "Curso Universitario de Formación Permanente de Capacitación para la Incorporación al Mundo Laboral. Programa de Formación para Personas con Discapacidad Intelectual, del Desarrollo y/o del Espectro Autista",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1709127347874-3f4674be5bc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBDYXBhY2l0YWNpJUMzJUIzbiUyMHBhcmElMjBsYSUyMEluY29ycG9yYWNpJUMzJUIzbiUyMGFsJTIwTXVuZG8lMjBMYWJvcmFsLiUyMFByb2dyYW1hJTIwRm9ybWFjaSVDMyVCM24lMjBwYXJhJTIwUGVyc29uYXMlMjBjb24lMjBEaXNjYXBhY2lkYWQlMjBJbnRlbGVjdHVhbCUyQyUyMGRlbCUyMERlc2Fycm9sbG8lMjB5JTJGbyUyMGRlbCUyMEVzcGVjdHJvJTIwQXV0aXN0YXxlbnwwfHx8fDE3NTU1ODkzOTR8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Ortopediatri Çocuk Ortopedi Akademisi",
+    "Link": "https://unsplash.com/@ortopediatri",
+    "ImagenID": "",
+    "Director": "HAYA SALMON, IGNACIO / ROJAS PERNIA, SUSANA",
+    "Creditos": 31,
+    "Horas": 775,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-05T22:00:00.000Z",
+    "FechaFin": "2026-05-28T22:00:00.000Z",
+    "Precio": 0,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "10-MA3-029 (2)",
+    "Nombre": "Diploma Universitario de Experto en Gestión Energética",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1582275894820-86334ddbf16f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwR2VzdGklQzMlQjNuJTIwRW5lcmclQzMlQTl0aWNhfGVufDB8fHx8MTc1NTU4OTM5NXww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Claudio Schwarz",
+    "Link": "https://unsplash.com/@purzlbaum",
+    "ImagenID": "",
+    "Director": "CASTRO ALONSO, PABLO BERNARDO",
+    "Creditos": 27,
+    "Horas": 675,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-06T22:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 1800,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "N"
+  },
+  {
+    "Código": "10-MA3-045 (2)",
+    "Nombre": "Máster de Formación Permanente en Energías Renovables y Gestión Energética",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1755585102016-e814a0596769?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBFbmVyZyVDMyVBRGFzJTIwUmVub3ZhYmxlcyUyMHklMjBHZXN0aSVDMyVCM24lMjBFbmVyZyVDMyVBOXRpY2F8ZW58MHx8fHwxNzU1NTg5Mzk3fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "kian zhang",
+    "Link": "https://unsplash.com/@hellokian",
+    "ImagenID": "",
+    "Director": "CASTRO ALONSO, PABLO BERNARDO",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-06T22:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 3600,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "N"
+  },
+  {
+    "Código": "10-MA3-046 (1)",
+    "Nombre": "Microcredencial Universitaria en Fundamentos de la Ciberseguridad",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1719255417989-b6858e87359e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwRnVuZGFtZW50b3MlMjBsYSUyMENpYmVyc2VndXJpZGFkfGVufDB8fHx8MTc1NTU4OTM5OHww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Glen Carrie",
+    "Link": "https://unsplash.com/@glencarrie",
+    "ImagenID": "",
+    "Director": "CRUZ RODRIGUEZ, MARCOS",
+    "Creditos": 4,
+    "Horas": 100,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-12T22:00:00.000Z",
+    "FechaFin": "2025-12-11T23:00:00.000Z",
+    "Precio": 0,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "12-EX3-015 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente Renovación de Tarjetas Profesionales de la Marina Mercante",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1566995956590-7731f4b389ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBSZW5vdmFjaSVDMyVCM24lMjBUYXJqZXRhcyUyMFByb2Zlc2lvbmFsZXMlMjBsYSUyME1hcmluYSUyME1lcmNhbnRlfGVufDB8fHx8MTc1NTU4OTQwMHww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "NOAA",
+    "Link": "https://unsplash.com/@noaa",
+    "ImagenID": "",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 3,
+    "Horas": 75,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-12T22:00:00.000Z",
+    "FechaFin": "2025-10-23T22:00:00.000Z",
+    "Precio": 240,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "A"
+  },
+  {
+    "Código": "12-MC3-008 (1)",
+    "Nombre": "Microcredencial Universitaria en Financiación Sostenible",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1733286130054-f64e816cbfaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwRmluYW5jaWFjaSVDMyVCM24lMjBTb3N0ZW5pYmxlfGVufDB8fHx8MTc1NTU4OTQwMXww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Zhen Yao",
+    "Link": "https://unsplash.com/@zhenyao_photo",
+    "ImagenID": "",
+    "Director": "",
+    "Creditos": 2,
+    "Horas": 50,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-12T22:00:00.000Z",
+    "FechaFin": "2025-12-29T23:00:00.000Z",
+    "Precio": 300,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "12-MC3-009 (1)",
+    "Nombre": "Diploma Universitario de Experto en Protocolo y Gestión de Eventos",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1712903277236-67ff1a9cbbcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwUHJvdG9jb2xvJTIweSUyMEdlc3RpJUMzJUIzbiUyMEV2ZW50b3N8ZW58MHx8fHwxNzU1NTg5NDAzfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Walls.io",
+    "Link": "https://unsplash.com/@walls_io",
+    "ImagenID": "",
+    "Director": "SOLANA GONZALEZ, PEDRO",
+    "Creditos": 5,
+    "Horas": 125,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-12T22:00:00.000Z",
+    "FechaFin": "2025-12-15T23:00:00.000Z",
+    "Precio": 140,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "12-MC3-010 (1)",
+    "Nombre": "Diploma Universitario de Experto Tecnología de la Edificación",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1562957982-b1f25317aebd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwVGVjbm9sb2clQzMlQURhJTIwbGElMjBFZGlmaWNhY2klQzMlQjNufGVufDB8fHx8MTc1NTU4OTQwNHww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Ashkan Forouzani",
+    "Link": "https://unsplash.com/@ashkfor121",
+    "ImagenID": "",
+    "Director": "LOMBILLO VOZMEDIANO, IGNACIO",
+    "Creditos": 20,
+    "Horas": 500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-13T22:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 2000,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "12-MC3-011 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente Tecnología de Estructuras de Edificación",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1562957982-b1f25317aebd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBUZWNub2xvZyVDMyVBRGElMjBFc3RydWN0dXJhcyUyMEVkaWZpY2FjaSVDMyVCM258ZW58MHx8fHwxNzU1NTg5NDA1fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Ashkan Forouzani",
+    "Link": "https://unsplash.com/@ashkfor121",
+    "ImagenID": "",
+    "Director": "LOMBILLO VOZMEDIANO, IGNACIO",
+    "Creditos": 7,
+    "Horas": 175,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-13T22:00:00.000Z",
+    "FechaFin": "2026-01-26T23:00:00.000Z",
+    "Precio": 1000,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "12-MC3-012 (1)",
+    "Nombre": "Máster Internacional de Formación Permanente UC-UIMP en Tecnología Rehabilitación y Gestión de la Edificación (Virtual)",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1551897245-cc37a467ca9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxJbnRlcm5hY2lvbmFsJTIwRm9ybWFjaSVDMyVCM24lMjBQZXJtYW5lbnRlJTIwVUMtVUlNUCUyMFRlY25vbG9nJUMzJUFEYSUyMFJlaGFiaWxpdGFjaSVDMyVCM24lMjB5JTIwR2VzdGklQzMlQjNuJTIwbGElMjBFZGlmaWNhY2klQzMlQjNuJTIwJTI4VmlydHVhbCUyOXxlbnwwfHx8fDE3NTU1ODk0MDd8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Avi Werde",
+    "Link": "https://unsplash.com/@aviwerde",
+    "ImagenID": "",
+    "Director": "LOMBILLO VOZMEDIANO, IGNACIO",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-13T22:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 6000,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "21-MC3-001 (1)",
+    "Nombre": "Máster Internacional de Formación Permanente UC-UIMP en Tecnología Rehabilitación y Gestión de la Edificación (Hibrido)",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1583421660936-fc5ce0762df1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxJbnRlcm5hY2lvbmFsJTIwRm9ybWFjaSVDMyVCM24lMjBQZXJtYW5lbnRlJTIwVUMtVUlNUCUyMFRlY25vbG9nJUMzJUFEYSUyMFJlaGFiaWxpdGFjaSVDMyVCM24lMjB5JTIwR2VzdGklQzMlQjNuJTIwbGElMjBFZGlmaWNhY2klQzMlQjNuJTIwJTI4SGlicmlkbyUyOXxlbnwwfHx8fDE3NTU1ODk0MDh8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Nikola",
+    "Link": "https://unsplash.com/@nikden",
+    "ImagenID": "",
+    "Director": "LOMBILLO VOZMEDIANO, IGNACIO",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-13T22:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 6000,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "23-MC3-003 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente en Comercio Internacional y Transporte",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1713859326033-f75e04439c3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBDb21lcmNpbyUyMEludGVybmFjaW9uYWwlMjB5JTIwVHJhbnNwb3J0ZXxlbnwwfHx8fDE3NTU1ODk0MTB8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "PortCalls Asia",
+    "Link": "https://unsplash.com/@portcalls",
+    "ImagenID": "",
+    "Director": "COTO MILLAN, PEDRO PABLO / DE LA FUENTE RENTERIA, MARTA ELISA",
+    "Creditos": 40,
+    "Horas": 1000,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-13T22:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 2400,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "I"
+  },
+  {
+    "Código": "23-MC3-004 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente en Logística",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1584808388222-062430d77e9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBMb2clQzMlQURzdGljYXxlbnwwfHx8fDE3NTU1ODk0MTN8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Fabio Sasso",
+    "Link": "https://unsplash.com/@abduzeedo",
+    "ImagenID": "",
+    "Director": "COTO MILLAN, PEDRO PABLO / DE LA FUENTE RENTERIA, MARTA ELISA",
+    "Creditos": 14,
+    "Horas": 350,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-13T22:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 1700,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "I"
+  },
+  {
+    "Código": "25-ES3-025 (1)",
+    "Nombre": "Master de Formación Permanente en Comercio Internacional, Transporte y Logística",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1613501968896-6513b028274e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxNYXN0ZXIlMjBGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBDb21lcmNpbyUyMEludGVybmFjaW9uYWwlMkMlMjBUcmFuc3BvcnRlJTIweSUyMExvZyVDMyVBRHN0aWNhfGVufDB8fHx8MTc1NTU4OTQxNHww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "M Anink",
+    "Link": "https://unsplash.com/@maffie72",
+    "ImagenID": "",
+    "Director": "COTO MILLAN, PEDRO PABLO / DE LA FUENTE RENTERIA, MARTA ELISA",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-13T22:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 6000,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "I"
+  },
+  {
+    "Código": "25-EX3-020 (2)",
+    "Nombre": "Máster de Formación Permanente en Dirección de Hoteles y Empresas Turísticas",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1695806109708-f5d5a2da99bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBEaXJlY2NpJUMzJUIzbiUyMEhvdGVsZXMlMjB5JTIwRW1wcmVzYXMlMjBUdXIlQzMlQURzdGljYXN8ZW58MHx8fHwxNzU1NTg5NDE1fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Markus Winkler",
+    "Link": "https://unsplash.com/@markuswinkler",
+    "ImagenID": "",
+    "Director": "SOLANA GONZALEZ, PEDRO",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-13T22:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 990,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "25-MA3-018 (6)",
+    "Nombre": "Diploma Universitario de Experto Rehabilitación, Regeneración Urbana y Eficiencia Energética",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1591648805756-650258a4e52a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwUmVoYWJpbGl0YWNpJUMzJUIzbiUyQyUyMFJlZ2VuZXJhY2klQzMlQjNuJTIwVXJiYW5hJTIweSUyMEVmaWNpZW5jaWElMjBFbmVyZyVDMyVBOXRpY2F8ZW58MHx8fHwxNzU1NTg5NDE3fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Maksym Diachenko",
+    "Link": "https://unsplash.com/@photofixation",
+    "ImagenID": "",
+    "Director": "LOMBILLO VOZMEDIANO, IGNACIO",
+    "Creditos": 20,
+    "Horas": 500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-14T22:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 2000,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "25-MA3-024 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente Regeneración Urbana y Eficiencia Energética en la Edificación",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1591648805756-650258a4e52a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBSZWdlbmVyYWNpJUMzJUIzbiUyMFVyYmFuYSUyMHklMjBFZmljaWVuY2lhJTIwRW5lcmclQzMlQTl0aWNhJTIwbGElMjBFZGlmaWNhY2klQzMlQjNufGVufDB8fHx8MTc1NTU4OTQxOHww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Maksym Diachenko",
+    "Link": "https://unsplash.com/@photofixation",
+    "ImagenID": "",
+    "Director": "LOMBILLO VOZMEDIANO, IGNACIO",
+    "Creditos": 7,
+    "Horas": 175,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-14T22:00:00.000Z",
+    "FechaFin": "2026-01-27T23:00:00.000Z",
+    "Precio": 1000,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "25-MC3-022 (1)",
+    "Nombre": "Diploma Universitario de Experto en Marketing Digital y Revenue Management",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1696041754237-e0c1ffd10138?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwTWFya2V0aW5nJTIwRGlnaXRhbCUyMHklMjBSZXZlbnVlJTIwTWFuYWdlbWVudHxlbnwwfHx8fDE3NTU1ODk0MjB8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Kim Menikh",
+    "Link": "https://unsplash.com/@grafiklink",
+    "ImagenID": "",
+    "Director": "SOLANA GONZALEZ, PEDRO",
+    "Creditos": 5,
+    "Horas": 125,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-14T22:00:00.000Z",
+    "FechaFin": "2025-12-03T23:00:00.000Z",
+    "Precio": 140,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "26-MA3-005 (3)",
+    "Nombre": "Diploma Universitario de Experto Gestión de la Edificación (Hibrido)",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1614683361837-963af4039d58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwR2VzdGklQzMlQjNuJTIwbGElMjBFZGlmaWNhY2klQzMlQjNuJTIwJTI4SGlicmlkbyUyOXxlbnwwfHx8fDE3NTU1ODk0MjF8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Nguyễn Hiệp",
+    "Link": "https://unsplash.com/@hieptltb97",
+    "ImagenID": "",
+    "Director": "LOMBILLO VOZMEDIANO, IGNACIO",
+    "Creditos": 20,
+    "Horas": 500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-15T22:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 2000,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "27-ES3-019 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente BIM y Gestión del Proceso Edificatorio (Hibrido)",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1620372426597-1968fbf86ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBCSU0lMjB5JTIwR2VzdGklQzMlQjNuJTIwZGVsJTIwUHJvY2VzbyUyMEVkaWZpY2F0b3JpbyUyMCUyOEhpYnJpZG8lMjl8ZW58MHx8fHwxNzU1NTg5NDIzfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Brett Jordan",
+    "Link": "https://unsplash.com/@brett_jordan",
+    "ImagenID": "",
+    "Director": "LOMBILLO VOZMEDIANO, IGNACIO",
+    "Creditos": 7,
+    "Horas": 175,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-15T22:00:00.000Z",
+    "FechaFin": "2026-01-28T23:00:00.000Z",
+    "Precio": 1000,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "27-ES3-020 (1)",
+    "Nombre": "Máster de Formación Permanente en Dirección de Recursos Humanos: el Valor de las Personas",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1638866413233-0861565aa45d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBEaXJlY2NpJUMzJUIzbiUyMFJlY3Vyc29zJTIwSHVtYW5vcyUzQSUyMGVsJTIwVmFsb3IlMjBsYXMlMjBQZXJzb25hc3xlbnwwfHx8fDE3NTU1ODk0MjR8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Alex Shute",
+    "Link": "https://unsplash.com/@faithgiant",
+    "ImagenID": "",
+    "Director": "MARTIN HERNANDEZ, ANTONIO / ODRIOZOLA ZAMANILLO, MARIA DOLORES",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-15T22:00:00.000Z",
+    "FechaFin": "2026-07-29T22:00:00.000Z",
+    "Precio": 4500,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "27-ES3-021 (1)",
+    "Nombre": "Diploma Universitario de Experto en Economía de la Salud",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1743950671051-73518a839c0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwRWNvbm9tJUMzJUFEYSUyMGxhJTIwU2FsdWR8ZW58MHx8fHwxNzU1NTg5NDI2fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Barbara Burgess",
+    "Link": "https://unsplash.com/@fieldworkframes",
+    "ImagenID": "",
+    "Director": "CANTARERO PRIETO, DAVID / CAYON DE LAS CUEVAS, JOAQUIN",
+    "Creditos": 5.5,
+    "Horas": 137.5,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-16T22:00:00.000Z",
+    "FechaFin": "2025-11-06T23:00:00.000Z",
+    "Precio": 266,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "27-ES3-022 (1)",
+    "Nombre": "Master de Formación Permanente en Gestión y Dirección de Servicios Sanitarios",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1678940807055-d46f1dac7cf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxNYXN0ZXIlMjBGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBHZXN0aSVDMyVCM24lMjB5JTIwRGlyZWNjaSVDMyVCM24lMjBTZXJ2aWNpb3MlMjBTYW5pdGFyaW9zfGVufDB8fHx8MTc1NTU4OTQyN3ww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Frederick Medina",
+    "Link": "https://unsplash.com/@frederickjmedina",
+    "ImagenID": "",
+    "Director": "CANTARERO PRIETO, DAVID / CAYON DE LAS CUEVAS, JOAQUIN",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-16T22:00:00.000Z",
+    "FechaFin": "2026-06-29T22:00:00.000Z",
+    "Precio": 2900,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "27-EX3-013 (1)",
+    "Nombre": "Diploma Universitario de Especialización en Derecho de Familia (Híbrido)",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1659352786973-82ae3af461a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFc3BlY2lhbGl6YWNpJUMzJUIzbiUyMERlcmVjaG8lMjBGYW1pbGlhJTIwJTI4SCVDMyVBRGJyaWRvJTI5fGVufDB8fHx8MTc1NTU4OTQyOXww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Fotos",
+    "Link": "https://unsplash.com/@fotospk",
+    "ImagenID": "",
+    "Director": "TAMAYO HAYA, SILVIA",
+    "Creditos": 30,
+    "Horas": 750,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-16T22:00:00.000Z",
+    "FechaFin": "2026-03-20T23:00:00.000Z",
+    "Precio": 1175,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "I"
+  },
+  {
+    "Código": "27-MA3-014 (1)",
+    "Nombre": "Diploma Universitario de Especialización en Derecho de Familia (Virtual)",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1659352786973-82ae3af461a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFc3BlY2lhbGl6YWNpJUMzJUIzbiUyMERlcmVjaG8lMjBGYW1pbGlhJTIwJTI4VmlydHVhbCUyOXxlbnwwfHx8fDE3NTU1ODk0MzB8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Fotos",
+    "Link": "https://unsplash.com/@fotospk",
+    "ImagenID": "",
+    "Director": "TAMAYO HAYA, SILVIA",
+    "Creditos": 30,
+    "Horas": 750,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-16T22:00:00.000Z",
+    "FechaFin": "2026-03-20T23:00:00.000Z",
+    "Precio": 1175,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "W"
+  },
+  {
+    "Código": "27-MA3-015 (1)",
+    "Nombre": "Máster de Formación Permanente en Derecho de Familia y Menores (Híbrido)",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1659352786973-82ae3af461a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBEZXJlY2hvJTIwRmFtaWxpYSUyMHklMjBNZW5vcmVzJTIwJTI4SCVDMyVBRGJyaWRvJTI5fGVufDB8fHx8MTc1NTU4OTQzMnww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Fotos",
+    "Link": "https://unsplash.com/@fotospk",
+    "ImagenID": "",
+    "Director": "TAMAYO HAYA, SILVIA",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-16T22:00:00.000Z",
+    "FechaFin": "2026-08-30T22:00:00.000Z",
+    "Precio": 2350,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "I"
+  },
+  {
+    "Código": "27-MA3-016 (1)",
+    "Nombre": "Máster de Formación Permanente en Derecho de Familia y Menores (Virtual)",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1659352786973-82ae3af461a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBEZXJlY2hvJTIwRmFtaWxpYSUyMHklMjBNZW5vcmVzJTIwJTI4VmlydHVhbCUyOXxlbnwwfHx8fDE3NTU1ODk0MzN8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Fotos",
+    "Link": "https://unsplash.com/@fotospk",
+    "ImagenID": "",
+    "Director": "TAMAYO HAYA, SILVIA",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-16T22:00:00.000Z",
+    "FechaFin": "2026-08-30T22:00:00.000Z",
+    "Precio": 2350,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "W"
+  },
+  {
+    "Código": "27-MA3-017 (1)",
+    "Nombre": "Master de Formación Permanente en Gestión y Planificación de Centros y Servicios de Atención a la Dependencia",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1646066490017-c935b1a1eb0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxNYXN0ZXIlMjBGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBHZXN0aSVDMyVCM24lMjB5JTIwUGxhbmlmaWNhY2klQzMlQjNuJTIwQ2VudHJvcyUyMHklMjBTZXJ2aWNpb3MlMjBBdGVuY2klQzMlQjNuJTIwYSUyMGxhJTIwRGVwZW5kZW5jaWF8ZW58MHx8fHwxNzU1NTg5NDM1fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Parabol | The Agile Meeting Tool",
+    "Link": "https://unsplash.com/@parabol",
+    "ImagenID": "",
+    "Director": "CANTARERO PRIETO, DAVID / RODRIGUEZ MARTINEZ, JOSE ANGEL",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-22T22:00:00.000Z",
+    "FechaFin": "2026-06-29T22:00:00.000Z",
+    "Precio": 3000,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "27-MA3-018 (1)",
+    "Nombre": "Diploma Universitario de Experto en Protección a la Infancia y a la Adolescencia",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1661277699659-586948998156?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwUHJvdGVjY2klQzMlQjNuJTIwYSUyMGxhJTIwSW5mYW5jaWElMjB5JTIwYSUyMGxhJTIwQWRvbGVzY2VuY2lhfGVufDB8fHx8MTc1NTU4OTQzN3ww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "sidath vimukthi",
+    "Link": "https://unsplash.com/@sidathkc",
+    "ImagenID": "",
+    "Director": "SANTOS GONZALEZ, IRIANA",
+    "Creditos": 19,
+    "Horas": 475,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-22T22:00:00.000Z",
+    "FechaFin": "2026-04-29T22:00:00.000Z",
+    "Precio": 800,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "W"
+  },
+  {
+    "Código": "27-MC3-023 (1)",
+    "Nombre": "Máster de Formación Permanente en Mediación y Gestión de Conflictos",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1653213096273-ca9718a64c63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBNZWRpYWNpJUMzJUIzbiUyMHklMjBHZXN0aSVDMyVCM24lMjBDb25mbGljdG9zfGVufDB8fHx8MTc1NTU5MDYyNnww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Markus Winkler",
+    "Link": "https://unsplash.com/@markuswinkler",
+    "ImagenID": "",
+    "Director": "VAZQUEZ DE CASTRO, EDUARDO / ESTANCONA PEREZ, ARAYA ALICIA",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-26T23:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 2000,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "N"
+  },
+  {
+    "Código": "27-MC3-024 (1)",
+    "Nombre": "Máster de Formación Permanente en Derecho de Comercio y Consumo (Híbrido)",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1704969724140-0a7a390dba73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBEZXJlY2hvJTIwQ29tZXJjaW8lMjB5JTIwQ29uc3VtbyUyMCUyOEglQzMlQURicmlkbyUyOXxlbnwwfHx8fDE3NTU1OTA2Mjh8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Markus Winkler",
+    "Link": "https://unsplash.com/@markuswinkler",
+    "ImagenID": "",
+    "Director": "TOMILLO URBINA, JORGE LUIS / ALVAREZ RUBIO, JULIO",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-26T23:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 2000,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "N"
+  },
+  {
+    "Código": "27-MC3-028 (1)",
+    "Nombre": "Máster de Formación Permanente en Derecho de Comercio y Consumo (Virtual)",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1704969724140-0a7a390dba73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBEZXJlY2hvJTIwQ29tZXJjaW8lMjB5JTIwQ29uc3VtbyUyMCUyOFZpcnR1YWwlMjl8ZW58MHx8fHwxNzU1NTkwNjI5fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Markus Winkler",
+    "Link": "https://unsplash.com/@markuswinkler",
+    "ImagenID": "",
+    "Director": "TOMILLO URBINA, JORGE LUIS / ALVAREZ RUBIO, JULIO",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-26T23:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 2000,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "A"
+  },
+  {
+    "Código": "27-MC3-029 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente en Derecho de la Unión Europea y Acción Exterior",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1684698263866-7fcb6ac5b842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBEZXJlY2hvJTIwbGElMjBVbmklQzMlQjNuJTIwRXVyb3BlYSUyMHklMjBBY2NpJUMzJUIzbiUyMEV4dGVyaW9yfGVufDB8fHx8MTc1NTU5MDYzMXww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Sasha Pleshco",
+    "Link": "https://unsplash.com/@thecyclichedgehog",
+    "ImagenID": "",
+    "Director": "VALLES CAVIA, JOSE ANTONIO / OJINAGA RUIZ, MARIA DEL ROSARIO",
+    "Creditos": 5,
+    "Horas": 125,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-26T23:00:00.000Z",
+    "FechaFin": "2026-06-29T22:00:00.000Z",
+    "Precio": 500,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "I"
+  },
+  {
+    "Código": "28-ES3-019 (1)",
+    "Nombre": "Microcredencial Universitaria en Síntesis e Implementación Física de Circuitos Digitales Integrados",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1517420704952-d9f39e95b43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwUyVDMyVBRG50ZXNpcyUyMGUlMjBJbXBsZW1lbnRhY2klQzMlQjNuJTIwRiVDMyVBRHNpY2ElMjBDaXJjdWl0b3MlMjBEaWdpdGFsZXMlMjBJbnRlZ3JhZG9zfGVufDB8fHx8MTc1NTU5MDYzMnww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Nicolas Thomas",
+    "Link": "https://unsplash.com/@nicolasthomas",
+    "ImagenID": "",
+    "Director": "VILLAR BONET, EUGENIO",
+    "Creditos": 6,
+    "Horas": 150,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-31T23:00:00.000Z",
+    "FechaFin": "2026-02-27T23:00:00.000Z",
+    "Precio": 500,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "I"
+  },
+  {
+    "Código": "35-ES3-058 (1)",
+    "Nombre": "Microcedencial Universitaria en Diseño e Integración de Circuitos Analógicos y Mixtos.",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1517420704952-d9f39e95b43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxNaWNyb2NlZGVuY2lhbCUyMFVuaXZlcnNpdGFyaWElMjBEaXNlJUMzJUIxbyUyMGUlMjBJbnRlZ3JhY2klQzMlQjNuJTIwQ2lyY3VpdG9zJTIwQW5hbCVDMyVCM2dpY29zJTIweSUyME1peHRvcy58ZW58MHx8fHwxNzU1NTkwNjM0fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Nicolas Thomas",
+    "Link": "https://unsplash.com/@nicolasthomas",
+    "ImagenID": "",
+    "Director": "VILLAR BONET, EUGENIO",
+    "Creditos": 6,
+    "Horas": 150,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-10-31T23:00:00.000Z",
+    "FechaFin": "2026-02-27T23:00:00.000Z",
+    "Precio": 500,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "I"
+  },
+  {
+    "Código": "41-EX3-023 (1)",
+    "Nombre": "Microcredencial Universitaria en Competencias Digitales para Maestros/as",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1743834147172-37c12011b321?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwQ29tcGV0ZW5jaWFzJTIwRGlnaXRhbGVzJTIwcGFyYSUyME1hZXN0cm9zJTJGYXN8ZW58MHx8fHwxNzU1NTkwNjM1fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Gaurav Tiwari",
+    "Link": "https://unsplash.com/@gauravtiwariweb",
+    "ImagenID": "",
+    "Director": "RODRIGUEZ HOYOS, CARLOS",
+    "Creditos": 3,
+    "Horas": 75,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-11-02T23:00:00.000Z",
+    "FechaFin": "2025-12-30T23:00:00.000Z",
+    "Precio": 300,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "41-FC3-021 (1)",
+    "Nombre": "Microcredencial Universitaria en Análisis de Datos y Business Intelligence con Power BI para Economistas",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1579522396350-929e1f61ae0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwQW4lQzMlQTFsaXNpcyUyMERhdG9zJTIweSUyMEJ1c2luZXNzJTIwSW50ZWxsaWdlbmNlJTIwY29uJTIwUG93ZXIlMjBCSSUyMHBhcmElMjBFY29ub21pc3Rhc3xlbnwwfHx8fDE3NTU1OTA2Mzd8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Calvin Uy",
+    "Link": "https://unsplash.com/@calvinslibrary",
+    "ImagenID": "",
+    "Director": "MONTOYA DEL CORTE, JAVIER / PALAZUELOS COBO, ESTEFANIA",
+    "Creditos": 3,
+    "Horas": 75,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-11-03T23:00:00.000Z",
+    "FechaFin": "2025-12-18T23:00:00.000Z",
+    "Precio": 97.5,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "41-FC3-024 (1)",
+    "Nombre": "Master de Formación Permanente en Tributación",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1659080907099-1706246332a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxNYXN0ZXIlMjBGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBUcmlidXRhY2klQzMlQjNufGVufDB8fHx8MTc1NTU5MDYzOHww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Fotos",
+    "Link": "https://unsplash.com/@fotospk",
+    "ImagenID": "",
+    "Director": "CARRERA PONCELA, ANA MARIA / FERNANDEZ GONZALEZ DE TORRES, MANUEL",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-11-05T23:00:00.000Z",
+    "FechaFin": "2026-06-29T22:00:00.000Z",
+    "Precio": 3995,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "I"
+  },
+  {
+    "Código": "41-MC3-022 (1)",
+    "Nombre": "Diploma Universitario de Especialización en Contabilidad Financiera y Directiva",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1574884280706-7342ca3d4231?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFc3BlY2lhbGl6YWNpJUMzJUIzbiUyMENvbnRhYmlsaWRhZCUyMEZpbmFuY2llcmElMjB5JTIwRGlyZWN0aXZhfGVufDB8fHx8MTc1NTU5MDY0MHww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Ivan Shilov",
+    "Link": "https://unsplash.com/@mycreate",
+    "ImagenID": "",
+    "Director": "MONTOYA DEL CORTE, JAVIER / PALAZUELOS COBO, ESTEFANIA",
+    "Creditos": 48,
+    "Horas": 1200,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-11-05T23:00:00.000Z",
+    "FechaFin": "2026-07-30T22:00:00.000Z",
+    "Precio": 2995,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "42-MC3-016 (1)",
+    "Nombre": "Máster de Formación Permanente en Contabilidad Avanzada",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1574884280706-7342ca3d4231?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBDb250YWJpbGlkYWQlMjBBdmFuemFkYXxlbnwwfHx8fDE3NTU1OTA2NDF8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Ivan Shilov",
+    "Link": "https://unsplash.com/@mycreate",
+    "ImagenID": "",
+    "Director": "MONTOYA DEL CORTE, JAVIER / PALAZUELOS COBO, ESTEFANIA",
+    "Creditos": 60,
+    "Horas": 1500,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-11-05T23:00:00.000Z",
+    "FechaFin": "2026-07-30T22:00:00.000Z",
+    "Precio": 3995,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "42-MC3-017 (1)",
+    "Nombre": "Diploma Universitario de Experto en Derecho Sanitario",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1659353888352-5dbb14b80eca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwRGVyZWNobyUyMFNhbml0YXJpb3xlbnwwfHx8fDE3NTU1OTA2NDN8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Fotos",
+    "Link": "https://unsplash.com/@fotospk",
+    "ImagenID": "",
+    "Director": "CANTARERO PRIETO, DAVID / CAYON DE LAS CUEVAS, JOAQUIN",
+    "Creditos": 6,
+    "Horas": 150,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-11-07T23:00:00.000Z",
+    "FechaFin": "2025-12-12T23:00:00.000Z",
+    "Precio": 290,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "43-EX3-007 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Básica en Buques Petroleros, Quimiqueros y Gaseros",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1729413077285-22db5757148d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBBY3R1YWxpemFjaSVDMyVCM24lMjBGb3JtYWNpJUMzJUIzbiUyMEIlQzMlQTFzaWNhJTIwQnVxdWVzJTIwUGV0cm9sZXJvcyUyQyUyMFF1aW1pcXVlcm9zJTIweSUyMEdhc2Vyb3N8ZW58MHx8fHwxNzU1NTkwNjQ0fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Buddy AN",
+    "Link": "https://unsplash.com/@stbuddyp",
+    "ImagenID": "",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 1,
+    "Horas": 25,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-11-09T23:00:00.000Z",
+    "FechaFin": "2025-11-09T23:00:00.000Z",
+    "Precio": 75,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "43-EX3-008 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Petroleros",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1706929794429-5ddf4c9d7ea9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBBY3R1YWxpemFjaSVDMyVCM24lMjBGb3JtYWNpJUMzJUIzbiUyMEF2YW56YWRhJTIwQnVxdWVzJTIwUGV0cm9sZXJvc3xlbnwwfHx8fDE3NTU1OTA2NDV8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Franklin Canelon",
+    "Link": "https://unsplash.com/@franklincanelon",
+    "ImagenID": "",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 1,
+    "Horas": 25,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-11-10T23:00:00.000Z",
+    "FechaFin": "2025-11-10T23:00:00.000Z",
+    "Precio": 60,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "43-MA3-009 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Gaseros",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1660829351728-bb9060f69e38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBBY3R1YWxpemFjaSVDMyVCM24lMjBGb3JtYWNpJUMzJUIzbiUyMEF2YW56YWRhJTIwQnVxdWVzJTIwR2FzZXJvc3xlbnwwfHx8fDE3NTU1OTA2NDd8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Masood Aslami",
+    "Link": "https://unsplash.com/@masoodaslami",
+    "ImagenID": "",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 1,
+    "Horas": 25,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-11-11T23:00:00.000Z",
+    "FechaFin": "2025-11-11T23:00:00.000Z",
+    "Precio": 60,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "45-FC3-017 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Quimiqueros",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1732279640256-41456859bad0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBBY3R1YWxpemFjaSVDMyVCM24lMjBGb3JtYWNpJUMzJUIzbiUyMEF2YW56YWRhJTIwQnVxdWVzJTIwUXVpbWlxdWVyb3N8ZW58MHx8fHwxNzU1NTkwNjQ4fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Khristina Sergeychik",
+    "Link": "https://unsplash.com/@khris_serg",
+    "ImagenID": "",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 1,
+    "Horas": 25,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-11-12T23:00:00.000Z",
+    "FechaFin": "2025-11-12T23:00:00.000Z",
+    "Precio": 60,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "45-FC3-017 (2)",
+    "Nombre": "Curso Universitario de Formación Permanente Actualización de Buques de Pasaje",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1631093766034-8b998b7e25c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBBY3R1YWxpemFjaSVDMyVCM24lMjBCdXF1ZXMlMjBQYXNhamV8ZW58MHx8fHwxNzU1NTkwNjUwfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Siarhei Palishchuk",
+    "Link": "https://unsplash.com/@smeshny",
+    "ImagenID": "",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 1,
+    "Horas": 25,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-11-13T23:00:00.000Z",
+    "FechaFin": "2025-11-13T23:00:00.000Z",
+    "Precio": 60,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "45-FC3-017 (3)",
+    "Nombre": "Curso Universitario de Formación Permanente en Radar de Punteo Automático (ARPA)",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1707357028909-401408eff210?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBSYWRhciUyMFB1bnRlbyUyMEF1dG9tJUMzJUExdGljbyUyMCUyOEFSUEElMjl8ZW58MHx8fHwxNzU1NTkwNjUxfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Ari Nuraya",
+    "Link": "https://unsplash.com/@arinuraya",
+    "ImagenID": "",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 3,
+    "Horas": 75,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2025-11-23T23:00:00.000Z",
+    "FechaFin": "2025-11-27T23:00:00.000Z",
+    "Precio": 394,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "45-FC3-018 (1)",
+    "Nombre": "Diploma Universitario de Experto en Especialista en Productos de Crédito Inmobiliario",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1724482606633-fa74fe4f5de1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwRXNwZWNpYWxpc3RhJTIwUHJvZHVjdG9zJTIwQ3IlQzMlQTlkaXRvJTIwSW5tb2JpbGlhcmlvfGVufDB8fHx8MTc1NTU5MDY1M3ww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Jakub Żerdzicki",
+    "Link": "https://unsplash.com/@jakubzerdzicki",
+    "ImagenID": "",
+    "Director": "DIAZ DIAZ, BELEN / TORRE OLMO, MARIA BEGOÑA",
+    "Creditos": 5,
+    "Horas": 125,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-01-01T23:00:00.000Z",
+    "FechaFin": "2026-12-30T23:00:00.000Z",
+    "Precio": 150,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "45-FC3-019 (1)",
+    "Nombre": "Diploma Universitario de Experto en Gestión de Contratación, Recursos Humanos, Presupuestos y Procedimientos Administrativos",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1640323240640-ee731d18dcb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwR2VzdGklQzMlQjNuJTIwQ29udHJhdGFjaSVDMyVCM24lMkMlMjBSZWN1cnNvcyUyMEh1bWFub3MlMkMlMjBQcmVzdXB1ZXN0b3MlMjB5JTIwUHJvY2VkaW1pZW50b3MlMjBBZG1pbmlzdHJhdGl2b3N8ZW58MHx8fHwxNzU1NTkwNjU1fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "collier finance",
+    "Link": "https://unsplash.com/@collierfinance",
+    "ImagenID": "",
+    "Director": "CANTARERO PRIETO, DAVID / CAYON DE LAS CUEVAS, JOAQUIN",
+    "Creditos": 6,
+    "Horas": 150,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-01-08T23:00:00.000Z",
+    "FechaFin": "2026-02-06T23:00:00.000Z",
+    "Precio": 290,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "45-FC3-019 (2)",
+    "Nombre": "Microcredencial Universitaria en Derecho de Familia Internacional (Híbrido)",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1752697589018-64fc6b19cc9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwRGVyZWNobyUyMEZhbWlsaWElMjBJbnRlcm5hY2lvbmFsJTIwJTI4SCVDMyVBRGJyaWRvJTI5fGVufDB8fHx8MTc1NTU5MDY1Nnww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Krists Luhaers",
+    "Link": "https://unsplash.com/@kristsll",
+    "ImagenID": "",
+    "Director": "HERNANDEZ RODRIGUEZ, AURORA / TAMAYO HAYA, SILVIA",
+    "Creditos": 3,
+    "Horas": 75,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-01-08T23:00:00.000Z",
+    "FechaFin": "2026-01-29T23:00:00.000Z",
+    "Precio": 200,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "I"
+  },
+  {
+    "Código": "45-FC3-020 (1)",
+    "Nombre": "Microcredencial Universitaria en Derecho de Familia Internacional (Virtual)",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1567852701065-b2991a38e34c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwRGVyZWNobyUyMEZhbWlsaWElMjBJbnRlcm5hY2lvbmFsJTIwJTI4VmlydHVhbCUyOXxlbnwwfHx8fDE3NTU1OTA2NTd8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Eriksson Luo",
+    "Link": "https://unsplash.com/@newdawn",
+    "ImagenID": "",
+    "Director": "HERNANDEZ RODRIGUEZ, AURORA / TAMAYO HAYA, SILVIA",
+    "Creditos": 3,
+    "Horas": 75,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-01-08T23:00:00.000Z",
+    "FechaFin": "2026-01-29T23:00:00.000Z",
+    "Precio": 200,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "W"
+  },
+  {
+    "Código": "45-FC3-020 (2)",
+    "Nombre": "Microcredencial Universitaria en EW Actividades Prácticas II",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1716337563200-67992e14a5d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwRVclMjBBY3RpdmlkYWRlcyUyMFByJUMzJUExY3RpY2FzJTIwSUl8ZW58MHx8fHwxNzU1NTkwNjU5fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Sam Jotham Sutharson",
+    "Link": "https://unsplash.com/@jothamsutharson",
+    "ImagenID": "",
+    "Director": "HERRERA GUARDADO, AMPARO",
+    "Creditos": 4,
+    "Horas": 100,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-01-18T23:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 400,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "45-FC3-020 (3)",
+    "Nombre": "Microcredencial Universitaria en EW Radar",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1650359042621-c5b7f6dc53fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwRVclMjBSYWRhcnxlbnwwfHx8fDE3NTU1OTA2NjB8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "/ Ricardo",
+    "Link": "https://unsplash.com/@whitehost",
+    "ImagenID": "",
+    "Director": "HERRERA GUARDADO, AMPARO",
+    "Creditos": 6,
+    "Horas": 150,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-01-18T23:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 600,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "45-FC3-021 (1)",
+    "Nombre": "Microcredencial Universitaria en EW Electroópticas",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1683363520390-bbe428d9be58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwRVclMjBFbGVjdHJvJUMzJUIzcHRpY2FzfGVufDB8fHx8MTc1NTU5MDY2Mnww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Marija Zaric",
+    "Link": "https://unsplash.com/@simplicity",
+    "ImagenID": "",
+    "Director": "HERRERA GUARDADO, AMPARO",
+    "Creditos": 4,
+    "Horas": 100,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-01-18T23:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 450,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "45-FC3-021 (2)",
+    "Nombre": "Microcredencial Universitaria en EW Comunicaciones",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1731213562305-0152c6946bdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwRVclMjBDb211bmljYWNpb25lc3xlbnwwfHx8fDE3NTU1OTA2NjN8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Leiada Krözjhen",
+    "Link": "https://unsplash.com/@leiadakrozjhen",
+    "ImagenID": "",
+    "Director": "HERRERA GUARDADO, AMPARO",
+    "Creditos": 6,
+    "Horas": 150,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-01-18T23:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 600,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "45-FC3-021 (3)",
+    "Nombre": "Diploma Universitario de Experto en Diseño y Validación de Nuevos Modelos de Negocio",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1590103514226-48facf4657fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwRGlzZSVDMyVCMW8lMjB5JTIwVmFsaWRhY2klQzMlQjNuJTIwTnVldm9zJTIwTW9kZWxvcyUyME5lZ29jaW98ZW58MHx8fHwxNzU1NTkwNjY1fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Slidebean",
+    "Link": "https://unsplash.com/@slidebean",
+    "ImagenID": "",
+    "Director": "TORRE OLMO, MARIA BEGOÑA / GUTIERREZ-SOLANA SALCEDO, FEDERICO",
+    "Creditos": 22,
+    "Horas": 550,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-01-26T23:00:00.000Z",
+    "FechaFin": "2026-05-21T22:00:00.000Z",
+    "Precio": 600,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "45-FC3-022 (1)",
+    "Nombre": "Diploma Universitario de Especialización en Derecho de Menores (Híbrido)",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1528747008803-f9f5cc8f1a64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFc3BlY2lhbGl6YWNpJUMzJUIzbiUyMERlcmVjaG8lMjBNZW5vcmVzJTIwJTI4SCVDMyVBRGJyaWRvJTI5fGVufDB8fHx8MTc1NTU5MDY2Nnww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Melinda Gimpel",
+    "Link": "https://unsplash.com/@melindagimpel",
+    "ImagenID": "",
+    "Director": "TAMAYO HAYA, SILVIA",
+    "Creditos": 30,
+    "Horas": 750,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-01-30T23:00:00.000Z",
+    "FechaFin": "2026-05-29T22:00:00.000Z",
+    "Precio": 1175,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "I"
+  },
+  {
+    "Código": "45-FC3-022 (2)",
+    "Nombre": "Diploma Universitario de Especialización en Derecho de Menores (Virtual)",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1695649383193-b55adef4e60e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFc3BlY2lhbGl6YWNpJUMzJUIzbiUyMERlcmVjaG8lMjBNZW5vcmVzJTIwJTI4VmlydHVhbCUyOXxlbnwwfHx8fDE3NTU1OTA2Njd8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Markus Winkler",
+    "Link": "https://unsplash.com/@markuswinkler",
+    "ImagenID": "",
+    "Director": "TAMAYO HAYA, SILVIA",
+    "Creditos": 30,
+    "Horas": 750,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-01-30T23:00:00.000Z",
+    "FechaFin": "2026-05-29T22:00:00.000Z",
+    "Precio": 1175,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "W"
+  },
+  {
+    "Código": "45-FC3-022 (3)",
+    "Nombre": "Microcredencial Universitaria en Violencia Doméstica y de Género (Híbrido)",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1745005394951-222e7de4570f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwVmlvbGVuY2lhJTIwRG9tJUMzJUE5c3RpY2ElMjB5JTIwRyVDMyVBOW5lcm8lMjAlMjhIJUMzJUFEYnJpZG8lMjl8ZW58MHx8fHwxNzU1NTkwNjY5fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "luca romano",
+    "Link": "https://unsplash.com/@lucaakalu",
+    "ImagenID": "",
+    "Director": "TAMAYO HAYA, SILVIA",
+    "Creditos": 4,
+    "Horas": 100,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-01-30T23:00:00.000Z",
+    "FechaFin": "2026-02-26T23:00:00.000Z",
+    "Precio": 300,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "I"
+  },
+  {
+    "Código": "45-FC3-023 (1)",
+    "Nombre": "Microcredencial Universitaria en Violencia Doméstica y de Género (Virtual)",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1635142044502-c72e5df7088b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwVmlvbGVuY2lhJTIwRG9tJUMzJUE5c3RpY2ElMjB5JTIwRyVDMyVBOW5lcm8lMjAlMjhWaXJ0dWFsJTI5fGVufDB8fHx8MTc1NTU5MDY3MHww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Kogulanath Ayappan",
+    "Link": "https://unsplash.com/@kogulan_photography",
+    "ImagenID": "",
+    "Director": "TAMAYO HAYA, SILVIA",
+    "Creditos": 4,
+    "Horas": 100,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-01-30T23:00:00.000Z",
+    "FechaFin": "2026-02-26T23:00:00.000Z",
+    "Precio": 300,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "W"
+  },
+  {
+    "Código": "45-FC3-023 (2)",
+    "Nombre": "Microcredencial Universitaria en Diseño de Sistemas Integrados Heterogéneos",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1664526937033-fe2c11f1be25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwRGlzZSVDMyVCMW8lMjBTaXN0ZW1hcyUyMEludGVncmFkb3MlMjBIZXRlcm9nJUMzJUE5bmVvc3xlbnwwfHx8fDE3NTU1OTA2NzJ8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "GuerrillaBuzz",
+    "Link": "https://unsplash.com/@guerrillabuzz",
+    "ImagenID": "",
+    "Director": "VILLAR BONET, EUGENIO",
+    "Creditos": 6,
+    "Horas": 150,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-01-31T23:00:00.000Z",
+    "FechaFin": "2026-07-30T22:00:00.000Z",
+    "Precio": 500,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "I"
+  },
+  {
+    "Código": "45-FC3-023 (3)",
+    "Nombre": "Microcredencial Universitaria en MMIC: Diseño, Montaje y Medida",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1724638197367-1bab34842f90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwTU1JQyUzQSUyMERpc2UlQzMlQjFvJTJDJTIwTW9udGFqZSUyMHklMjBNZWRpZGF8ZW58MHx8fHwxNzU1NTkwNjczfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Declan Sun",
+    "Link": "https://unsplash.com/@declansun",
+    "ImagenID": "",
+    "Director": "VILLAR BONET, EUGENIO",
+    "Creditos": 6,
+    "Horas": 150,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-01-31T23:00:00.000Z",
+    "FechaFin": "2026-06-29T22:00:00.000Z",
+    "Precio": 500,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "I"
+  },
+  {
+    "Código": "45-FC3-024 (1)",
+    "Nombre": "Microcredencial Universitaria en Diseño y Verificación de Sistemas Digitales Integrados",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1723746571161-e45723f5db33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwRGlzZSVDMyVCMW8lMjB5JTIwVmVyaWZpY2FjaSVDMyVCM24lMjBTaXN0ZW1hcyUyMERpZ2l0YWxlcyUyMEludGVncmFkb3N8ZW58MHx8fHwxNzU1NTkwNjc0fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Sichen Xiang",
+    "Link": "https://unsplash.com/@imseason",
+    "ImagenID": "",
+    "Director": "VILLAR BONET, EUGENIO",
+    "Creditos": 6,
+    "Horas": 150,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-01-31T23:00:00.000Z",
+    "FechaFin": "2026-07-30T22:00:00.000Z",
+    "Precio": 500,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "I"
+  },
+  {
+    "Código": "45-FC3-024 (2)",
+    "Nombre": "Microcredencial Universitaria en Plataformas Abiertas RISC-V Configurables",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1715146303942-28b6f1cf03de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwUGxhdGFmb3JtYXMlMjBBYmllcnRhcyUyMFJJU0MtViUyMENvbmZpZ3VyYWJsZXN8ZW58MHx8fHwxNzU1NTkwNjc2fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Austin",
+    "Link": "https://unsplash.com/@austin_7792",
+    "ImagenID": "",
+    "Director": "VILLAR BONET, EUGENIO",
+    "Creditos": 6,
+    "Horas": 150,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-01-31T23:00:00.000Z",
+    "FechaFin": "2026-07-30T22:00:00.000Z",
+    "Precio": 500,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "45-FC3-024 (3)",
+    "Nombre": "Microcredencial Universitaria en Autismo y Enseñanza de las Matemáticas en Educación Primaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1581089778245-3ce67677f718?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwQXV0aXNtbyUyMHklMjBFbnNlJUMzJUIxYW56YSUyMGxhcyUyME1hdGVtJUMzJUExdGljYXMlMjBFZHVjYWNpJUMzJUIzbiUyMFByaW1hcmlhfGVufDB8fHx8MTc1NTU5MDY3OHww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "ThisisEngineering",
+    "Link": "https://unsplash.com/@thisisengineering",
+    "ImagenID": "",
+    "Director": "POLO BLANCO, IRENE / GONZALEZ LOPEZ, MARIA JOSE",
+    "Creditos": 3,
+    "Horas": 75,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-02-01T23:00:00.000Z",
+    "FechaFin": "2026-05-03T22:00:00.000Z",
+    "Precio": 300,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "45-MC3-028 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente en Sistema de Información y Visualización de Cartas Electrónicas (SIVCE/ECDIS)",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1717501219345-06ea2bf3eb80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBTaXN0ZW1hJTIwSW5mb3JtYWNpJUMzJUIzbiUyMHklMjBWaXN1YWxpemFjaSVDMyVCM24lMjBDYXJ0YXMlMjBFbGVjdHIlQzMlQjNuaWNhcyUyMCUyOFNJVkNFJTJGRUNESVMlMjl8ZW58MHx8fHwxNzU1NTkwNjc5fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Google DeepMind",
+    "Link": "https://unsplash.com/@googledeepmind",
+    "ImagenID": "",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 4,
+    "Horas": 100,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-02-01T23:00:00.000Z",
+    "FechaFin": "2026-02-05T23:00:00.000Z",
+    "Precio": 526,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "50-MC3-001 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Básica en Buques Petroleros, Quimiqueros y Gaseros",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1729413077285-22db5757148d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBBY3R1YWxpemFjaSVDMyVCM24lMjBGb3JtYWNpJUMzJUIzbiUyMEIlQzMlQTFzaWNhJTIwQnVxdWVzJTIwUGV0cm9sZXJvcyUyQyUyMFF1aW1pcXVlcm9zJTIweSUyMEdhc2Vyb3N8ZW58MHx8fHwxNzU1NTk3OTYxfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Buddy AN",
+    "Link": "https://unsplash.com/@stbuddyp",
+    "ImagenID": "ttJrH2O_fBg",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 1,
+    "Horas": 25,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-02-01T23:00:00.000Z",
+    "FechaFin": "2026-02-01T23:00:00.000Z",
+    "Precio": 75,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "50-MC3-003 (1)",
+    "Nombre": "Microcredencial Universitaria en Metodologías de Investigación en Ciencias Empresariales",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1653038417404-1ae1f38c373e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwTWV0b2RvbG9nJUMzJUFEYXMlMjBJbnZlc3RpZ2FjaSVDMyVCM24lMjBDaWVuY2lhcyUyMEVtcHJlc2FyaWFsZXN8ZW58MHx8fHwxNzU1NTkwNjgyfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Markus Winkler",
+    "Link": "https://unsplash.com/@markuswinkler",
+    "ImagenID": "",
+    "Director": "LOPEZ GUTIERREZ, CARLOS / PEREZ RUIZ, ANDREA",
+    "Creditos": 3,
+    "Horas": 75,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-02-01T23:00:00.000Z",
+    "FechaFin": "2026-05-28T22:00:00.000Z",
+    "Precio": 350,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "W"
+  },
+  {
+    "Código": "50-MC3-004 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Petroleros",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1706929794429-5ddf4c9d7ea9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBBY3R1YWxpemFjaSVDMyVCM24lMjBGb3JtYWNpJUMzJUIzbiUyMEF2YW56YWRhJTIwQnVxdWVzJTIwUGV0cm9sZXJvc3xlbnwwfHx8fDE3NTU1OTc5NjJ8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Franklin Canelon",
+    "Link": "https://unsplash.com/@franklincanelon",
+    "ImagenID": "066VSp2Y5cs",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 1,
+    "Horas": 25,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-02-02T23:00:00.000Z",
+    "FechaFin": "2026-02-02T23:00:00.000Z",
+    "Precio": 60,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "57-EX3-004 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Gaseros",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1660829351728-bb9060f69e38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBBY3R1YWxpemFjaSVDMyVCM24lMjBGb3JtYWNpJUMzJUIzbiUyMEF2YW56YWRhJTIwQnVxdWVzJTIwR2FzZXJvc3xlbnwwfHx8fDE3NTU1OTc5NjN8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Masood Aslami",
+    "Link": "https://unsplash.com/@masoodaslami",
+    "ImagenID": "MwxIJHQe-Bo",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 1,
+    "Horas": 25,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-02-03T23:00:00.000Z",
+    "FechaFin": "2026-02-03T23:00:00.000Z",
+    "Precio": 60,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "57-EX3-007 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Quimiqueros",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1732279640256-41456859bad0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBBY3R1YWxpemFjaSVDMyVCM24lMjBGb3JtYWNpJUMzJUIzbiUyMEF2YW56YWRhJTIwQnVxdWVzJTIwUXVpbWlxdWVyb3N8ZW58MHx8fHwxNzU1NTk3OTY1fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Khristina Sergeychik",
+    "Link": "https://unsplash.com/@khris_serg",
+    "ImagenID": "8Kj4AjZZM5U",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 1,
+    "Horas": 25,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-02-04T23:00:00.000Z",
+    "FechaFin": "2026-02-04T23:00:00.000Z",
+    "Precio": 60,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "57-EX3-009 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente Actualización de Buques de Pasaje",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1631093766034-8b998b7e25c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBBY3R1YWxpemFjaSVDMyVCM24lMjBCdXF1ZXMlMjBQYXNhamV8ZW58MHx8fHwxNzU1NTk3OTY2fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Siarhei Palishchuk",
+    "Link": "https://unsplash.com/@smeshny",
+    "ImagenID": "YJs7Mp_ow1Y",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 1,
+    "Horas": 25,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-02-05T23:00:00.000Z",
+    "FechaFin": "2026-02-05T23:00:00.000Z",
+    "Precio": 60,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "57-EX3-010 (1)",
+    "Nombre": "Diploma Universitario de Experto en Gestión de la Investigación en Salud. Salud Pública",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1636249253913-40e83d5423e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwR2VzdGklQzMlQjNuJTIwbGElMjBJbnZlc3RpZ2FjaSVDMyVCM24lMjBTYWx1ZC4lMjBTYWx1ZCUyMFAlQzMlQkFibGljYXxlbnwwfHx8fDE3NTU1OTA2ODh8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Greg Rosenke",
+    "Link": "https://unsplash.com/@greg_rosenke",
+    "ImagenID": "",
+    "Director": "CANTARERO PRIETO, DAVID / CAYON DE LAS CUEVAS, JOAQUIN",
+    "Creditos": 6.5,
+    "Horas": 162.5,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-02-12T23:00:00.000Z",
+    "FechaFin": "2026-03-12T23:00:00.000Z",
+    "Precio": 314,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "57-FC3-018 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente Tecnología de Instalaciones y Cerramientos de Edificación",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1616945332389-d465db2e64d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBUZWNub2xvZyVDMyVBRGElMjBJbnN0YWxhY2lvbmVzJTIweSUyMENlcnJhbWllbnRvcyUyMEVkaWZpY2FjaSVDMyVCM258ZW58MHx8fHwxNzU1NTkwNjg5fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Siarhei Plashchynski",
+    "Link": "https://unsplash.com/@s_plashchynski",
+    "ImagenID": "",
+    "Director": "LOMBILLO VOZMEDIANO, IGNACIO",
+    "Creditos": 7,
+    "Horas": 175,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-02-16T23:00:00.000Z",
+    "FechaFin": "2026-06-01T22:00:00.000Z",
+    "Precio": 1000,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "57-MA3-001 (1)",
+    "Nombre": "Diploma Universitario de Experto en Energías Renovables",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1689273589877-2ae23a0ddbab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwRW5lcmclQzMlQURhcyUyMFJlbm92YWJsZXN8ZW58MHx8fHwxNzU1NTkwNjkxfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Calin Razvan Fotograf",
+    "Link": "https://unsplash.com/@calinrazvanfotograf",
+    "ImagenID": "",
+    "Director": "CASTRO ALONSO, PABLO BERNARDO",
+    "Creditos": 27,
+    "Horas": 675,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-02-16T23:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 1800,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "N"
+  },
+  {
+    "Código": "57-MA3-002 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente Patología y Rehabilitación de la Edificación",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1683990525963-a77103e95e31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBQYXRvbG9nJUMzJUFEYSUyMHklMjBSZWhhYmlsaXRhY2klQzMlQjNuJTIwbGElMjBFZGlmaWNhY2klQzMlQjNufGVufDB8fHx8MTc1NTU5MDY5M3ww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Daniel Adesina",
+    "Link": "https://unsplash.com/@exileartisan",
+    "ImagenID": "",
+    "Director": "LOMBILLO VOZMEDIANO, IGNACIO",
+    "Creditos": 7,
+    "Horas": 175,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-02-17T23:00:00.000Z",
+    "FechaFin": "2026-06-02T22:00:00.000Z",
+    "Precio": 1000,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "57-MA3-008 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente Gestión Empresarial, Emprendimiento e Internacionalización",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1565688527174-775059ac429c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBHZXN0aSVDMyVCM24lMjBFbXByZXNhcmlhbCUyQyUyMEVtcHJlbmRpbWllbnRvJTIwZSUyMEludGVybmFjaW9uYWxpemFjaSVDMyVCM258ZW58MHx8fHwxNzU1NTkwNjk0fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Van Tay Media",
+    "Link": "https://unsplash.com/@vantaymedia",
+    "ImagenID": "",
+    "Director": "LOMBILLO VOZMEDIANO, IGNACIO",
+    "Creditos": 7,
+    "Horas": 175,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-02-18T23:00:00.000Z",
+    "FechaFin": "2026-06-03T22:00:00.000Z",
+    "Precio": 1000,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "57-MC3-011 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente Renovación de Tarjetas Profesionales de la Marina Mercante",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1566995956590-7731f4b389ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBSZW5vdmFjaSVDMyVCM24lMjBUYXJqZXRhcyUyMFByb2Zlc2lvbmFsZXMlMjBsYSUyME1hcmluYSUyME1lcmNhbnRlfGVufDB8fHx8MTc1NTU5Nzk2OHww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "NOAA",
+    "Link": "https://unsplash.com/@noaa",
+    "ImagenID": "6dOcc3ewUwE",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 3,
+    "Horas": 75,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-02-22T23:00:00.000Z",
+    "FechaFin": "2026-03-05T23:00:00.000Z",
+    "Precio": 240,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "A"
+  },
+  {
+    "Código": "57-MC3-013 (1)",
+    "Nombre": "Microcredencial Universitaria en Descarbonización, Economía Circular e Hidrógeno",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1735048825696-f3990bd6a55e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwRGVzY2FyYm9uaXphY2klQzMlQjNuJTJDJTIwRWNvbm9tJUMzJUFEYSUyMENpcmN1bGFyJTIwZSUyMEhpZHIlQzMlQjNnZW5vfGVufDB8fHx8MTc1NTU5MDY5OHww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Douglas Schneiders",
+    "Link": "https://unsplash.com/@dougschneiders",
+    "ImagenID": "",
+    "Director": "DIAZ SAINZ, GUILLERMO / GOMEZ COMA, LUCIA",
+    "Creditos": 6,
+    "Horas": 150,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-02-28T23:00:00.000Z",
+    "FechaFin": "2026-05-30T22:00:00.000Z",
+    "Precio": 500,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "99-EX3-014 (3)",
+    "Nombre": "Diploma Universitario de Experto en Dirección de Personal en Hoteles y Empresas Turísticas",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1695806109708-f5d5a2da99bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwRGlyZWNjaSVDMyVCM24lMjBQZXJzb25hbCUyMEhvdGVsZXMlMjB5JTIwRW1wcmVzYXMlMjBUdXIlQzMlQURzdGljYXN8ZW58MHx8fHwxNzU1NTkwNjk5fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Markus Winkler",
+    "Link": "https://unsplash.com/@markuswinkler",
+    "ImagenID": "",
+    "Director": "SOLANA GONZALEZ, PEDRO",
+    "Creditos": 4,
+    "Horas": 100,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-03-03T23:00:00.000Z",
+    "FechaFin": "2026-04-21T22:00:00.000Z",
+    "Precio": 140,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "V"
+  },
+  {
+    "Código": "99-EX3-017 (3)",
+    "Nombre": "Diploma Universitario de Especialización en Gestión y Dirección de Servicios Sanitarios",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1691934286085-c88039d93dae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFc3BlY2lhbGl6YWNpJUMzJUIzbiUyMEdlc3RpJUMzJUIzbiUyMHklMjBEaXJlY2NpJUMzJUIzbiUyMFNlcnZpY2lvcyUyMFNhbml0YXJpb3N8ZW58MHx8fHwxNzU1NTkwNzAwfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Elen Sher",
+    "Link": "https://unsplash.com/@lenochka210292",
+    "ImagenID": "",
+    "Director": "CANTARERO PRIETO, DAVID / CAYON DE LAS CUEVAS, JOAQUIN",
+    "Creditos": 30,
+    "Horas": 750,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-03-13T23:00:00.000Z",
+    "FechaFin": "2026-06-29T22:00:00.000Z",
+    "Precio": 1450,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "99-EX3-022 (1)",
+    "Nombre": "Diploma Universitario de Experto en Gestión Farmacéutica y Relaciones con los Usuarios. Ordenación, Planificación e Inspección",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1734821302069-6d8e69678233?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwR2VzdGklQzMlQjNuJTIwRmFybWFjJUMzJUE5dXRpY2ElMjB5JTIwUmVsYWNpb25lcyUyMGNvbiUyMGxvcyUyMFVzdWFyaW9zLiUyME9yZGVuYWNpJUMzJUIzbiUyQyUyMFBsYW5pZmljYWNpJUMzJUIzbiUyMGUlMjBJbnNwZWNjaSVDMyVCM258ZW58MHx8fHwxNzU1NTkwNzAzfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Hananeh Reisi",
+    "Link": "https://unsplash.com/@hananehreisi",
+    "ImagenID": "",
+    "Director": "CANTARERO PRIETO, DAVID / CAYON DE LAS CUEVAS, JOAQUIN",
+    "Creditos": 5.5,
+    "Horas": 137.5,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-03-13T23:00:00.000Z",
+    "FechaFin": "2026-03-27T23:00:00.000Z",
+    "Precio": 266,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "99-MA3-021 (1)",
+    "Nombre": "Diploma Universitario de Experto en Gestión de la Provisión de Servicios Sanitarios (I)",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1730987780632-c7af97075279?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwR2VzdGklQzMlQjNuJTIwbGElMjBQcm92aXNpJUMzJUIzbiUyMFNlcnZpY2lvcyUyMFNhbml0YXJpb3MlMjAlMjhJJTI5fGVufDB8fHx8MTc1NTU5MDcwNHww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Christian Hergesell",
+    "Link": "https://unsplash.com/@chris_worldonabudget",
+    "ImagenID": "",
+    "Director": "CANTARERO PRIETO, DAVID / CAYON DE LAS CUEVAS, JOAQUIN",
+    "Creditos": 6,
+    "Horas": 150,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-04-23T22:00:00.000Z",
+    "FechaFin": "2026-05-22T22:00:00.000Z",
+    "Precio": 290,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "99-MC3-023 (1)",
+    "Nombre": "Curso Universitario de Formación Permanente Renovación de Tarjetas Profesionales de la Marina Mercante",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1749815059175-471d2b59e771?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwyfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBSZW5vdmFjaSVDMyVCM24lMjBUYXJqZXRhcyUyMFByb2Zlc2lvbmFsZXMlMjBsYSUyME1hcmluYSUyME1lcmNhbnRlfGVufDB8fHx8MTc1NTU5Nzk2OHww&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Ronin",
+    "Link": "https://unsplash.com/@roninkgd",
+    "ImagenID": "WiMHNQv3E0I",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 3,
+    "Horas": 75,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-05-10T22:00:00.000Z",
+    "FechaFin": "2026-05-21T22:00:00.000Z",
+    "Precio": 240,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "A"
+  },
+  {
+    "Código": "",
+    "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Básica en Buques Petroleros, Quimiqueros y Gaseros",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1660456160636-2659dcb3be80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwyfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBBY3R1YWxpemFjaSVDMyVCM24lMjBGb3JtYWNpJUMzJUIzbiUyMEIlQzMlQTFzaWNhJTIwQnVxdWVzJTIwUGV0cm9sZXJvcyUyQyUyMFF1aW1pcXVlcm9zJTIweSUyMEdhc2Vyb3N8ZW58MHx8fHwxNzU1NTk3OTYxfDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Dongsh",
+    "Link": "https://unsplash.com/@dongsh",
+    "ImagenID": "ihGREuhKLXk",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 1,
+    "Horas": 25,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-05-10T22:00:00.000Z",
+    "FechaFin": "2026-05-10T22:00:00.000Z",
+    "Precio": 75,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "",
+    "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Petroleros",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1720074810730-8e2bb77497e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwyfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBBY3R1YWxpemFjaSVDMyVCM24lMjBGb3JtYWNpJUMzJUIzbiUyMEF2YW56YWRhJTIwQnVxdWVzJTIwUGV0cm9sZXJvc3xlbnwwfHx8fDE3NTU1OTc5NjJ8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Brian Zhu",
+    "Link": "https://unsplash.com/@dogrod",
+    "ImagenID": "1fdnNlWcoPY",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 1,
+    "Horas": 25,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-05-11T22:00:00.000Z",
+    "FechaFin": "2026-05-11T22:00:00.000Z",
+    "Precio": 60,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "",
+    "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Gaseros",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1628426117139-49e3ac1a95a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwyfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBBY3R1YWxpemFjaSVDMyVCM24lMjBGb3JtYWNpJUMzJUIzbiUyMEF2YW56YWRhJTIwQnVxdWVzJTIwR2FzZXJvc3xlbnwwfHx8fDE3NTU1OTc5NjN8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Georg Eiermann",
+    "Link": "https://unsplash.com/@georgeiermann",
+    "ImagenID": "ncgyJr5Emns",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 1,
+    "Horas": 25,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-05-12T22:00:00.000Z",
+    "FechaFin": "2026-05-12T22:00:00.000Z",
+    "Precio": 60,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "",
+    "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Quimiqueros",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1711963072148-1d28f59de756?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwyfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBBY3R1YWxpemFjaSVDMyVCM24lMjBGb3JtYWNpJUMzJUIzbiUyMEF2YW56YWRhJTIwQnVxdWVzJTIwUXVpbWlxdWVyb3N8ZW58MHx8fHwxNzU1NTk3OTY1fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Amir Mortezaie",
+    "Link": "https://unsplash.com/@gekkopower",
+    "ImagenID": "0wduGxZaSSM",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 1,
+    "Horas": 25,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-05-13T22:00:00.000Z",
+    "FechaFin": "2026-05-13T22:00:00.000Z",
+    "Precio": 60,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "",
+    "Nombre": "Curso Universitario de Formación Permanente Actualización de Buques de Pasaje",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1711284315260-f19806ac8322?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwyfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBBY3R1YWxpemFjaSVDMyVCM24lMjBCdXF1ZXMlMjBQYXNhamV8ZW58MHx8fHwxNzU1NTk3OTY2fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Alan Bowman",
+    "Link": "https://unsplash.com/@prophet2018",
+    "ImagenID": "8Q1SWkllzQ0",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 1,
+    "Horas": 25,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-05-14T22:00:00.000Z",
+    "FechaFin": "2026-05-14T22:00:00.000Z",
+    "Precio": 60,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "",
+    "Nombre": "Curso Universitario de Formación Permanente en Sistema de Información y Visualización de Cartas Electrónicas (SIVCE/ECDIS)",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1717501219345-06ea2bf3eb80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxGb3JtYWNpJUMzJUIzbiUyMFBlcm1hbmVudGUlMjBTaXN0ZW1hJTIwSW5mb3JtYWNpJUMzJUIzbiUyMHklMjBWaXN1YWxpemFjaSVDMyVCM24lMjBDYXJ0YXMlMjBFbGVjdHIlQzMlQjNuaWNhcyUyMCUyOFNJVkNFJTJGRUNESVMlMjl8ZW58MHx8fHwxNzU1NTk3OTc4fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Google DeepMind",
+    "Link": "https://unsplash.com/@googledeepmind",
+    "ImagenID": "GVGnKgEomlw",
+    "Director": "ORTEGA PIRIS, ANDRES RAFAEL",
+    "Creditos": 4,
+    "Horas": 100,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-05-24T22:00:00.000Z",
+    "FechaFin": "2026-05-28T22:00:00.000Z",
+    "Precio": 526,
+    "AutorURL": "",
+    "Modular": "N",
+    "Modalidad": "P"
+  },
+  {
+    "Código": "",
+    "Nombre": "Diploma Universitario de Experto en Gestión de la Provisión de Servicios Sanitarios (II)",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1678940805884-08edda621b42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxFeHBlcnRvJTIwR2VzdGklQzMlQjNuJTIwbGElMjBQcm92aXNpJUMzJUIzbiUyMFNlcnZpY2lvcyUyMFNhbml0YXJpb3MlMjAlMjhJSSUyOXxlbnwwfHx8fDE3NTU1OTA3MTR8MA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "Frederick Medina",
+    "Link": "https://unsplash.com/@frederickjmedina",
+    "ImagenID": "",
+    "Director": "CANTARERO PRIETO, DAVID / CAYON DE LAS CUEVAS, JOAQUIN",
+    "Creditos": 6.5,
+    "Horas": 162.5,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-05-28T22:00:00.000Z",
+    "FechaFin": "2026-06-11T22:00:00.000Z",
+    "Precio": 314,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "H"
+  },
+  {
+    "Código": "",
+    "Nombre": "Microcredencial Universitaria en EW Visión General",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
+    "Descripcion": "",
+    "DescripcionCompleta": "",
+    "ImagenURL": "https://images.unsplash.com/photo-1669508595978-9db290965da3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzk4NTl8MHwxfHNlYXJjaHwxfHxVbml2ZXJzaXRhcmlhJTIwRVclMjBWaXNpJUMzJUIzbiUyMEdlbmVyYWx8ZW58MHx8fHwxNzU1NTkwNzE2fDA&ixlib=rb-4.1.0&q=80&w=400",
+    "Autor": "David Schultz",
+    "Link": "https://unsplash.com/@davidschultz",
+    "ImagenID": "",
+    "Director": "HERRERA GUARDADO, AMPARO",
+    "Creditos": 5,
+    "Horas": 125,
+    "Horario": "",
+    "Contacto": {
+
+    },
+    "FechaInicio": "2026-09-14T22:00:00.000Z",
+    "FechaFin": "2026-09-29T22:00:00.000Z",
+    "Precio": 550,
+    "AutorURL": "",
+    "Modular": "S",
+    "Modalidad": "V"
+  }
+]
