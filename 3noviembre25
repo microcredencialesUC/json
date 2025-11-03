@@ -1146,7 +1146,7 @@
     "Precio": 3000,
     "Modular": "N",
     "Modalidad": "W",
-    "Rama": "Ingeniería y Arquitectura\r\nCiencias Sociales y Jurídicas",
+    "Rama": "Ingeniería y Arquitectura",
     "Rama 2": "Ciencias Sociales y Jurídicas"
   },
   {
@@ -1583,7 +1583,7 @@
     "Precio": 50,
     "Modular": "N",
     "Modalidad": "H",
-    "Rama": "Ciencias\r\nIngeniería y Arquitectura",
+    "Rama": "Ciencias",
     "Rama 2": "Ingeniería y Arquitectura"
   },
   {
@@ -1629,7 +1629,7 @@
     "Precio": 0,
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Ciencias\r\nIngeniería y Arquitectura",
+    "Rama": "Ciencias",
     "Rama 2": "Ingeniería y Arquitectura"
   },
   {
@@ -1698,7 +1698,7 @@
     "Precio": 3840,
     "Modular": "N",
     "Modalidad": "A",
-    "Rama": "Ingeniería y Arquitectura\r\nIngeniería y Arquitectura",
+    "Rama": "Ingeniería y Arquitectura",
     "Rama 2": "Ingeniería y Arquitectura"
   },
   {
@@ -1721,7 +1721,7 @@
     "Precio": 150,
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Ingeniería y Arquitectura\r\nCiencias Sociales y Jurídicas",
+    "Rama": "Ingeniería y Arquitectura",
     "Rama 2": "Ciencias Sociales y Jurídicas"
   },
   {
@@ -1744,7 +1744,7 @@
     "Precio": 150,
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Ingeniería y Arquitectura\r\nCiencias Sociales y Jurídicas",
+    "Rama": "Ingeniería y Arquitectura",
     "Rama 2": "Ciencias Sociales y Jurídicas"
   },
   {
@@ -1767,7 +1767,7 @@
     "Precio": 0,
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Ingeniería y Arquitectura\r\nIngeniería y Arquitectura",
+    "Rama": "Ingeniería y Arquitectura",
     "Rama 2": "Ingeniería y Arquitectura"
   },
   {
@@ -1790,7 +1790,7 @@
     "Precio": 23.85,
     "Modular": "N",
     "Modalidad": "H",
-    "Rama": "Ciencias\r\nIngeniería y Arquitectura",
+    "Rama": "Ciencias",
     "Rama 2": "Ingeniería y Arquitectura"
   },
   {
@@ -1813,7 +1813,7 @@
     "Precio": 23.85,
     "Modular": "N",
     "Modalidad": "H",
-    "Rama": "Ciencias\r\nIngeniería y Arquitectura",
+    "Rama": "Ciencias",
     "Rama 2": "Ingeniería y Arquitectura"
   },
   {
@@ -2020,7 +2020,7 @@
     "Precio": 190,
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Artes y Humanidades\r\nCiencias Sociales y Jurídicas",
+    "Rama": "Artes y Humanidades",
     "Rama 2": "Ciencias Sociales y Jurídicas"
   },
   {
@@ -2710,7 +2710,7 @@
     "Precio": 500,
     "Modular": "N",
     "Modalidad": "I",
-    "Rama": "Ingeniería y Arquitectura\r\nCiencias",
+    "Rama": "Ingeniería y Arquitectura",
     "Rama 2": "Ciencias"
   },
   {
@@ -2756,7 +2756,7 @@
     "Precio": 500,
     "Modular": "N",
     "Modalidad": "I",
-    "Rama": "Ingeniería y Arquitectura\r\nCiencias",
+    "Rama": "Ingeniería y Arquitectura",
     "Rama 2": "Ciencias"
   },
   {
@@ -2779,7 +2779,7 @@
     "Precio": 500,
     "Modular": "N",
     "Modalidad": "I",
-    "Rama": "Ingeniería y Arquitectura\r\nCiencias",
+    "Rama": "Ingeniería y Arquitectura",
     "Rama 2": "Ciencias"
   },
   {
@@ -2802,7 +2802,7 @@
     "Precio": 500,
     "Modular": "N",
     "Modalidad": "I",
-    "Rama": "Ingeniería y Arquitectura\r\nCiencias",
+    "Rama": "Ingeniería y Arquitectura",
     "Rama 2": "Ciencias"
   },
   {
@@ -2825,7 +2825,7 @@
     "Precio": 500,
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Ingeniería y Arquitectura\r\nCiencias",
+    "Rama": "Ingeniería y Arquitectura",
     "Rama 2": "Ciencias"
   },
   {
@@ -2848,7 +2848,7 @@
     "Precio": 300,
     "Modular": "N",
     "Modalidad": "A",
-    "Rama": "Ciencias\r\nIngeniería y Arquitectura",
+    "Rama": "Ciencias",
     "Rama 2": "Ingeniería y Arquitectura"
   },
   {
@@ -2871,7 +2871,7 @@
     "Precio": 375,
     "Modular": "N",
     "Modalidad": "A",
-    "Rama": "Ingeniería y Arquitectura\r\nCiencias",
+    "Rama": "Ingeniería y Arquitectura",
     "Rama 2": "Ciencias"
   },
   {
@@ -2894,7 +2894,7 @@
     "Precio": 300,
     "Modular": "N",
     "Modalidad": "A",
-    "Rama": "Ciencias\r\nIngeniería y Arquitectura",
+    "Rama": "Ciencias",
     "Rama 2": "Ingeniería y Arquitectura"
   },
   {
