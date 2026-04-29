@@ -1192,7 +1192,7 @@
     "Precio": 133.33,
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Ciencias Sociales y Jurídicas\n \n Ciencias Sociales y Jurídicas",
+    "Rama": "Ciencias Sociales y Jurídicas",
     "Rama 2": ""
   },
   {
@@ -1215,7 +1215,7 @@
     "Precio": 133.33,
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Ciencias Sociales y Jurídicas\n \n Ciencias Sociales y Jurídicas",
+    "Rama": "Ciencias Sociales y Jurídicas",
     "Rama 2": ""
   },
   {
@@ -1238,7 +1238,7 @@
     "Precio": 500,
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Ciencias Sociales y Jurídicas\n \n Ciencias Sociales y Jurídicas",
+    "Rama": "Ciencias Sociales y Jurídicas",
     "Rama 2": ""
   },
   {
@@ -1261,7 +1261,7 @@
     "Precio": 700,
     "Modular": "N",
     "Modalidad": "A",
-    "Rama": "Ciencias\n \n Ciencias",
+    "Rama": "Ciencias",
     "Rama 2": ""
   },
   {
@@ -1606,8 +1606,8 @@
     "Precio": 1175,
     "Modular": "N",
     "Modalidad": "W",
-    "Rama": "Ingeniería y Arquitectura\n \n Ciencias Sociales y Jurídicas",
-    "Rama 2": ""
+    "Rama": "Ingeniería y Arquitectura",
+    "Rama 2": "Ciencias Sociales y Jurídicas"
   },
   {
     "Código": "27-ES3-019 (1)",
@@ -2066,8 +2066,8 @@
     "Precio": 0,
     "Modular": "N",
     "Modalidad": "H",
-    "Rama": "Ciencias\n \n Ingeniería y Arquitectura",
-    "Rama 2": ""
+    "Rama": "Ciencias",
+    "Rama 2": "Ingeniería y Arquitectura"
   },
   {
     "Código": "32-MC3-010 (2)",
@@ -2112,8 +2112,8 @@
     "Precio": 0,
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Ciencias\n \n Ingeniería y Arquitectura",
-    "Rama 2": ""
+    "Rama": "Ciencias",
+    "Rama 2": "Ingeniería y Arquitectura"
   },
   {
     "Código": "32-MC3-012 (2)",
@@ -2135,8 +2135,8 @@
     "Precio": 300,
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Ciencias\n \n Ingeniería y Arquitectura",
-    "Rama 2": ""
+    "Rama": "Ciencias",
+    "Rama 2": "Ingeniería y Arquitectura"
   },
   {
     "Código": "32-MC3-016 (1)",
@@ -2273,7 +2273,7 @@
     "Precio": 150,
     "Modular": "N",
     "Modalidad": "A",
-    "Rama": "Ingeniería y Arquitectura\n \n Ingeniería y Arquitectura",
+    "Rama": "Ingeniería y Arquitectura",
     "Rama 2": ""
   },
   {
@@ -2296,8 +2296,8 @@
     "Precio": 0,
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Ingeniería y Arquitectura\n \n Ciencias Sociales y Jurídicas",
-    "Rama 2": ""
+    "Rama": "Ingeniería y Arquitectura",
+    "Rama 2": "Ciencias Sociales y Jurídicas"
   },
   {
     "Código": "35-MC3-054 (1)",
@@ -2319,8 +2319,8 @@
     "Precio": 23.85,
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Ingeniería y Arquitectura\n \n Ciencias Sociales y Jurídicas",
-    "Rama 2": ""
+    "Rama": "Ingeniería y Arquitectura",
+    "Rama 2": "Ciencias Sociales y Jurídicas"
   },
   {
     "Código": "35-MC3-059 (1)",
@@ -2342,7 +2342,7 @@
     "Precio": 23.85,
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Ingeniería y Arquitectura\n \n Ingeniería y Arquitectura",
+    "Rama": "Ingeniería y Arquitectura",
     "Rama 2": ""
   },
   {
@@ -2365,8 +2365,8 @@
     "Precio": 1750,
     "Modular": "N",
     "Modalidad": "H",
-    "Rama": "Ciencias\n \n Ingeniería y Arquitectura",
-    "Rama 2": ""
+    "Rama": "Ciencias",
+    "Rama 2": "Ingeniería y Arquitectura"
   },
   {
     "Código": "35-MC3-061 (1)",
@@ -2388,8 +2388,8 @@
     "Precio": 480,
     "Modular": "N",
     "Modalidad": "H",
-    "Rama": "Ciencias\n \n Ingeniería y Arquitectura",
-    "Rama 2": ""
+    "Rama": "Ciencias",
+    "Rama 2": "Ingeniería y Arquitectura"
   },
   {
     "Código": "35-MC3-062 (1)",
@@ -2618,8 +2618,8 @@
     "Precio": 23.82,
     "Modular": "N",
     "Modalidad": "I",
-    "Rama": "Ciencias Sociales y Jurídicas\n \n Ciencias",
-    "Rama 2": ""
+    "Rama": "Ciencias Sociales y Jurídicas",
+    "Rama 2": "Ciencias"
   },
   {
     "Código": "36-MC3-011 (1)",
@@ -2687,8 +2687,8 @@
     "Precio": 677,
     "Modular": "N",
     "Modalidad": "I",
-    "Rama": "Ciencias Sociales y Jurídicas\n \n Ingeniería y Arquitectura",
-    "Rama 2": ""
+    "Rama": "Ciencias Sociales y Jurídicas",
+    "Rama 2": "Ingeniería y Arquitectura"
   },
   {
     "Código": "41-EX3-023 (1)",
@@ -2825,8 +2825,8 @@
     "Precio": 133,
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Artes y Humanidades\n \n Ciencias Sociales y Jurídicas",
-    "Rama 2": ""
+    "Rama": "Artes y Humanidades",
+    "Rama 2": "Ciencias Sociales y Jurídicas"
   },
   {
     "Código": "41-MC3-027 (1)",
@@ -2894,8 +2894,8 @@
     "Precio": 25,
     "Modular": "N",
     "Modalidad": "W",
-    "Rama": "Ciencias Sociales y Jurídicas\n \n Artes y Humanidades",
-    "Rama 2": ""
+    "Rama": "Ciencias Sociales y Jurídicas",
+    "Rama 2": "Artes y Humanidades"
   },
   {
     "Código": "41-MC3-030 (1)",
@@ -2917,8 +2917,8 @@
     "Precio": 25,
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Ciencias Sociales y Jurídicas\n \n Artes y Humanidades",
-    "Rama 2": ""
+    "Rama": "Ciencias Sociales y Jurídicas",
+    "Rama 2": "Artes y Humanidades"
   },
   {
     "Código": "41-MC3-033 (1)",
@@ -2940,7 +2940,7 @@
     "Precio": 23.82,
     "Modular": "N",
     "Modalidad": "I",
-    "Rama": "Ciencias Sociales y Jurídicas\n \n Ciencias Sociales y Jurídicas",
+    "Rama": "Ciencias Sociales y Jurídicas",
     "Rama 2": ""
   },
   {
@@ -3653,8 +3653,8 @@
     "Precio": 500,
     "Modular": "N",
     "Modalidad": "I",
-    "Rama": "Ingeniería y Arquitectura\n \n Ciencias",
-    "Rama 2": ""
+    "Rama": "Ingeniería y Arquitectura",
+    "Rama 2": "Ciencias"
   },
   {
     "Código": "50-MC3-002 (1)",
@@ -3699,8 +3699,8 @@
     "Precio": 500,
     "Modular": "N",
     "Modalidad": "I",
-    "Rama": "Ingeniería y Arquitectura\n \n Ciencias",
-    "Rama 2": ""
+    "Rama": "Ingeniería y Arquitectura",
+    "Rama 2": "Ciencias"
   },
   {
     "Código": "50-MC3-004 (1)",
@@ -3722,8 +3722,8 @@
     "Precio": 152,
     "Modular": "N",
     "Modalidad": "I",
-    "Rama": "Ingeniería y Arquitectura\n \n Ciencias",
-    "Rama 2": ""
+    "Rama": "Ingeniería y Arquitectura",
+    "Rama 2": "Ciencias"
   },
   {
     "Código": "50-MC3-005 (1)",
@@ -3745,8 +3745,8 @@
     "Precio": 300,
     "Modular": "N",
     "Modalidad": "I",
-    "Rama": "Ingeniería y Arquitectura\n \n Ciencias",
-    "Rama 2": ""
+    "Rama": "Ingeniería y Arquitectura",
+    "Rama 2": "Ciencias"
   },
   {
     "Código": "50-MC3-006 (1)",
@@ -3768,8 +3768,8 @@
     "Precio": 300,
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Ingeniería y Arquitectura\n \n Ciencias",
-    "Rama 2": ""
+    "Rama": "Ingeniería y Arquitectura",
+    "Rama 2": "Ciencias"
   },
   {
     "Código": "55-MC3-001 (1)",
@@ -3814,8 +3814,8 @@
     "Precio": 375,
     "Modular": "N",
     "Modalidad": "A",
-    "Rama": "Ciencias\n \n Ingeniería y Arquitectura",
-    "Rama 2": ""
+    "Rama": "Ciencias",
+    "Rama 2": "Ingeniería y Arquitectura"
   },
   {
     "Código": "56-MC3-001 (2)",
@@ -3837,8 +3837,8 @@
     "Precio": 300,
     "Modular": "N",
     "Modalidad": "A",
-    "Rama": "Ciencias\n \n Ingeniería y Arquitectura",
-    "Rama 2": ""
+    "Rama": "Ciencias",
+    "Rama 2": "Ingeniería y Arquitectura"
   },
   {
     "Código": "56-MC3-002 (1)",
@@ -3860,8 +3860,8 @@
     "Precio": 300,
     "Modular": "N",
     "Modalidad": "A",
-    "Rama": "Ingeniería y Arquitectura\n \n Ciencias",
-    "Rama 2": ""
+    "Rama": "Ingeniería y Arquitectura",
+    "Rama 2": "Ciencias"
   },
   {
     "Código": "56-MC3-002 (2)",
@@ -3883,8 +3883,8 @@
     "Precio": 300,
     "Modular": "N",
     "Modalidad": "A",
-    "Rama": "Ingeniería y Arquitectura\n \n Ciencias",
-    "Rama 2": ""
+    "Rama": "Ingeniería y Arquitectura",
+    "Rama 2": "Ciencias"
   },
   {
     "Código": "56-MC3-003 (1)",
@@ -3906,8 +3906,8 @@
     "Precio": 300,
     "Modular": "N",
     "Modalidad": "A",
-    "Rama": "Ciencias\n \n Ingeniería y Arquitectura",
-    "Rama 2": ""
+    "Rama": "Ciencias",
+    "Rama 2": "Ingeniería y Arquitectura"
   },
   {
     "Código": "56-MC3-003 (2)",
@@ -3929,8 +3929,8 @@
     "Precio": 300,
     "Modular": "N",
     "Modalidad": "A",
-    "Rama": "Ciencias\n \n Ingeniería y Arquitectura",
-    "Rama 2": ""
+    "Rama": "Ciencias",
+    "Rama 2": "Ingeniería y Arquitectura"
   },
   {
     "Código": "56-MC3-004 (1)",
@@ -3952,8 +3952,8 @@
     "Precio": 100,
     "Modular": "N",
     "Modalidad": "A",
-    "Rama": "Ciencias\n \n Ingeniería y Arquitectura",
-    "Rama 2": ""
+    "Rama": "Ciencias",
+    "Rama 2": "Ingeniería y Arquitectura"
   },
   {
     "Código": "56-MC3-004 (2)",
@@ -3975,8 +3975,8 @@
     "Precio": 875,
     "Modular": "N",
     "Modalidad": "A",
-    "Rama": "Ciencias\n \n Ingeniería y Arquitectura",
-    "Rama 2": ""
+    "Rama": "Ciencias",
+    "Rama 2": "Ingeniería y Arquitectura"
   },
   {
     "Código": "56-MC3-005 (1)",
@@ -3998,8 +3998,8 @@
     "Precio": 150,
     "Modular": "N",
     "Modalidad": "A",
-    "Rama": "Ciencias\n \n Ingeniería y Arquitectura",
-    "Rama 2": ""
+    "Rama": "Ciencias",
+    "Rama 2": "Ingeniería y Arquitectura"
   },
   {
     "Código": "56-MC3-006 (1)",
@@ -4021,8 +4021,8 @@
     "Precio": 490,
     "Modular": "N",
     "Modalidad": "N",
-    "Rama": "Ciencias\n \n Ingeniería y Arquitectura",
-    "Rama 2": ""
+    "Rama": "Ciencias",
+    "Rama 2": "Ingeniería y Arquitectura"
   },
   {
     "Código": "57-EX3-004 (1)",
@@ -4665,8 +4665,8 @@
     "Precio": 133,
     "Modular": "N",
     "Modalidad": "H",
-    "Rama": "Ciencias\n \n Ingeniería y Arquitectura",
-    "Rama 2": ""
+    "Rama": "Ciencias",
+    "Rama 2": "Ingeniería y Arquitectura"
   },
   {
     "Código": "V2-MC3-002 (1)",
@@ -4708,7 +4708,7 @@
     "Contacto": "",
     "FechaInicio": "2026-02-23T23:00:00.000Z",
     "FechaFin": "2026-03-05T23:00:00.000Z",
-    "Precio": 0,
+    "Precio": "",
     "Modular": "N",
     "Modalidad": "P",
     "Rama": "Ciencias Sociales y Jurídicas",
@@ -4757,8 +4757,8 @@
     "Precio": "",
     "Modular": "N",
     "Modalidad": "P",
-    "Rama": "Artes y Humanidades\n \n Ciencias Sociales y Jurídicas",
-    "Rama 2": ""
+    "Rama": "Artes y Humanidades",
+    "Rama 2": "Ciencias Sociales y Jurídicas"
   },
   {
     "Código": "V2-MC3-006 (1)",
@@ -4895,7 +4895,7 @@
     "Precio": "",
     "Modular": "",
     "Modalidad": "W",
-    "Rama": "Ciencias Sociales y Jurídicas\n \n Ciencias Sociales y Jurídicas",
+    "Rama": "Ciencias Sociales y Jurídicas",
     "Rama 2": ""
   },
   {
@@ -5102,7 +5102,7 @@
     "Precio": "",
     "Modular": "",
     "Modalidad": "A",
-    "Rama": "Ciencias Sociales y Jurídicas\n \n Ciencias Sociales y Jurídicas",
+    "Rama": "Ciencias Sociales y Jurídicas",
     "Rama 2": ""
   },
   {
@@ -5148,7 +5148,7 @@
     "Precio": "",
     "Modular": "",
     "Modalidad": "S",
-    "Rama": "Ciencias Sociales y Jurídicas\n \n Ciencias Sociales y Jurídicas",
+    "Rama": "Ciencias Sociales y Jurídicas",
     "Rama 2": ""
   },
   {
