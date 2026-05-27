@@ -1,7 +1,9 @@
 [
   {
     "Codigo": "02-MC3-001 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "02",
     "Unidad": "Departamento de Biología Molecular",
     "Nombre": "Microcredencial Universitaria Curso de Formación Básica en Cultivos Celulares",
@@ -13,7 +15,7 @@
     "F. fin preinscripcion": " 03-03-2026",
     "F.inicio matricula": " 09-03-2026",
     "F. fin matricula": " 11-03-2026",
-    "Precio publico": 325,
+    "Precio": 325,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "",
     "Se imparte": "NO",
@@ -47,7 +49,9 @@
   },
   {
     "Codigo": "07-MC3-006 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "07",
     "Unidad": "Departamento de Derecho Público",
     "Nombre": "Microcredencial Universitaria en Inteligencia Artificial y Competencias Digitales para las Profesiones Jurídicas\r\n",
@@ -59,7 +63,7 @@
     "F. fin preinscripcion": " 27-05-2026",
     "F.inicio matricula": " 29-06-2026",
     "F. fin matricula": " 10-07-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-03-2026",
     "Se imparte": "SI",
@@ -93,7 +97,9 @@
   },
   {
     "Codigo": "08-EX3-019 (3)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "08",
     "Unidad": "Departamento de Ingeniería Estructural y Mecánica",
     "Nombre": "Diploma Universitario de Experto Rehabilitación, Regeneración Urbana y Eficiencia Energética",
@@ -105,7 +111,7 @@
     "F. fin preinscripcion": " 30-09-2025",
     "F.inicio matricula": " 03-10-2025 10-10-2025",
     "F. fin matricula": " 09-10-2025 20-10-2025",
-    "Precio publico": 2000,
+    "Precio": 2000,
     "Fecha aprob. uo de v1": "10-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -139,7 +145,9 @@
   },
   {
     "Codigo": "08-EX3-020 (3)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "08",
     "Unidad": "Departamento de Ingeniería Estructural y Mecánica",
     "Nombre": "Diploma Universitario de Experto Tecnología de la Edificación",
@@ -151,7 +159,7 @@
     "F. fin preinscripcion": " 30-09-2025",
     "F.inicio matricula": " 03-10-2025 08-10-2025",
     "F. fin matricula": " 07-10-2025 20-10-2025",
-    "Precio publico": 2000,
+    "Precio": 2000,
     "Fecha aprob. uo de v1": "09-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -185,7 +193,9 @@
   },
   {
     "Codigo": "08-EX3-025 (2)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "08",
     "Unidad": "Departamento de Ingeniería Estructural y Mecánica",
     "Nombre": "Diploma Universitario de Experto Gestión de la Edificación (Hibrido)",
@@ -197,7 +207,7 @@
     "F. fin preinscripcion": " 30-09-2025",
     "F.inicio matricula": " 03-10-2025 10-10-2025",
     "F. fin matricula": " 09-10-2025 20-10-2025",
-    "Precio publico": 2000,
+    "Precio": 2000,
     "Fecha aprob. uo de v1": "10-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -231,7 +241,9 @@
   },
   {
     "Codigo": "08-FC3-013 (3)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "08",
     "Unidad": "Departamento de Ingeniería Estructural y Mecánica",
     "Nombre": "Curso Universitario de Formación Permanente Gestión Empresarial, Emprendimiento e Internacionalización",
@@ -243,7 +255,7 @@
     "F. fin preinscripcion": " 19-02-2026",
     "F.inicio matricula": " 21-02-2026",
     "F. fin matricula": " 25-02-2026",
-    "Precio publico": 1000,
+    "Precio": 1000,
     "Fecha aprob. uo de v1": "11-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -277,7 +289,9 @@
   },
   {
     "Codigo": "08-FC3-014 (3)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "08",
     "Unidad": "Departamento de Ingeniería Estructural y Mecánica",
     "Nombre": "Curso Universitario de Formación Permanente Patología y Rehabilitación de la Edificación",
@@ -289,7 +303,7 @@
     "F. fin preinscripcion": " 15-02-2026",
     "F.inicio matricula": " 17-02-2026",
     "F. fin matricula": " 20-02-2026",
-    "Precio publico": 1000,
+    "Precio": 1000,
     "Fecha aprob. uo de v1": "11-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -323,7 +337,9 @@
   },
   {
     "Codigo": "08-FC3-015 (3)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "08",
     "Unidad": "Departamento de Ingeniería Estructural y Mecánica",
     "Nombre": "Curso Universitario de Formación Permanente Regeneración Urbana y Eficiencia Energética en la Edificación",
@@ -335,7 +351,7 @@
     "F. fin preinscripcion": " 30-09-2025",
     "F.inicio matricula": " 03-10-2025 10-10-2025",
     "F. fin matricula": " 09-10-2025 20-10-2025",
-    "Precio publico": 1000,
+    "Precio": 1000,
     "Fecha aprob. uo de v1": "11-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -369,7 +385,9 @@
   },
   {
     "Codigo": "08-FC3-016 (3)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "08",
     "Unidad": "Departamento de Ingeniería Estructural y Mecánica",
     "Nombre": "Curso Universitario de Formación Permanente Tecnología de Instalaciones y Cerramientos de Edificación",
@@ -381,7 +399,7 @@
     "F. fin preinscripcion": " 18-02-2026",
     "F.inicio matricula": " 21-02-2026",
     "F. fin matricula": " 24-02-2026",
-    "Precio publico": 1000,
+    "Precio": 1000,
     "Fecha aprob. uo de v1": "11-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -415,7 +433,9 @@
   },
   {
     "Codigo": "08-FC3-017 (3)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "08",
     "Unidad": "Departamento de Ingeniería Estructural y Mecánica",
     "Nombre": "Curso Universitario de Formación Permanente Tecnología de Estructuras de Edificación",
@@ -427,7 +447,7 @@
     "F. fin preinscripcion": " 30-09-2025",
     "F.inicio matricula": " 03-10-2025 08-10-2025",
     "F. fin matricula": " 07-10-2025 20-10-2025",
-    "Precio publico": 1000,
+    "Precio": 1000,
     "Fecha aprob. uo de v1": "11-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -461,7 +481,9 @@
   },
   {
     "Codigo": "08-FC3-024 (2)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "08",
     "Unidad": "Departamento de Ingeniería Estructural y Mecánica",
     "Nombre": "Curso Universitario de Formación Permanente BIM y Gestión del Proceso Edificatorio (Hibrido)",
@@ -473,7 +495,7 @@
     "F. fin preinscripcion": " 30-09-2025",
     "F.inicio matricula": " 03-10-2025 10-10-2025",
     "F. fin matricula": " 09-10-2025 21-10-2025",
-    "Precio publico": 1000,
+    "Precio": 1000,
     "Fecha aprob. uo de v1": "11-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -507,7 +529,9 @@
   },
   {
     "Codigo": "08-MA3-022 (19)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "08",
     "Unidad": "Departamento de Ingeniería Estructural y Mecánica",
     "Nombre": "Máster Internacional de Formación Permanente UC-UIMP en Tecnología Rehabilitación y Gestión de la Edificación (Virtual)",
@@ -519,7 +543,7 @@
     "F. fin preinscripcion": " 20-10-2025",
     "F.inicio matricula": " 09-10-2025 14-10-2025",
     "F. fin matricula": " 13-10-2025 20-10-2025",
-    "Precio publico": 6000,
+    "Precio": 6000,
     "Fecha aprob. uo de v1": "09-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -553,7 +577,9 @@
   },
   {
     "Codigo": "08-MA3-023 (19)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "08",
     "Unidad": "Departamento de Ingeniería Estructural y Mecánica",
     "Nombre": "Máster Internacional de Formación Permanente UC-UIMP en Tecnología Rehabilitación y Gestión de la Edificación (Hibrido)",
@@ -565,7 +591,7 @@
     "F. fin preinscripcion": " 07-10-2025",
     "F.inicio matricula": " 15-10-2025 20-10-2025",
     "F. fin matricula": " 21-10-2025 21-10-2025",
-    "Precio publico": 6000,
+    "Precio": 6000,
     "Fecha aprob. uo de v1": "10-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -599,7 +625,9 @@
   },
   {
     "Codigo": "09-EX3-005 (1)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "09",
     "Unidad": "Departamento de Transportes y Tecnología de Proyectos y Procesos",
     "Nombre": "Diploma Universitario de Experto en Modelado y Simulación Computacional de Seguridad contra Incendios Online",
@@ -611,7 +639,7 @@
     "F. fin preinscripcion": " 26-10-2025",
     "F.inicio matricula": " 03-11-2025",
     "F. fin matricula": " 12-11-2025",
-    "Precio publico": 2000,
+    "Precio": 2000,
     "Fecha aprob. uo de v1": "01-10-2025",
     "Fecha informe aprobacion cep": "23-09-2025",
     "Se imparte": "SI",
@@ -645,7 +673,9 @@
   },
   {
     "Codigo": "09-FC3-006 (1)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "09",
     "Unidad": "Departamento de Transportes y Tecnología de Proyectos y Procesos",
     "Nombre": "Curso Universitario de Formación Permanente Online en Simulación de Evacuación",
@@ -657,7 +687,7 @@
     "F. fin preinscripcion": " 18-10-2025",
     "F.inicio matricula": " 03-11-2025",
     "F. fin matricula": " 12-11-2025",
-    "Precio publico": 1000,
+    "Precio": 1000,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "23-09-2025",
     "Se imparte": "SI",
@@ -691,7 +721,9 @@
   },
   {
     "Codigo": "09-FC3-007 (1)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "09",
     "Unidad": "Departamento de Transportes y Tecnología de Proyectos y Procesos",
     "Nombre": "Curso Universitario de Formación Permanente Online en Simulación de Incendios",
@@ -703,7 +735,7 @@
     "F. fin preinscripcion": " 25-03-2026",
     "F.inicio matricula": " 23-03-2026",
     "F. fin matricula": " 31-03-2026",
-    "Precio publico": 1000,
+    "Precio": 1000,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "23-09-2025",
     "Se imparte": "SI",
@@ -737,7 +769,9 @@
   },
   {
     "Codigo": "10-ES3-044 (2)",
-    "Categoría": "Diploma Universitario de Especialización",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Diploma Universitario de Especialización en Gestión y Dirección de Servicios Sanitarios",
@@ -749,7 +783,7 @@
     "F. fin preinscripcion": " 05-03-2026",
     "F.inicio matricula": " 10-03-2026",
     "F. fin matricula": " 12-03-2026",
-    "Precio publico": 1450,
+    "Precio": 1450,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -783,7 +817,9 @@
   },
   {
     "Codigo": "10-EX3-037 (2)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Diploma Universitario de Experto en Economía de la Salud",
@@ -795,7 +831,7 @@
     "F. fin preinscripcion": " 09-10-2025",
     "F.inicio matricula": " 13-10-2025",
     "F. fin matricula": " 16-10-2025",
-    "Precio publico": 266,
+    "Precio": 266,
     "Fecha aprob. uo de v1": "08-05-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -829,7 +865,9 @@
   },
   {
     "Codigo": "10-EX3-038 (2)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Diploma Universitario de Experto en Derecho Sanitario",
@@ -841,7 +879,7 @@
     "F. fin preinscripcion": " 30-10-2025",
     "F.inicio matricula": " 04-11-2025",
     "F. fin matricula": " 06-11-2025",
-    "Precio publico": 290,
+    "Precio": 290,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -875,7 +913,9 @@
   },
   {
     "Codigo": "10-EX3-039 (2)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Diploma Universitario de Experto en Gestión de Contratación, Recursos Humanos, Presupuestos y Procedimientos Administrativos",
@@ -887,7 +927,7 @@
     "F. fin preinscripcion": " 11-12-2025",
     "F.inicio matricula": " 15-12-2025",
     "F. fin matricula": " 17-12-2025",
-    "Precio publico": 290,
+    "Precio": 290,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -921,7 +961,9 @@
   },
   {
     "Codigo": "10-EX3-040 (2)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Diploma Universitario de Experto en Gestión de la Investigación en Salud. Salud Pública",
@@ -933,7 +975,7 @@
     "F. fin preinscripcion": " 05-02-2026",
     "F.inicio matricula": " 10-02-2026",
     "F. fin matricula": " 12-02-2026",
-    "Precio publico": 314,
+    "Precio": 314,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -967,7 +1009,9 @@
   },
   {
     "Codigo": "10-EX3-041 (2)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Diploma Universitario de Experto en Gestión Farmacéutica y Relaciones con los Usuarios. Ordenación, Planificación e Inspección",
@@ -979,7 +1023,7 @@
     "F. fin preinscripcion": " 05-03-2026",
     "F.inicio matricula": " 10-03-2026",
     "F. fin matricula": " 12-03-2026",
-    "Precio publico": 266,
+    "Precio": 266,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -1013,7 +1057,9 @@
   },
   {
     "Codigo": "10-EX3-042 (2)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Diploma Universitario de Experto en Gestión de la Provisión de Servicios Sanitarios (I)",
@@ -1025,7 +1071,7 @@
     "F. fin preinscripcion": " 16-04-2026",
     "F.inicio matricula": " 21-04-2026",
     "F. fin matricula": " 23-04-2026",
-    "Precio publico": 290,
+    "Precio": 290,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -1059,7 +1105,9 @@
   },
   {
     "Codigo": "10-EX3-043 (2)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Diploma Universitario de Experto en Gestión de la Provisión de Servicios Sanitarios (II)",
@@ -1071,7 +1119,7 @@
     "F. fin preinscripcion": " 21-05-2026",
     "F.inicio matricula": " 26-05-2026",
     "F. fin matricula": " 28-05-2026",
-    "Precio publico": 314,
+    "Precio": 314,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -1105,7 +1153,9 @@
   },
   {
     "Codigo": "10-FC3-047 (1)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Curso Universitario de Formación Permanente en Comercio Internacional y Transporte",
@@ -1117,7 +1167,7 @@
     "F. fin preinscripcion": " 08-10-2025",
     "F.inicio matricula": " 10-10-2025",
     "F. fin matricula": " 14-10-2025",
-    "Precio publico": 2400,
+    "Precio": 2400,
     "Fecha aprob. uo de v1": "08-05-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -1151,7 +1201,9 @@
   },
   {
     "Codigo": "10-FC3-048 (1)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Curso Universitario de Formación Permanente en Logística",
@@ -1163,7 +1215,7 @@
     "F. fin preinscripcion": " 08-10-2025",
     "F.inicio matricula": " 10-10-2025",
     "F. fin matricula": " 13-10-2025",
-    "Precio publico": 1700,
+    "Precio": 1700,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -1197,7 +1249,9 @@
   },
   {
     "Codigo": "10-MA3-028 (26)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Master de Formación Permanente en Tributación",
@@ -1209,7 +1263,7 @@
     "F. fin preinscripcion": " 17-10-2025",
     "F.inicio matricula": " 27-10-2025",
     "F. fin matricula": " 05-11-2025",
-    "Precio publico": 3995,
+    "Precio": 3995,
     "Fecha aprob. uo de v1": "08-05-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -1243,7 +1297,9 @@
   },
   {
     "Codigo": "10-MA3-029 (2)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Master de Formación Permanente en Gestión y Planificación de Centros y Servicios de Atención a la Dependencia",
@@ -1255,7 +1311,7 @@
     "F. fin preinscripcion": " 08-10-2025",
     "F.inicio matricula": " 13-10-2025",
     "F. fin matricula": " 22-10-2025",
-    "Precio publico": 3000,
+    "Precio": 3000,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -1289,7 +1345,9 @@
   },
   {
     "Codigo": "10-MA3-045 (2)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Máster de Formación Permanente en Gestión y Dirección de Servicios Sanitarios",
@@ -1301,7 +1359,7 @@
     "F. fin preinscripcion": " 08-10-2025",
     "F.inicio matricula": " 13-10-2025",
     "F. fin matricula": " 16-10-2025",
-    "Precio publico": 2900,
+    "Precio": 2900,
     "Fecha aprob. uo de v1": "08-05-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -1335,7 +1393,9 @@
   },
   {
     "Codigo": "10-MA3-046 (1)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Master de Formación Permanente en Comercio Internacional, Transporte y Logística",
@@ -1347,7 +1407,7 @@
     "F. fin preinscripcion": " 09-10-2025",
     "F.inicio matricula": " 13-10-2025",
     "F. fin matricula": " 16-10-2025",
-    "Precio publico": 6000,
+    "Precio": 6000,
     "Fecha aprob. uo de v1": "08-05-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -1381,7 +1441,9 @@
   },
   {
     "Codigo": "10-MC3-050 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Microcredencial Universitaria Análisis Avanzado de Datos de Panel: Dependencia Transversal y Endogeneidad",
@@ -1393,7 +1455,7 @@
     "F. fin preinscripcion": " 27-11-2025",
     "F.inicio matricula": " 24-11-2025",
     "F. fin matricula": " 02-12-2025",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "28-10-2025",
     "Se imparte": "SI",
@@ -1427,7 +1489,9 @@
   },
   {
     "Codigo": "10-MC3-050 (2)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Microcredencial Universitaria Análisis Avanzado de Datos de Panel: Dependencia Transversal y Endogeneidad",
@@ -1439,7 +1503,7 @@
     "F. fin preinscripcion": " 11-05-2026",
     "F.inicio matricula": " 05-05-2026",
     "F. fin matricula": " 13-05-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "29-01-2026",
     "Se imparte": "SI",
@@ -1473,7 +1537,9 @@
   },
   {
     "Codigo": "10-MC3-051 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Microcredencial Universitaria en Análisis y Evaluación de Políticas Públicas",
@@ -1485,7 +1551,7 @@
     "F. fin preinscripcion": " 17-02-2026",
     "F.inicio matricula": " 23-02-2026",
     "F. fin matricula": " 27-02-2026",
-    "Precio publico": 600,
+    "Precio": 600,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "21-01-2026",
     "Se imparte": "NO",
@@ -1519,7 +1585,9 @@
   },
   {
     "Codigo": "10-MC3-052 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Microcredencial Universitaria Ciencia de Datos Avanzada: Modelos Predictivos y Machine Learning",
@@ -1531,7 +1599,7 @@
     "F. fin preinscripcion": " 26-01-2026",
     "F.inicio matricula": " 28-01-2026",
     "F. fin matricula": " 01-02-2026",
-    "Precio publico": 600,
+    "Precio": 600,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "21-01-2026",
     "Se imparte": "NO",
@@ -1565,7 +1633,9 @@
   },
   {
     "Codigo": "10-MC3-053 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "10",
     "Unidad": "Departamento de Economía",
     "Nombre": "Microcredencial Universitaria Análisis Económico de Políticas Comerciales",
@@ -1577,7 +1647,7 @@
     "F. fin preinscripcion": " 17-02-2026",
     "F.inicio matricula": " 19-02-2026",
     "F. fin matricula": " 23-02-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "29-01-2026",
     "Fecha informe aprobacion cep": "29-01-2026",
     "Se imparte": "SI",
@@ -1611,7 +1681,9 @@
   },
   {
     "Codigo": "12-ES3-018 (1)",
-    "Categoría": "Diploma Universitario de Especialización",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
     "Cod. unidad": "12",
     "Unidad": "Departamento de Ingeniería de Comunicaciones",
     "Nombre": "Diploma Universitario de Especialización en EW Defensa Electrónica",
@@ -1623,7 +1695,7 @@
     "F. fin preinscripcion": " 22-08-2025",
     "F.inicio matricula": " 26-08-2025",
     "F. fin matricula": " 05-09-2025",
-    "Precio publico": 2750,
+    "Precio": 2750,
     "Fecha aprob. uo de v1": "29-07-2025",
     "Fecha informe aprobacion cep": "21-07-2025",
     "Se imparte": "SI",
@@ -1657,7 +1729,9 @@
   },
   {
     "Codigo": "12-MC3-008 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "12",
     "Unidad": "Departamento de Ingeniería de Comunicaciones",
     "Nombre": "Microcredencial Universitaria en EW Visión General",
@@ -1669,7 +1743,7 @@
     "F. fin preinscripcion": " 09-09-2025",
     "F.inicio matricula": " 11-09-2025",
     "F. fin matricula": " 16-09-2025",
-    "Precio publico": 550,
+    "Precio": 550,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "21-07-2025",
     "Se imparte": "SI",
@@ -1703,7 +1777,9 @@
   },
   {
     "Codigo": "12-MC3-016 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "12",
     "Unidad": "Departamento de Ingeniería de Comunicaciones",
     "Nombre": "Microcredencial Universitaria en EW Actividades Prácticas I",
@@ -1715,7 +1791,7 @@
     "F. fin preinscripcion": " 09-09-2025",
     "F.inicio matricula": " 11-09-2025",
     "F. fin matricula": " 16-09-2025",
-    "Precio publico": 400,
+    "Precio": 400,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "21-07-2025",
     "Se imparte": "SI",
@@ -1749,7 +1825,9 @@
   },
   {
     "Codigo": "12-MC3-017 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "12",
     "Unidad": "Departamento de Ingeniería de Comunicaciones",
     "Nombre": "Microcredencial Universitaria en EW Actividades Prácticas II",
@@ -1761,7 +1839,7 @@
     "F. fin preinscripcion": " 09-01-2026",
     "F.inicio matricula": " 13-01-2026",
     "F. fin matricula": " 16-01-2026",
-    "Precio publico": 400,
+    "Precio": 400,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "21-07-2025",
     "Se imparte": "SI",
@@ -1795,7 +1873,9 @@
   },
   {
     "Codigo": "12-MC3-019 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "12",
     "Unidad": "Departamento de Ingeniería de Comunicaciones",
     "Nombre": "Microcredencial Universitaria en EW Contexto y Evolución",
@@ -1807,7 +1887,7 @@
     "F. fin preinscripcion": " 09-09-2025",
     "F.inicio matricula": " 11-09-2025",
     "F. fin matricula": " 16-09-2025",
-    "Precio publico": 350,
+    "Precio": 350,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "21-07-2025",
     "Se imparte": "SI",
@@ -1841,7 +1921,9 @@
   },
   {
     "Codigo": "12-MC3-020 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "12",
     "Unidad": "Departamento de Ingeniería de Comunicaciones",
     "Nombre": "Microcredencial Universitaria en EW Radar",
@@ -1853,7 +1935,7 @@
     "F. fin preinscripcion": " 09-01-2026",
     "F.inicio matricula": " 13-01-2026",
     "F. fin matricula": " 16-01-2026",
-    "Precio publico": 600,
+    "Precio": 600,
     "Fecha aprob. uo de v1": "18-09-2025",
     "Fecha informe aprobacion cep": "21-07-2025",
     "Se imparte": "SI",
@@ -1887,7 +1969,9 @@
   },
   {
     "Codigo": "12-MC3-021 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "12",
     "Unidad": "Departamento de Ingeniería de Comunicaciones",
     "Nombre": "Microcredencial Universitaria en EW Electroópticas",
@@ -1899,7 +1983,7 @@
     "F. fin preinscripcion": " 09-01-2026",
     "F.inicio matricula": " 13-01-2026",
     "F. fin matricula": " 16-01-2026",
-    "Precio publico": 450,
+    "Precio": 450,
     "Fecha aprob. uo de v1": "18-09-2025",
     "Fecha informe aprobacion cep": "21-07-2025",
     "Se imparte": "SI",
@@ -1933,7 +2017,9 @@
   },
   {
     "Codigo": "12-MC3-022 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "12",
     "Unidad": "Departamento de Ingeniería de Comunicaciones",
     "Nombre": "Microcredencial Universitaria en EW Comunicaciones",
@@ -1945,7 +2031,7 @@
     "F. fin preinscripcion": " 09-01-2026",
     "F.inicio matricula": " 13-01-2026",
     "F. fin matricula": " 16-01-2026",
-    "Precio publico": 600,
+    "Precio": 600,
     "Fecha aprob. uo de v1": "17-09-2025",
     "Fecha informe aprobacion cep": "21-07-2025",
     "Se imparte": "SI",
@@ -1979,7 +2065,9 @@
   },
   {
     "Codigo": "20-MC3-001 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "20",
     "Unidad": "Departamento de Matemática Aplicada y Ciencias de la Computación",
     "Nombre": "Microcredencial Universitaria en Herramientas para la Ciencia de Datos y la Inteligencia Artificial",
@@ -1991,7 +2079,7 @@
     "F. fin preinscripcion": " 14-11-2025",
     "F.inicio matricula": " 19-11-2025",
     "F. fin matricula": " 25-11-2025",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "28-10-2025",
     "Se imparte": "SI",
@@ -2025,7 +2113,9 @@
   },
   {
     "Codigo": "20-MC3-002 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "20",
     "Unidad": "Departamento de Matemática Aplicada y Ciencias de la Computación",
     "Nombre": "Microcredencial Universitaria en Modelos de Aprendizaje Automático e Inteligencia Artificial para la Ciencia de Datos",
@@ -2037,7 +2127,7 @@
     "F. fin preinscripcion": " 21-11-2025",
     "F.inicio matricula": " 24-11-2025",
     "F. fin matricula": " 25-11-2025",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "23-03-2026",
     "Fecha informe aprobacion cep": "28-10-2025",
     "Se imparte": "SI",
@@ -2071,7 +2161,9 @@
   },
   {
     "Codigo": "20-MC3-004 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "20",
     "Unidad": "Departamento de Matemática Aplicada y Ciencias de la Computación",
     "Nombre": "Microcredencial Universitaria en Fundamentos de Programación y Entornos de Trabajo para una Introducción a la Ciencia de Datos",
@@ -2083,7 +2175,7 @@
     "F. fin preinscripcion": " 01-02-2026",
     "F.inicio matricula": " 04-02-2026",
     "F. fin matricula": " 06-02-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "21-01-2026",
     "Se imparte": "NO",
@@ -2117,7 +2209,9 @@
   },
   {
     "Codigo": "20-MC3-005 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "20",
     "Unidad": "Departamento de Matemática Aplicada y Ciencias de la Computación",
     "Nombre": "Microcredencial Universitaria en Fundamentos de Machine Learning y Deep Learning\r\n\r\n",
@@ -2129,7 +2223,7 @@
     "F. fin preinscripcion": " 22-02-2026",
     "F.inicio matricula": " 25-02-2026",
     "F. fin matricula": " 27-02-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "21-01-2026",
     "Se imparte": "NO",
@@ -2163,7 +2257,9 @@
   },
   {
     "Codigo": "20-MC3-006 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "20",
     "Unidad": "Departamento de Matemática Aplicada y Ciencias de la Computación",
     "Nombre": "Microcredencial Universitaria en Aplicación Web para Gestionar una Base de Datos Relacional de Ejemplo, desde Cero con XAMPP",
@@ -2175,7 +2271,7 @@
     "F. fin preinscripcion": " 13-11-2026",
     "F.inicio matricula": " 23-11-2026",
     "F. fin matricula": " 27-11-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "30-04-2026",
     "Se imparte": "SI",
@@ -2209,7 +2305,9 @@
   },
   {
     "Codigo": "20-MC3-007 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "20",
     "Unidad": "Departamento de Matemática Aplicada y Ciencias de la Computación",
     "Nombre": "Microcredencial Universitaria Desarrollar una Base de Datos Relacional de Ejemplo, desde Cero con XAMPP",
@@ -2221,7 +2319,7 @@
     "F. fin preinscripcion": " 11-09-2026",
     "F.inicio matricula": " 21-09-2026",
     "F. fin matricula": " 25-09-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "30-04-2026",
     "Se imparte": "SI",
@@ -2255,7 +2353,9 @@
   },
   {
     "Codigo": "20-MC3-008 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "20",
     "Unidad": "Departamento de Matemática Aplicada y Ciencias de la Computación",
     "Nombre": "Microcredencial Universitaria en Programación en Python para Ingenieros",
@@ -2267,7 +2367,7 @@
     "F. fin preinscripcion": " 09-10-2026",
     "F.inicio matricula": " 19-10-2026",
     "F. fin matricula": " 23-10-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "30-04-2026",
     "Se imparte": "SI",
@@ -2301,7 +2401,9 @@
   },
   {
     "Codigo": "21-MC3-001 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "21",
     "Unidad": "Departamento de Matemáticas, Estadística y Computación",
     "Nombre": "Microcredencial Universitaria en Autismo y Enseñanza de las Matemáticas en Educación Primaria",
@@ -2313,7 +2415,7 @@
     "F. fin preinscripcion": " 11-02-2026",
     "F.inicio matricula": " 01-09-2025",
     "F. fin matricula": " 11-02-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "25-06-2025",
     "Fecha informe aprobacion cep": "21-07-2025",
     "Se imparte": "SI",
@@ -2347,7 +2449,9 @@
   },
   {
     "Codigo": "21-MC3-002 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "21",
     "Unidad": "Departamento de Matemáticas, Estadística y Computación",
     "Nombre": "Microcredencial Universitaria en Matemáticas y Pensamiento Abstracto en Educación Primaria\r\n",
@@ -2359,7 +2463,7 @@
     "F. fin preinscripcion": " 27-02-2026",
     "F.inicio matricula": " 27-02-2026",
     "F. fin matricula": " 04-03-2026",
-    "Precio publico": 133.33,
+    "Precio": 133.33,
     "Fecha aprob. uo de v1": "04-02-2026",
     "Fecha informe aprobacion cep": "05-02-2026",
     "Se imparte": "SI",
@@ -2393,7 +2497,9 @@
   },
   {
     "Codigo": "21-MC3-003 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "21",
     "Unidad": "Departamento de Matemáticas, Estadística y Computación",
     "Nombre": "Microcredencial Universitaria (CAS): Integración de las Materias STEM en el Aula",
@@ -2405,7 +2511,7 @@
     "F. fin preinscripcion": " 03-03-2026",
     "F.inicio matricula": " 06-03-2026",
     "F. fin matricula": " 09-03-2026",
-    "Precio publico": 133.33,
+    "Precio": 133.33,
     "Fecha aprob. uo de v1": "28-04-2026",
     "Fecha informe aprobacion cep": "05-02-2026",
     "Se imparte": "SI",
@@ -2439,7 +2545,9 @@
   },
   {
     "Codigo": "21-MC3-004 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "21",
     "Unidad": "Departamento de Matemáticas, Estadística y Computación",
     "Nombre": "Microcredencial Universitaria en Bases del Pensamiento Numérico-Matemático en Educación Infantil",
@@ -2451,7 +2559,7 @@
     "F. fin preinscripcion": " 09-03-2026",
     "F.inicio matricula": " 12-03-2026",
     "F. fin matricula": " 13-03-2026",
-    "Precio publico": 133.33,
+    "Precio": 133.33,
     "Fecha aprob. uo de v1": "28-04-2026",
     "Fecha informe aprobacion cep": "26-02-2026",
     "Se imparte": "SI",
@@ -2485,7 +2593,9 @@
   },
   {
     "Codigo": "21-MC3-005 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "21",
     "Unidad": "Departamento de Matemáticas, Estadística y Computación",
     "Nombre": "Microcredencial Universitaria en Inteligencia Artificial Generativa Aplicada a la Práctica Docente",
@@ -2497,7 +2607,7 @@
     "F. fin preinscripcion": " 10-03-2026",
     "F.inicio matricula": " 12-03-2026",
     "F. fin matricula": " 14-03-2026",
-    "Precio publico": 133.33,
+    "Precio": 133.33,
     "Fecha aprob. uo de v1": "28-04-2026",
     "Fecha informe aprobacion cep": "26-02-2026",
     "Se imparte": "SI",
@@ -2531,7 +2641,9 @@
   },
   {
     "Codigo": "23-MC3-003 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "23",
     "Unidad": "Departamento de Ingenierías Química y Biomolecular",
     "Nombre": "Microcredencial Universitaria en Descarbonización, Economía Circular e Hidrógeno",
@@ -2543,7 +2655,7 @@
     "F. fin preinscripcion": " 30-01-2026",
     "F.inicio matricula": " 09-02-2026",
     "F. fin matricula": " 20-02-2026",
-    "Precio publico": 500,
+    "Precio": 500,
     "Fecha aprob. uo de v1": "09-03-2026",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -2577,7 +2689,9 @@
   },
   {
     "Codigo": "23-MC3-004 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "23",
     "Unidad": "Departamento de Ingenierías Química y Biomolecular",
     "Nombre": "Microcredencial Universitaria en Dinámica de Fluidos Aplicada: Fundamentos de CFD para Ingenieros",
@@ -2589,7 +2703,7 @@
     "F. fin preinscripcion": " 08-09-2026",
     "F.inicio matricula": " 01-06-2025",
     "F. fin matricula": " 08-09-2026",
-    "Precio publico": 700,
+    "Precio": 700,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -2623,7 +2737,9 @@
   },
   {
     "Codigo": "25-ES3-025 (1)",
-    "Categoría": "Diploma Universitario de Especialización",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
     "Cod. unidad": "25",
     "Unidad": "Departamento de Administración de Empresas",
     "Nombre": "Diploma Universitario de Especialización en Contabilidad Financiera y Directiva",
@@ -2635,7 +2751,7 @@
     "F. fin preinscripcion": " 31-10-2025",
     "F.inicio matricula": " 19-05-2025",
     "F. fin matricula": " 31-10-2025",
-    "Precio publico": 2995,
+    "Precio": 2995,
     "Fecha aprob. uo de v1": "03-10-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -2669,7 +2785,9 @@
   },
   {
     "Codigo": "25-EX3-020 (2)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "25",
     "Unidad": "Departamento de Administración de Empresas",
     "Nombre": "Diploma Universitario de Experto en Power BI Aplicado a la Gestión Empresarial",
@@ -2681,7 +2799,7 @@
     "F. fin preinscripcion": " 17-10-2025",
     "F.inicio matricula": " 26-05-2025",
     "F. fin matricula": " 17-10-2025",
-    "Precio publico": 1250,
+    "Precio": 1250,
     "Fecha aprob. uo de v1": "01-10-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -2715,7 +2833,9 @@
   },
   {
     "Codigo": "25-MA3-018 (6)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "25",
     "Unidad": "Departamento de Administración de Empresas",
     "Nombre": "Máster de Formación Permanente en Dirección de Recursos Humanos: el Valor de las Personas",
@@ -2727,7 +2847,7 @@
     "F. fin preinscripcion": " 05-10-2025",
     "F.inicio matricula": " 08-10-2025",
     "F. fin matricula": " 15-10-2025",
-    "Precio publico": 4500,
+    "Precio": 4500,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -2761,7 +2881,9 @@
   },
   {
     "Codigo": "25-MA3-024 (1)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "25",
     "Unidad": "Departamento de Administración de Empresas",
     "Nombre": "Máster de Formación Permanente en Contabilidad Avanzada",
@@ -2773,7 +2895,7 @@
     "F. fin preinscripcion": " 05-11-2025",
     "F.inicio matricula": " 19-05-2025",
     "F. fin matricula": " 05-11-2025",
-    "Precio publico": 3995,
+    "Precio": 3995,
     "Fecha aprob. uo de v1": "03-10-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -2807,7 +2929,9 @@
   },
   {
     "Codigo": "25-MC3-021 (2)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "25",
     "Unidad": "Departamento de Administración de Empresas",
     "Nombre": "Microcredencial Universitaria en la Gestión de Compras: Clave en la Competitividad Empresarial",
@@ -2819,7 +2943,7 @@
     "F. fin preinscripcion": " 07-10-2025",
     "F.inicio matricula": " 10-10-2025",
     "F. fin matricula": " 14-10-2025",
-    "Precio publico": 850,
+    "Precio": 850,
     "Fecha aprob. uo de v1": "22-09-2025",
     "Fecha informe aprobacion cep": "23-09-2025",
     "Se imparte": "NO",
@@ -2853,7 +2977,9 @@
   },
   {
     "Codigo": "25-MC3-022 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "25",
     "Unidad": "Departamento de Administración de Empresas",
     "Nombre": "Microcredencial Universitaria en Análisis de Datos y Business Intelligence con Power BI para Economistas",
@@ -2865,7 +2991,7 @@
     "F. fin preinscripcion": " 26-10-2025",
     "F.inicio matricula": " 27-10-2025",
     "F. fin matricula": " 03-11-2025",
-    "Precio publico": 325,
+    "Precio": 325,
     "Fecha aprob. uo de v1": "17-09-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -2899,7 +3025,9 @@
   },
   {
     "Codigo": "25-MC3-026 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "25",
     "Unidad": "Departamento de Administración de Empresas",
     "Nombre": "Microcredencial Universitaria en Power BI para Profesionales Financieros: Conecta Datos y Estrategia",
@@ -2911,7 +3039,7 @@
     "F. fin preinscripcion": " 02-02-2026",
     "F.inicio matricula": " 19-01-2026",
     "F. fin matricula": " 02-02-2026",
-    "Precio publico": 500,
+    "Precio": 500,
     "Fecha aprob. uo de v1": "07-11-2025",
     "Fecha informe aprobacion cep": "30-11-2025",
     "Se imparte": "SI",
@@ -2945,7 +3073,9 @@
   },
   {
     "Codigo": "25-MC3-027 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "25",
     "Unidad": "Departamento de Administración de Empresas",
     "Nombre": "Microcredencial Universitaria en Estrategia Digital y Gestión con IA",
@@ -2957,7 +3087,7 @@
     "F. fin preinscripcion": " 09-02-2026",
     "F.inicio matricula": " 12-02-2026",
     "F. fin matricula": " 19-02-2026",
-    "Precio publico": 435,
+    "Precio": 435,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "18-12-2025",
     "Se imparte": "NO",
@@ -2991,7 +3121,9 @@
   },
   {
     "Codigo": "25-MC3-028 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "25",
     "Unidad": "Departamento de Administración de Empresas",
     "Nombre": "Microcredencial Universitaria en Gestión y Administración de la Investigación",
@@ -3003,7 +3135,7 @@
     "F. fin preinscripcion": " 27-01-2026",
     "F.inicio matricula": " 15-12-2025",
     "F. fin matricula": " 27-01-2026",
-    "Precio publico": 600,
+    "Precio": 600,
     "Fecha aprob. uo de v1": "12-12-2025",
     "Fecha informe aprobacion cep": "18-12-2025",
     "Se imparte": "SI",
@@ -3037,7 +3169,9 @@
   },
   {
     "Codigo": "25-MC3-029 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "25",
     "Unidad": "Departamento de Administración de Empresas",
     "Nombre": "Microcredencial Universitaria en Fundamentos de Programación para la Gestión de Datos Económicos y Empresariales: Uso de Lenguaje Python\r\n\r\n",
@@ -3049,7 +3183,7 @@
     "F. fin preinscripcion": " 11-05-2026",
     "F.inicio matricula": " 29-04-2026",
     "F. fin matricula": " 17-05-2026",
-    "Precio publico": 349,
+    "Precio": 349,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "29-01-2026",
     "Se imparte": "SI",
@@ -3083,7 +3217,9 @@
   },
   {
     "Codigo": "25-MC3-030 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "25",
     "Unidad": "Departamento de Administración de Empresas",
     "Nombre": "Microcredencial Universitaria en IA y Negocios: Innovación con Experiencia Rural",
@@ -3095,7 +3231,7 @@
     "F. fin preinscripcion": " 22-02-2026",
     "F.inicio matricula": " 24-02-2026",
     "F. fin matricula": " 25-02-2026",
-    "Precio publico": 1000,
+    "Precio": 1000,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "29-01-2026",
     "Se imparte": "NO",
@@ -3129,7 +3265,9 @@
   },
   {
     "Codigo": "25-MC3-031 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "25",
     "Unidad": "Departamento de Administración de Empresas",
     "Nombre": "Microcredencial Universitaria en Inteligencia Artificial Aplicada a la Función de Compras y Suministros",
@@ -3141,7 +3279,7 @@
     "F. fin preinscripcion": " 19-04-2026",
     "F.inicio matricula": " 17-04-2026",
     "F. fin matricula": " 21-04-2026",
-    "Precio publico": 450,
+    "Precio": 450,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "24-03-2026",
     "Se imparte": "NO",
@@ -3175,7 +3313,9 @@
   },
   {
     "Codigo": "26-MA3-005 (3)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "26",
     "Unidad": "Departamento de Ciencias y Técnicas de la Navegación y de la Construcción Naval",
     "Nombre": "Máster de Formación Permanente en Gestión del Negocio Marítimo y Logística Asociada",
@@ -3187,7 +3327,7 @@
     "F. fin preinscripcion": " 17-09-2025",
     "F.inicio matricula": " 26-09-2025",
     "F. fin matricula": " 30-09-2025",
-    "Precio publico": 3000,
+    "Precio": 3000,
     "Fecha aprob. uo de v1": "12-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -3221,7 +3361,9 @@
   },
   {
     "Codigo": "27-ES3-019 (1)",
-    "Categoría": "Diploma Universitario de Especialización",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
     "Cod. unidad": "27",
     "Unidad": "Departamento de Derecho Privado",
     "Nombre": "Diploma Universitario de Especialización en Derecho de Familia (Híbrido)",
@@ -3233,7 +3375,7 @@
     "F. fin preinscripcion": " 05-10-2025",
     "F.inicio matricula": " 09-10-2025",
     "F. fin matricula": " 14-10-2025",
-    "Precio publico": 1175,
+    "Precio": 1175,
     "Fecha aprob. uo de v1": "03-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -3267,7 +3409,9 @@
   },
   {
     "Codigo": "27-ES3-020 (1)",
-    "Categoría": "Diploma Universitario de Especialización",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
     "Cod. unidad": "27",
     "Unidad": "Departamento de Derecho Privado",
     "Nombre": "Diploma Universitario de Especialización en Derecho de Familia (Virtual)",
@@ -3279,7 +3423,7 @@
     "F. fin preinscripcion": " 05-10-2025",
     "F.inicio matricula": " 09-10-2025",
     "F. fin matricula": " 14-10-2025",
-    "Precio publico": 1175,
+    "Precio": 1175,
     "Fecha aprob. uo de v1": "03-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -3313,7 +3457,9 @@
   },
   {
     "Codigo": "27-ES3-021 (1)",
-    "Categoría": "Diploma Universitario de Especialización",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
     "Cod. unidad": "27",
     "Unidad": "Departamento de Derecho Privado",
     "Nombre": "Diploma Universitario de Especialización en Derecho de Menores (Híbrido)",
@@ -3325,7 +3471,7 @@
     "F. fin preinscripcion": " 25-01-2026",
     "F.inicio matricula": " 29-01-2026",
     "F. fin matricula": " 30-01-2026",
-    "Precio publico": 1175,
+    "Precio": 1175,
     "Fecha aprob. uo de v1": "03-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -3359,7 +3505,9 @@
   },
   {
     "Codigo": "27-ES3-022 (1)",
-    "Categoría": "Diploma Universitario de Especialización",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
     "Cod. unidad": "27",
     "Unidad": "Departamento de Derecho Privado",
     "Nombre": "Diploma Universitario de Especialización en Derecho de Menores (Virtual)",
@@ -3371,7 +3519,7 @@
     "F. fin preinscripcion": " 25-01-2026",
     "F.inicio matricula": " 29-01-2026",
     "F. fin matricula": " 30-01-2026",
-    "Precio publico": 1175,
+    "Precio": 1175,
     "Fecha aprob. uo de v1": "03-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -3405,7 +3553,9 @@
   },
   {
     "Codigo": "27-EX3-013 (1)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "27",
     "Unidad": "Departamento de Derecho Privado",
     "Nombre": "Diploma Universitario de Experto en la Administración de las Sociedades de Garantía Reciproca",
@@ -3417,7 +3567,7 @@
     "F. fin preinscripcion": " 17-09-2025",
     "F.inicio matricula": " 20-09-2025",
     "F. fin matricula": " 30-09-2025",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "03-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -3451,7 +3601,9 @@
   },
   {
     "Codigo": "27-MA3-014 (1)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "27",
     "Unidad": "Departamento de Derecho Privado",
     "Nombre": "Máster de Formación Permanente en Mediación y Gestión de Conflictos",
@@ -3463,7 +3615,7 @@
     "F. fin preinscripcion": " 01-10-2025",
     "F.inicio matricula": " 13-10-2025",
     "F. fin matricula": " 26-10-2025",
-    "Precio publico": 2000,
+    "Precio": 2000,
     "Fecha aprob. uo de v1": "03-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -3497,7 +3649,9 @@
   },
   {
     "Codigo": "27-MA3-015 (1)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "27",
     "Unidad": "Departamento de Derecho Privado",
     "Nombre": "Máster de Formación Permanente en Derecho de Comercio y Consumo (Híbrido)",
@@ -3509,7 +3663,7 @@
     "F. fin preinscripcion": " 01-10-2025",
     "F.inicio matricula": " 13-10-2025",
     "F. fin matricula": " 26-10-2025",
-    "Precio publico": 2000,
+    "Precio": 2000,
     "Fecha aprob. uo de v1": "03-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -3543,7 +3697,9 @@
   },
   {
     "Codigo": "27-MA3-016 (1)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "27",
     "Unidad": "Departamento de Derecho Privado",
     "Nombre": "Máster de Formación Permanente en Derecho de Comercio y Consumo (Virtual)",
@@ -3555,7 +3711,7 @@
     "F. fin preinscripcion": " 01-10-2025",
     "F.inicio matricula": " 13-10-2025",
     "F. fin matricula": " 26-10-2025",
-    "Precio publico": 2000,
+    "Precio": 2000,
     "Fecha aprob. uo de v1": "03-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -3589,7 +3745,9 @@
   },
   {
     "Codigo": "27-MA3-017 (1)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "27",
     "Unidad": "Departamento de Derecho Privado",
     "Nombre": "Máster de Formación Permanente en Derecho de Familia y Menores (Híbrido)",
@@ -3601,7 +3759,7 @@
     "F. fin preinscripcion": " 05-10-2025",
     "F.inicio matricula": " 09-10-2025",
     "F. fin matricula": " 14-10-2025",
-    "Precio publico": 2350,
+    "Precio": 2350,
     "Fecha aprob. uo de v1": "03-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -3635,7 +3793,9 @@
   },
   {
     "Codigo": "27-MA3-018 (1)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "27",
     "Unidad": "Departamento de Derecho Privado",
     "Nombre": "Máster de Formación Permanente en Derecho de Familia y Menores (Virtual)",
@@ -3647,7 +3807,7 @@
     "F. fin preinscripcion": " 05-10-2025",
     "F.inicio matricula": " 09-10-2025",
     "F. fin matricula": " 14-10-2025",
-    "Precio publico": 2350,
+    "Precio": 2350,
     "Fecha aprob. uo de v1": "23-10-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -3681,7 +3841,9 @@
   },
   {
     "Codigo": "27-MC3-023 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "27",
     "Unidad": "Departamento de Derecho Privado",
     "Nombre": "Microcredencial Universitaria en Derecho de Familia Internacional (Híbrido)",
@@ -3693,7 +3855,7 @@
     "F. fin preinscripcion": " 20-02-2026",
     "F.inicio matricula": " 04-03-2026",
     "F. fin matricula": " 05-03-2026",
-    "Precio publico": 200,
+    "Precio": 200,
     "Fecha aprob. uo de v1": "03-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -3727,7 +3889,9 @@
   },
   {
     "Codigo": "27-MC3-024 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "27",
     "Unidad": "Departamento de Derecho Privado",
     "Nombre": "Microcredencial Universitaria en Derecho de Familia Internacional (Virtual)",
@@ -3739,7 +3903,7 @@
     "F. fin preinscripcion": " 20-02-2026",
     "F.inicio matricula": " 04-03-2026",
     "F. fin matricula": " 05-03-2026",
-    "Precio publico": 200,
+    "Precio": 200,
     "Fecha aprob. uo de v1": "03-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -3773,7 +3937,9 @@
   },
   {
     "Codigo": "27-MC3-028 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "27",
     "Unidad": "Departamento de Derecho Privado",
     "Nombre": "Microcredencial Universitaria en Violencia Doméstica y de Género (Híbrido)",
@@ -3785,7 +3951,7 @@
     "F. fin preinscripcion": " 25-01-2026",
     "F.inicio matricula": " 29-01-2026",
     "F. fin matricula": " 30-01-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "03-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -3819,7 +3985,9 @@
   },
   {
     "Codigo": "27-MC3-029 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "27",
     "Unidad": "Departamento de Derecho Privado",
     "Nombre": "Microcredencial Universitaria en Violencia Doméstica y de Género (Virtual)",
@@ -3831,7 +3999,7 @@
     "F. fin preinscripcion": " 25-01-2026",
     "F.inicio matricula": " 29-01-2026",
     "F. fin matricula": " 30-01-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "03-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -3865,7 +4033,9 @@
   },
   {
     "Codigo": "28-ES3-019 (1)",
-    "Categoría": "Diploma Universitario de Especialización",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
     "Cod. unidad": "28",
     "Unidad": "Departamento de Enfermería",
     "Nombre": "Diploma Universitario de Especialización en Cuidados y Curas de Heridas Crónicas (Virtual)",
@@ -3877,7 +4047,7 @@
     "F. fin preinscripcion": " 02-09-2025",
     "F.inicio matricula": " 08-09-2025",
     "F. fin matricula": " 29-09-2025",
-    "Precio publico": 600,
+    "Precio": 600,
     "Fecha aprob. uo de v1": "12-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -3911,7 +4081,9 @@
   },
   {
     "Codigo": "28-EX3-014 (1)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "28",
     "Unidad": "Departamento de Enfermería",
     "Nombre": "Diploma Universitario de Experto en Gestión y Adquisición de Recursos Materiales Sanitarios",
@@ -3923,7 +4095,7 @@
     "F. fin preinscripcion": " 28-01-2026",
     "F.inicio matricula": " 02-02-2026",
     "F. fin matricula": " 05-02-2026",
-    "Precio publico": 440,
+    "Precio": 440,
     "Fecha aprob. uo de v1": "12-01-2026",
     "Fecha informe aprobacion cep": "18-12-2025",
     "Se imparte": "SI",
@@ -3957,7 +4129,9 @@
   },
   {
     "Codigo": "28-MC3-018 (5)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "28",
     "Unidad": "Departamento de Enfermería",
     "Nombre": "Microcredencial Universitaria Soporte Vital Básico y Desfibrilación Semiautomática",
@@ -3969,7 +4143,7 @@
     "F. fin preinscripcion": " 09-01-2026",
     "F.inicio matricula": " 13-01-2026",
     "F. fin matricula": " 22-01-2026",
-    "Precio publico": 100,
+    "Precio": 100,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "",
     "Se imparte": "NO",
@@ -4003,7 +4177,9 @@
   },
   {
     "Codigo": "28-MC3-021 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "28",
     "Unidad": "Departamento de Enfermería",
     "Nombre": "Microcredencial Universitaria Soporte Vital Básico y Desfibrilación Semiautomática_V Edición Enero\r\n",
@@ -4015,7 +4191,7 @@
     "F. fin preinscripcion": " 09-01-2026",
     "F.inicio matricula": " 13-01-2026",
     "F. fin matricula": " 22-01-2026",
-    "Precio publico": 100,
+    "Precio": 100,
     "Fecha aprob. uo de v1": "10-11-2025",
     "Fecha informe aprobacion cep": "18-12-2025",
     "Se imparte": "SI",
@@ -4049,7 +4225,9 @@
   },
   {
     "Codigo": "28-MC3-022 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "28",
     "Unidad": "Departamento de Enfermería",
     "Nombre": "Microcredencial Universitaria Soporte Vital Básico y Desfibrilación Semiautomática_VI Edición Marzo",
@@ -4061,7 +4239,7 @@
     "F. fin preinscripcion": " 27-02-2026",
     "F.inicio matricula": " 03-03-2026",
     "F. fin matricula": " 13-03-2026",
-    "Precio publico": 100,
+    "Precio": 100,
     "Fecha aprob. uo de v1": "20-02-2026",
     "Fecha informe aprobacion cep": "18-12-2025",
     "Se imparte": "SI",
@@ -4095,7 +4273,9 @@
   },
   {
     "Codigo": "32-FC3-013 (2)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "32",
     "Unidad": "Facultad de Ciencias",
     "Nombre": "Curso Universitario de Formación Permanente de Desarrollo e Industria del Videojuego PlayStation Talents",
@@ -4107,7 +4287,7 @@
     "F. fin preinscripcion": " 06-10-2025",
     "F.inicio matricula": " 25-09-2025",
     "F. fin matricula": " 02-10-2025",
-    "Precio publico": 50,
+    "Precio": 50,
     "Fecha aprob. uo de v1": "21-03-2025",
     "Fecha informe aprobacion cep": "21-03-2025",
     "Se imparte": "SI",
@@ -4141,7 +4321,9 @@
   },
   {
     "Codigo": "32-MC3-010 (2)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "32",
     "Unidad": "Facultad de Ciencias",
     "Nombre": "Microcredencial Universitaria en Fundamentos de la Ciberseguridad",
@@ -4153,7 +4335,7 @@
     "F. fin preinscripcion": " 10-10-2025 14-10-2025",
     "F.inicio matricula": " 12-10-2025 15-10-2025",
     "F. fin matricula": " 14-10-2025 16-10-2025",
-    "Precio publico": 0,
+    "Precio": 0,
     "Fecha aprob. uo de v1": "23-07-2025",
     "Fecha informe aprobacion cep": "21-07-2025",
     "Se imparte": "SI",
@@ -4187,7 +4369,9 @@
   },
   {
     "Codigo": "32-MC3-011 (2)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "32",
     "Unidad": "Facultad de Ciencias",
     "Nombre": "Microcredencial Universitaria en Fundamentos Técnicos de la Ciberseguridad",
@@ -4199,7 +4383,7 @@
     "F. fin preinscripcion": " 19-01-2026",
     "F.inicio matricula": " 21-01-2026",
     "F. fin matricula": " 24-01-2026",
-    "Precio publico": 0,
+    "Precio": 0,
     "Fecha aprob. uo de v1": "18-12-2025",
     "Fecha informe aprobacion cep": "18-12-2025",
     "Se imparte": "SI",
@@ -4233,7 +4417,9 @@
   },
   {
     "Codigo": "32-MC3-012 (2)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "32",
     "Unidad": "Facultad de Ciencias",
     "Nombre": "Microcredencial Universitaria en Hacking Ético",
@@ -4245,7 +4431,7 @@
     "F. fin preinscripcion": " 03-03-2026",
     "F.inicio matricula": " 05-03-2026",
     "F. fin matricula": " 08-03-2026",
-    "Precio publico": 0,
+    "Precio": 0,
     "Fecha aprob. uo de v1": "21-01-2026",
     "Fecha informe aprobacion cep": "03-02-2026",
     "Se imparte": "SI",
@@ -4279,7 +4465,9 @@
   },
   {
     "Codigo": "32-MC3-016 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "32",
     "Unidad": "Facultad de Ciencias",
     "Nombre": "Microcredencial Universitaria en Trabajar con Inteligencia Artificial Generativa desde un Uso Responsable",
@@ -4291,7 +4479,7 @@
     "F. fin preinscripcion": " 10-10-2025",
     "F.inicio matricula": " 12-10-2025",
     "F. fin matricula": " 17-10-2025",
-    "Precio publico": 0,
+    "Precio": 0,
     "Fecha aprob. uo de v1": "18-07-2025",
     "Fecha informe aprobacion cep": "23-09-2025",
     "Se imparte": "SI",
@@ -4325,7 +4513,9 @@
   },
   {
     "Codigo": "32-MC3-017 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "32",
     "Unidad": "Facultad de Ciencias",
     "Nombre": "Microcredencial Universitaria en Sostenibilidad en Infraestructuras de Computación",
@@ -4337,7 +4527,7 @@
     "F. fin preinscripcion": " 20-03-2026",
     "F.inicio matricula": " 23-03-2026",
     "F. fin matricula": " 07-04-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "09-12-2025",
     "Fecha informe aprobacion cep": "18-12-2025",
     "Se imparte": "NO",
@@ -4371,7 +4561,9 @@
   },
   {
     "Codigo": "32-MC3-018 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "32",
     "Unidad": "Facultad de Ciencias",
     "Nombre": "Microcredencial Universitaria en Astrofísica y Cosmología en el Siglo XXI\r\n",
@@ -4383,7 +4575,7 @@
     "F. fin preinscripcion": " 20-03-2026",
     "F.inicio matricula": " 22-03-2026",
     "F. fin matricula": " 23-03-2026",
-    "Precio publico": 200,
+    "Precio": 200,
     "Fecha aprob. uo de v1": "13-02-2026",
     "Fecha informe aprobacion cep": "16-02-2026",
     "Se imparte": "SI",
@@ -4417,7 +4609,9 @@
   },
   {
     "Codigo": "32-MC3-019 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "32",
     "Unidad": "Facultad de Ciencias",
     "Nombre": "Microcredencial Universitaria en Gestión de la Configuración e Integración Continua con Git y Github\r\n\r\n",
@@ -4429,7 +4623,7 @@
     "F. fin preinscripcion": " 01-03-2026",
     "F.inicio matricula": " 26-02-2026",
     "F. fin matricula": " 01-03-2026",
-    "Precio publico": 137.05,
+    "Precio": 137.05,
     "Fecha aprob. uo de v1": "13-02-2026",
     "Fecha informe aprobacion cep": "17-02-2026",
     "Se imparte": "SI",
@@ -4463,7 +4657,9 @@
   },
   {
     "Codigo": "34-MC3-003 (3)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "34",
     "Unidad": "Facultad de Derecho",
     "Nombre": "Microcredencial Universitaria en Competencias Digitales para las Profesiones Jurídicas",
@@ -4475,7 +4671,7 @@
     "F. fin preinscripcion": " 04-11-2025",
     "F.inicio matricula": " 05-11-2025",
     "F. fin matricula": " 11-11-2025",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "05-11-2025",
     "Fecha informe aprobacion cep": "02-10-2025",
     "Se imparte": "SI",
@@ -4509,7 +4705,9 @@
   },
   {
     "Codigo": "35-ES3-058 (1)",
-    "Categoría": "Diploma Universitario de Especialización",
+    "Categoria": [
+      "Diploma Universitario de Especialización"
+    ],
     "Cod. unidad": "35",
     "Unidad": "Escuela Técnica Superior de Ingenieros de Caminos, Canales y Puertos",
     "Nombre": "Diploma Universitario de Especialización BIM Manager en Ingeniería Civil",
@@ -4521,7 +4719,7 @@
     "F. fin preinscripcion": " 19-09-2025",
     "F.inicio matricula": " 25-09-2025",
     "F. fin matricula": " 05-10-2025",
-    "Precio publico": 3840,
+    "Precio": 3840,
     "Fecha aprob. uo de v1": "16-05-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -4555,7 +4753,9 @@
   },
   {
     "Codigo": "35-MC3-052 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "35",
     "Unidad": "Escuela Técnica Superior de Ingenieros de Caminos, Canales y Puertos",
     "Nombre": "Microcredencial Universitaria en HabiLAB- Caminos. Habilidades Profesionales para la Vida y el Futuro - Competencias Personales",
@@ -4567,7 +4767,7 @@
     "F. fin preinscripcion": " 08-10-2025",
     "F.inicio matricula": " 09-10-2025",
     "F. fin matricula": " 09-10-2025",
-    "Precio publico": 150,
+    "Precio": 150,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "02-10-2025",
     "Se imparte": "NO",
@@ -4601,7 +4801,9 @@
   },
   {
     "Codigo": "35-MC3-054 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "35",
     "Unidad": "Escuela Técnica Superior de Ingenieros de Caminos, Canales y Puertos",
     "Nombre": "Microcredencial Universitaria en HabiLAB- Caminos II. Habilidades Profesionales para la Vida y el Futuro - Competencias Personales",
@@ -4613,7 +4815,7 @@
     "F. fin preinscripcion": " 27-01-2026",
     "F.inicio matricula": " 02-02-2026",
     "F. fin matricula": " 05-02-2026",
-    "Precio publico": 150,
+    "Precio": 150,
     "Fecha aprob. uo de v1": "29-09-2025",
     "Fecha informe aprobacion cep": "02-10-2025",
     "Se imparte": "SI",
@@ -4647,7 +4849,9 @@
   },
   {
     "Codigo": "35-MC3-059 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "35",
     "Unidad": "Escuela Técnica Superior de Ingenieros de Caminos, Canales y Puertos",
     "Nombre": "Microcredencial Universitaria en Analista BIM en Ingeniería de Caminos",
@@ -4659,7 +4863,7 @@
     "F. fin preinscripcion": " 19-10-2025",
     "F.inicio matricula": " 27-10-2025",
     "F. fin matricula": " 09-11-2025",
-    "Precio publico": 0,
+    "Precio": 0,
     "Fecha aprob. uo de v1": "16-09-2025",
     "Fecha informe aprobacion cep": "23-09-2025",
     "Se imparte": "SI",
@@ -4693,7 +4897,9 @@
   },
   {
     "Codigo": "35-MC3-060 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "35",
     "Unidad": "Escuela Técnica Superior de Ingenieros de Caminos, Canales y Puertos",
     "Nombre": "Microcredencial Universitaria en IA2 con Python para Ciencia y Tecnología (I)",
@@ -4705,7 +4911,7 @@
     "F. fin preinscripcion": " 01-10-2025",
     "F.inicio matricula": " 06-10-2025",
     "F. fin matricula": " 12-10-2025",
-    "Precio publico": 23.85,
+    "Precio": 23.85,
     "Fecha aprob. uo de v1": "16-09-2025",
     "Fecha informe aprobacion cep": "23-09-2025",
     "Se imparte": "SI",
@@ -4739,7 +4945,9 @@
   },
   {
     "Codigo": "35-MC3-061 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "35",
     "Unidad": "Escuela Técnica Superior de Ingenieros de Caminos, Canales y Puertos",
     "Nombre": "Microcredencial Universitaria en IA2 con Python para Ciencia y Tecnología (II)",
@@ -4751,7 +4959,7 @@
     "F. fin preinscripcion": " 29-10-2025",
     "F.inicio matricula": " 03-11-2025",
     "F. fin matricula": " 09-11-2025",
-    "Precio publico": 23.85,
+    "Precio": 23.85,
     "Fecha aprob. uo de v1": "16-09-2025",
     "Fecha informe aprobacion cep": "23-09-2025",
     "Se imparte": "SI",
@@ -4785,7 +4993,9 @@
   },
   {
     "Codigo": "35-MC3-062 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "35",
     "Unidad": "Escuela Técnica Superior de Ingenieros de Caminos, Canales y Puertos",
     "Nombre": "Microcredencial Universitaria Introducción al Diseño y Operación de los Sistemas Ferroviarios",
@@ -4797,7 +5007,7 @@
     "F. fin preinscripcion": " 31-12-2025",
     "F.inicio matricula": " 16-01-2026",
     "F. fin matricula": " 30-01-2026",
-    "Precio publico": 1750,
+    "Precio": 1750,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "",
     "Se imparte": "NO",
@@ -4831,7 +5041,9 @@
   },
   {
     "Codigo": "35-MC3-063 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "35",
     "Unidad": "Escuela Técnica Superior de Ingenieros de Caminos, Canales y Puertos",
     "Nombre": "Microcredencial Universitaria en Modelado BIM Infraestructuras con Istram",
@@ -4843,7 +5055,7 @@
     "F. fin preinscripcion": " 22-03-2026",
     "F.inicio matricula": " 30-03-2026",
     "F. fin matricula": " 10-04-2026",
-    "Precio publico": 480,
+    "Precio": 480,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-03-2026",
     "Se imparte": "SI",
@@ -4877,7 +5089,9 @@
   },
   {
     "Codigo": "36-EX3-010 (1)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "36",
     "Unidad": "Facultad de Ciencias Económicas y Empresariales",
     "Nombre": "Diploma Universitario de Experto en Gestión Directiva",
@@ -4889,7 +5103,7 @@
     "F. fin preinscripcion": " 08-01-2025",
     "F.inicio matricula": " 13-01-2025",
     "F. fin matricula": " 14-01-2025",
-    "Precio publico": 0,
+    "Precio": 0,
     "Fecha aprob. uo de v1": "13-01-2026",
     "Fecha informe aprobacion cep": "13-01-2026",
     "Se imparte": "SI",
@@ -4923,7 +5137,9 @@
   },
   {
     "Codigo": "36-EX3-014 (1)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "36",
     "Unidad": "Facultad de Ciencias Económicas y Empresariales",
     "Nombre": "Diploma Universitario de Experto en Competencias Digitales aplicadas a la Empresa\r\n",
@@ -4935,7 +5151,7 @@
     "F. fin preinscripcion": " 16-04-2026",
     "F.inicio matricula": " 19-04-2026",
     "F. fin matricula": " 24-04-2026",
-    "Precio publico": 0,
+    "Precio": 0,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "",
     "Se imparte": "SI",
@@ -4969,7 +5185,9 @@
   },
   {
     "Codigo": "36-MC3-003 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "36",
     "Unidad": "Facultad de Ciencias Económicas y Empresariales",
     "Nombre": "Microcredencial Universitaria en Integración de los Retos ASG en la Estrategia Empresarial",
@@ -4981,7 +5199,7 @@
     "F. fin preinscripcion": " 12-02-2026",
     "F.inicio matricula": " 12-02-2026",
     "F. fin matricula": " 16-02-2026",
-    "Precio publico": 1000,
+    "Precio": 1000,
     "Fecha aprob. uo de v1": "28-01-2026",
     "Fecha informe aprobacion cep": "21-01-2026",
     "Se imparte": "SI",
@@ -5015,7 +5233,9 @@
   },
   {
     "Codigo": "36-MC3-004 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "36",
     "Unidad": "Facultad de Ciencias Económicas y Empresariales",
     "Nombre": "Microcredencial Universitaria en Liderazgo Transformacional y Gestión del Cambio.",
@@ -5027,7 +5247,7 @@
     "F. fin preinscripcion": " 16-03-2026",
     "F.inicio matricula": " 11-03-2026",
     "F. fin matricula": " 16-03-2026",
-    "Precio publico": 1000,
+    "Precio": 1000,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "21-01-2026",
     "Se imparte": "SI",
@@ -5061,7 +5281,9 @@
   },
   {
     "Codigo": "36-MC3-007 (2)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "36",
     "Unidad": "Facultad de Ciencias Económicas y Empresariales",
     "Nombre": "Microcredencial Universitaria en Datos y Programación en Python al Servicio de la Gestión Empresarial",
@@ -5073,7 +5295,7 @@
     "F. fin preinscripcion": " 05-03-2026",
     "F.inicio matricula": " 28-02-2026",
     "F. fin matricula": " 03-03-2026",
-    "Precio publico": 23.82,
+    "Precio": 23.82,
     "Fecha aprob. uo de v1": "12-03-2026",
     "Fecha informe aprobacion cep": "23-02-2026",
     "Se imparte": "SI",
@@ -5107,7 +5329,9 @@
   },
   {
     "Codigo": "36-MC3-008 (2)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "36",
     "Unidad": "Facultad de Ciencias Económicas y Empresariales",
     "Nombre": "Microcredencial Universitaria en Del Dato a la Decisión: Power BI para Futuros Líderes Empresariales",
@@ -5119,7 +5343,7 @@
     "F. fin preinscripcion": " 10-09-2025",
     "F.inicio matricula": " 13-09-2025",
     "F. fin matricula": " 18-09-2025",
-    "Precio publico": 23.82,
+    "Precio": 23.82,
     "Fecha aprob. uo de v1": "17-03-2025",
     "Fecha informe aprobacion cep": "19-02-2025",
     "Se imparte": "SI",
@@ -5153,7 +5377,9 @@
   },
   {
     "Codigo": "36-MC3-008 (3)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "36",
     "Unidad": "Facultad de Ciencias Económicas y Empresariales",
     "Nombre": "Microcredencial Universitaria en Del Dato a la Decisión: Power BI para Futuros Líderes Empresariales",
@@ -5165,7 +5391,7 @@
     "F. fin preinscripcion": " 13-09-2026",
     "F.inicio matricula": " 15-09-2026",
     "F. fin matricula": " 20-09-2026",
-    "Precio publico": 23.82,
+    "Precio": 23.82,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-03-2026",
     "Se imparte": "SI",
@@ -5199,7 +5425,9 @@
   },
   {
     "Codigo": "36-MC3-009 (2)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "36",
     "Unidad": "Facultad de Ciencias Económicas y Empresariales",
     "Nombre": "Microcredencial Universitaria en Analítica Web para la Optimización de la Presencia Web Corporativa y Análisis de Clientes Digitales",
@@ -5211,7 +5439,7 @@
     "F. fin preinscripcion": " 16-04-2026",
     "F.inicio matricula": " 10-04-2026",
     "F. fin matricula": " 13-04-2026",
-    "Precio publico": 23.82,
+    "Precio": 23.82,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "24-02-2026",
     "Se imparte": "SI",
@@ -5245,7 +5473,9 @@
   },
   {
     "Codigo": "36-MC3-011 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "36",
     "Unidad": "Facultad de Ciencias Económicas y Empresariales",
     "Nombre": "Microcredencial Univesitaria en Estrategias de Internacionalización y Exportación para Directivos",
@@ -5257,7 +5487,7 @@
     "F. fin preinscripcion": " 19-01-2026",
     "F.inicio matricula": " 21-01-2026",
     "F. fin matricula": " 22-01-2026",
-    "Precio publico": 830,
+    "Precio": 830,
     "Fecha aprob. uo de v1": "12-03-2026",
     "Fecha informe aprobacion cep": "18-12-2025",
     "Se imparte": "SI",
@@ -5291,7 +5521,9 @@
   },
   {
     "Codigo": "36-MC3-012 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "36",
     "Unidad": "Facultad de Ciencias Económicas y Empresariales",
     "Nombre": "Microcredencial Universitaria en Gobierno de la Empresa Familiar.",
@@ -5303,7 +5535,7 @@
     "F. fin preinscripcion": " 03-05-2026",
     "F.inicio matricula": " 19-01-2026",
     "F. fin matricula": " 04-05-2026",
-    "Precio publico": 830,
+    "Precio": 830,
     "Fecha aprob. uo de v1": "15-01-2026",
     "Fecha informe aprobacion cep": "21-01-2026",
     "Se imparte": "SI",
@@ -5337,7 +5569,9 @@
   },
   {
     "Codigo": "36-MC3-013 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "36",
     "Unidad": "Facultad de Ciencias Económicas y Empresariales",
     "Nombre": "Microcredencial Universitaria en Iniciación a la IA Empresarial: Genera, Analiza y Automatiza sin Programar",
@@ -5349,7 +5583,7 @@
     "F. fin preinscripcion": " 28-04-2026",
     "F.inicio matricula": " 04-03-2026",
     "F. fin matricula": " 29-04-2026",
-    "Precio publico": 23.82,
+    "Precio": 23.82,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "24-02-2026",
     "Se imparte": "SI",
@@ -5383,7 +5617,9 @@
   },
   {
     "Codigo": "41-EX3-023 (1)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "41",
     "Unidad": "Facultad de Educación",
     "Nombre": "Diploma Universitario de Experto en Protección a la Infancia y a la Adolescencia",
@@ -5395,7 +5631,7 @@
     "F. fin preinscripcion": " 16-09-2025",
     "F.inicio matricula": " 02-10-2025",
     "F. fin matricula": " 09-10-2025",
-    "Precio publico": 800,
+    "Precio": 800,
     "Fecha aprob. uo de v1": "30-05-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -5429,7 +5665,9 @@
   },
   {
     "Codigo": "41-FC3-021 (1)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "41",
     "Unidad": "Facultad de Educación",
     "Nombre": "Curso Universitario de Formación Permanente de Capacitación para la Incorporación al Mundo Laboral. Programa de Formación para Personas con Discapacidad Intelectual, del Desarrollo y/o del Espectro Autista",
@@ -5441,7 +5679,7 @@
     "F. fin preinscripcion": " 19-09-2025",
     "F.inicio matricula": " 25-09-2025",
     "F. fin matricula": " 03-10-2025",
-    "Precio publico": 0,
+    "Precio": 0,
     "Fecha aprob. uo de v1": "01-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -5475,7 +5713,9 @@
   },
   {
     "Codigo": "41-FC3-024 (1)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "41",
     "Unidad": "Facultad de Educación",
     "Nombre": "Curso Universitario de Formación Permanente en Certificado   Oficial de Formación Pedagógica y Didáctica Equivalente",
@@ -5487,7 +5727,7 @@
     "F. fin preinscripcion": " 31-07-2025",
     "F.inicio matricula": " 07-08-2025",
     "F. fin matricula": " 12-09-2025",
-    "Precio publico": 677,
+    "Precio": 677,
     "Fecha aprob. uo de v1": "01-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -5521,7 +5761,9 @@
   },
   {
     "Codigo": "41-MC3-022 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "41",
     "Unidad": "Facultad de Educación",
     "Nombre": "Microcredencial Universitaria en Competencias Digitales para Maestros/as",
@@ -5533,7 +5775,7 @@
     "F. fin preinscripcion": " 05-11-2025",
     "F.inicio matricula": " 10-11-2025",
     "F. fin matricula": " 21-11-2025",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "09-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -5567,7 +5809,9 @@
   },
   {
     "Codigo": "41-MC3-022 (2)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "41",
     "Unidad": "Facultad de Educación",
     "Nombre": "Microcredencial Universitaria en Competencias Digitales para Maestros/as",
@@ -5579,7 +5823,7 @@
     "F. fin preinscripcion": " 20-05-2026",
     "F.inicio matricula": " 22-05-2026",
     "F. fin matricula": " 25-05-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-05-2026",
     "Se imparte": "SI",
@@ -5613,7 +5857,9 @@
   },
   {
     "Codigo": "41-MC3-025 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "41",
     "Unidad": "Facultad de Educación",
     "Nombre": "Microcredencial Universitaria en Lengua de Signos Española (nivel A1)",
@@ -5625,7 +5871,7 @@
     "F. fin preinscripcion": " 20-01-2026",
     "F.inicio matricula": " 23-01-2026",
     "F. fin matricula": " 02-02-2026",
-    "Precio publico": 190,
+    "Precio": 190,
     "Fecha aprob. uo de v1": "08-01-2026",
     "Fecha informe aprobacion cep": "18-12-2025",
     "Se imparte": "SI",
@@ -5659,7 +5905,9 @@
   },
   {
     "Codigo": "41-MC3-027 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "41",
     "Unidad": "Facultad de Educación",
     "Nombre": "Microcredencial Universitaria en Transferencia del Conocimiento a la Docencia: Bienestar Emocional y Productividad en la Práctica Educativa",
@@ -5671,7 +5919,7 @@
     "F. fin preinscripcion": " 21-01-2026",
     "F.inicio matricula": " 29-01-2026",
     "F. fin matricula": " 08-02-2026",
-    "Precio publico": 100,
+    "Precio": 100,
     "Fecha aprob. uo de v1": "05-02-2026",
     "Fecha informe aprobacion cep": "18-12-2025",
     "Se imparte": "SI",
@@ -5705,7 +5953,9 @@
   },
   {
     "Codigo": "41-MC3-028 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "41",
     "Unidad": "Facultad de Educación",
     "Nombre": "Microcredencial Universitaria en Bienestar Emocional y Productividad en Proyectos a Largo Plazo: Estrategias Eficaces basadas en la Evidencia",
@@ -5717,7 +5967,7 @@
     "F. fin preinscripcion": " 02-02-2026",
     "F.inicio matricula": " 11-02-2026",
     "F. fin matricula": " 22-02-2026",
-    "Precio publico": 150,
+    "Precio": 150,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "18-12-2025",
     "Se imparte": "NO",
@@ -5751,7 +6001,9 @@
   },
   {
     "Codigo": "41-MC3-029 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "41",
     "Unidad": "Facultad de Educación",
     "Nombre": "Microcredencial Universitaria en Transformación Educativa con Liderazgo",
@@ -5763,7 +6015,7 @@
     "F. fin preinscripcion": " 20-02-2026",
     "F.inicio matricula": " 02-03-2026",
     "F. fin matricula": " 09-03-2026",
-    "Precio publico": 133,
+    "Precio": 133,
     "Fecha aprob. uo de v1": "23-01-2026",
     "Fecha informe aprobacion cep": "23-01-2026",
     "Se imparte": "SI",
@@ -5797,7 +6049,9 @@
   },
   {
     "Codigo": "41-MC3-030 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "41",
     "Unidad": "Facultad de Educación",
     "Nombre": "Microcredencial Universitaria en Educador/a en el Deporte según el Marco de la Ley de Protección a la Infancia\r\n",
@@ -5809,7 +6063,7 @@
     "F. fin preinscripcion": " 02-02-2026",
     "F.inicio matricula": " 04-02-2026",
     "F. fin matricula": " 05-02-2026",
-    "Precio publico": 234,
+    "Precio": 234,
     "Fecha aprob. uo de v1": "23-01-2026",
     "Fecha informe aprobacion cep": "23-01-2026",
     "Se imparte": "SI",
@@ -5843,7 +6097,9 @@
   },
   {
     "Codigo": "41-MC3-033 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "41",
     "Unidad": "Facultad de Educación",
     "Nombre": "Microcredencial Universitaria en Protección de Datos en el Centro Educativo",
@@ -5855,7 +6111,7 @@
     "F. fin preinscripcion": " 26-02-2026",
     "F.inicio matricula": " 02-03-2026",
     "F. fin matricula": " 09-03-2026",
-    "Precio publico": 133,
+    "Precio": 133,
     "Fecha aprob. uo de v1": "09-03-2026",
     "Fecha informe aprobacion cep": "23-01-2026",
     "Se imparte": "SI",
@@ -5889,7 +6145,9 @@
   },
   {
     "Codigo": "42-MC3-015 (2)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "42",
     "Unidad": "Escuela Técnica Superior de Ingenieros Industriales y de Telecomunicación",
     "Nombre": "Microcredencial Universitaria en Construyendo Redes de Comunicaciones: Explorando las Tecnologías tras Internet",
@@ -5901,7 +6159,7 @@
     "F. fin preinscripcion": " 12-09-2025",
     "F.inicio matricula": " 16-09-2025",
     "F. fin matricula": " 23-09-2025",
-    "Precio publico": 25,
+    "Precio": 25,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "21-03-2025",
     "Se imparte": "NO",
@@ -5935,7 +6193,9 @@
   },
   {
     "Codigo": "42-MC3-016 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "42",
     "Unidad": "Escuela Técnica Superior de Ingenieros Industriales y de Telecomunicación",
     "Nombre": "Microcredencial Universitaria en Ciberseguridad en Redes de Comunicaciones: Cómo Asegurar tus Comunicaciones a través de Internet",
@@ -5947,7 +6207,7 @@
     "F. fin preinscripcion": " 12-09-2025",
     "F.inicio matricula": " 16-09-2025",
     "F. fin matricula": " 23-09-2025",
-    "Precio publico": 25,
+    "Precio": 25,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -5981,7 +6241,9 @@
   },
   {
     "Codigo": "42-MC3-017 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "42",
     "Unidad": "Escuela Técnica Superior de Ingenieros Industriales y de Telecomunicación",
     "Nombre": "Microcredencial Universitaria en Introducción a la Realidad Extendida",
@@ -5993,7 +6255,7 @@
     "F. fin preinscripcion": " 29-08-2025",
     "F.inicio matricula": " 08-09-2025",
     "F. fin matricula": " 18-09-2025",
-    "Precio publico": 23.82,
+    "Precio": 23.82,
     "Fecha aprob. uo de v1": "11-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -6027,7 +6289,9 @@
   },
   {
     "Codigo": "42-MC3-018 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "42",
     "Unidad": "Escuela Técnica Superior de Ingenieros Industriales y de Telecomunicación",
     "Nombre": "Microcredencial Universitaria en De la Internet de las Cosas a la Industria 4.0: Los Fundamentos de la Transformación Digital",
@@ -6039,7 +6303,7 @@
     "F. fin preinscripcion": " 28-10-2025",
     "F.inicio matricula": " 01-11-2025",
     "F. fin matricula": " 24-11-2025",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "23-09-2025",
     "Se imparte": "NO",
@@ -6073,7 +6337,9 @@
   },
   {
     "Codigo": "43-EX3-007 (1)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "43",
     "Unidad": "Escuela Politécnica de Ingeniería de Minas y Energía",
     "Nombre": "Diploma Universitario de Experto en Gestión Energética",
@@ -6085,7 +6351,7 @@
     "F. fin preinscripcion": " 30-09-2025",
     "F.inicio matricula": " 02-10-2025",
     "F. fin matricula": " 06-10-2025",
-    "Precio publico": 1800,
+    "Precio": 1800,
     "Fecha aprob. uo de v1": "15-05-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -6119,7 +6385,9 @@
   },
   {
     "Codigo": "43-EX3-008 (1)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "43",
     "Unidad": "Escuela Politécnica de Ingeniería de Minas y Energía",
     "Nombre": "Diploma Universitario de Experto en Energías Renovables",
@@ -6131,7 +6399,7 @@
     "F. fin preinscripcion": " 11-02-2026",
     "F.inicio matricula": " 13-02-2026",
     "F. fin matricula": " 16-02-2026",
-    "Precio publico": 1800,
+    "Precio": 1800,
     "Fecha aprob. uo de v1": "15-05-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -6165,7 +6433,9 @@
   },
   {
     "Codigo": "43-MA3-009 (1)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "43",
     "Unidad": "Escuela Politécnica de Ingeniería de Minas y Energía",
     "Nombre": "Máster de Formación Permanente en Energías Renovables y Gestión Energética",
@@ -6177,7 +6447,7 @@
     "F. fin preinscripcion": " 30-09-2025",
     "F.inicio matricula": " 02-10-2025",
     "F. fin matricula": " 06-10-2025",
-    "Precio publico": 3600,
+    "Precio": 3600,
     "Fecha aprob. uo de v1": "15-05-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -6211,7 +6481,9 @@
   },
   {
     "Codigo": "44-MC3-001 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "44",
     "Unidad": "Facultad de Enfermería",
     "Nombre": "Microcredencial Universitaria en Seguridad Clínica en el Paciente Quirúrgico\r\n",
@@ -6223,7 +6495,7 @@
     "F. fin preinscripcion": " 11-02-2026",
     "F.inicio matricula": " 13-02-2026",
     "F. fin matricula": " 15-02-2026",
-    "Precio publico": 134.6,
+    "Precio": 134.6,
     "Fecha aprob. uo de v1": "02-02-2026",
     "Fecha informe aprobacion cep": "03-02-2026",
     "Se imparte": "SI",
@@ -6257,7 +6529,9 @@
   },
   {
     "Codigo": "45-FC3-017 (1)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente Renovación de Tarjetas Profesionales de la Marina Mercante",
@@ -6269,7 +6543,7 @@
     "F. fin preinscripcion": " 29-09-2025",
     "F.inicio matricula": " 02-10-2025",
     "F. fin matricula": " 03-10-2025",
-    "Precio publico": 240,
+    "Precio": 240,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -6303,7 +6577,9 @@
   },
   {
     "Codigo": "45-FC3-017 (2)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente Renovación de Tarjetas Profesionales de la Marina Mercante",
@@ -6315,7 +6591,7 @@
     "F. fin preinscripcion": " 09-02-2026",
     "F.inicio matricula": " 12-02-2026",
     "F. fin matricula": " 13-02-2026",
-    "Precio publico": 240,
+    "Precio": 240,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -6349,7 +6625,9 @@
   },
   {
     "Codigo": "45-FC3-017 (3)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente Renovación de Tarjetas Profesionales de la Marina Mercante",
@@ -6361,7 +6639,7 @@
     "F. fin preinscripcion": " 27-04-2026",
     "F.inicio matricula": " 30-04-2026",
     "F. fin matricula": " 04-05-2026",
-    "Precio publico": 240,
+    "Precio": 240,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -6395,7 +6673,9 @@
   },
   {
     "Codigo": "45-FC3-018 (1)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente en Radar de Punteo Automático (ARPA)",
@@ -6407,7 +6687,7 @@
     "F. fin preinscripcion": " 10-11-2025",
     "F.inicio matricula": " 13-11-2025",
     "F. fin matricula": " 14-11-2025",
-    "Precio publico": 394,
+    "Precio": 394,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -6441,7 +6721,9 @@
   },
   {
     "Codigo": "45-FC3-019 (1)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente en Sistema de Información y Visualización de Cartas Electrónicas (SIVCE/ECDIS)",
@@ -6453,7 +6735,7 @@
     "F. fin preinscripcion": " 19-01-2026",
     "F.inicio matricula": " 22-01-2026",
     "F. fin matricula": " 23-01-2026",
-    "Precio publico": 526,
+    "Precio": 526,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -6487,7 +6769,9 @@
   },
   {
     "Codigo": "45-FC3-019 (2)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente en Sistema de Información y Visualización de Cartas Electrónicas (SIVCE/ECDIS)",
@@ -6499,7 +6783,7 @@
     "F. fin preinscripcion": " 11-05-2026",
     "F.inicio matricula": " 14-05-2026",
     "F. fin matricula": " 15-05-2026",
-    "Precio publico": 526,
+    "Precio": 526,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -6533,7 +6817,9 @@
   },
   {
     "Codigo": "45-FC3-020 (1)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Petroleros",
@@ -6545,7 +6831,7 @@
     "F. fin preinscripcion": " 27-10-2025",
     "F.inicio matricula": " 30-10-2025",
     "F. fin matricula": " 31-10-2025",
-    "Precio publico": 60,
+    "Precio": 60,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -6579,7 +6865,9 @@
   },
   {
     "Codigo": "45-FC3-020 (2)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Petroleros",
@@ -6591,7 +6879,7 @@
     "F. fin preinscripcion": " 19-01-2026",
     "F.inicio matricula": " 22-01-2026",
     "F. fin matricula": " 23-01-2026",
-    "Precio publico": 60,
+    "Precio": 60,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -6625,7 +6913,9 @@
   },
   {
     "Codigo": "45-FC3-020 (3)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Petroleros",
@@ -6637,7 +6927,7 @@
     "F. fin preinscripcion": " 27-04-2026",
     "F.inicio matricula": " 30-04-2026",
     "F. fin matricula": " 04-05-2026",
-    "Precio publico": 60,
+    "Precio": 60,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -6671,7 +6961,9 @@
   },
   {
     "Codigo": "45-FC3-021 (1)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Quimiqueros",
@@ -6683,7 +6975,7 @@
     "F. fin preinscripcion": " 27-10-2025",
     "F.inicio matricula": " 30-10-2025",
     "F. fin matricula": " 31-10-2025",
-    "Precio publico": 60,
+    "Precio": 60,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -6717,7 +7009,9 @@
   },
   {
     "Codigo": "45-FC3-021 (2)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Quimiqueros",
@@ -6729,7 +7023,7 @@
     "F. fin preinscripcion": " 19-01-2026",
     "F.inicio matricula": " 22-01-2026",
     "F. fin matricula": " 23-01-2026",
-    "Precio publico": 60,
+    "Precio": 60,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -6763,7 +7057,9 @@
   },
   {
     "Codigo": "45-FC3-021 (3)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Quimiqueros",
@@ -6775,7 +7071,7 @@
     "F. fin preinscripcion": " 27-04-2026",
     "F.inicio matricula": " 30-04-2026",
     "F. fin matricula": " 04-05-2026",
-    "Precio publico": 60,
+    "Precio": 60,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -6809,7 +7105,9 @@
   },
   {
     "Codigo": "45-FC3-022 (1)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Gaseros",
@@ -6821,7 +7119,7 @@
     "F. fin preinscripcion": " 27-10-2025",
     "F.inicio matricula": " 30-10-2025",
     "F. fin matricula": " 31-10-2025",
-    "Precio publico": 60,
+    "Precio": 60,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -6855,7 +7153,9 @@
   },
   {
     "Codigo": "45-FC3-022 (2)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Gaseros",
@@ -6867,7 +7167,7 @@
     "F. fin preinscripcion": " 19-01-2026",
     "F.inicio matricula": " 22-01-2026",
     "F. fin matricula": " 27-01-2026",
-    "Precio publico": 60,
+    "Precio": 60,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -6901,7 +7201,9 @@
   },
   {
     "Codigo": "45-FC3-022 (3)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Avanzada en Buques Gaseros",
@@ -6913,7 +7215,7 @@
     "F. fin preinscripcion": " 27-04-2026",
     "F.inicio matricula": " 30-04-2026",
     "F. fin matricula": " 04-05-2026",
-    "Precio publico": 60,
+    "Precio": 60,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -6947,7 +7249,9 @@
   },
   {
     "Codigo": "45-FC3-023 (1)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Básica en Buques Petroleros, Quimiqueros y Gaseros",
@@ -6959,7 +7263,7 @@
     "F. fin preinscripcion": " 27-10-2025",
     "F.inicio matricula": " 30-10-2025",
     "F. fin matricula": " 31-10-2025",
-    "Precio publico": 75,
+    "Precio": 75,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -6993,7 +7297,9 @@
   },
   {
     "Codigo": "45-FC3-023 (2)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Básica en Buques Petroleros, Quimiqueros y Gaseros",
@@ -7005,7 +7311,7 @@
     "F. fin preinscripcion": " 19-01-2026",
     "F.inicio matricula": " 22-01-2026",
     "F. fin matricula": " 27-01-2026",
-    "Precio publico": 75,
+    "Precio": 75,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -7039,7 +7345,9 @@
   },
   {
     "Codigo": "45-FC3-023 (3)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente en Actualización de Formación Básica en Buques Petroleros, Quimiqueros y Gaseros",
@@ -7051,7 +7359,7 @@
     "F. fin preinscripcion": " 27-04-2026",
     "F.inicio matricula": " 30-04-2026",
     "F. fin matricula": " 04-05-2026",
-    "Precio publico": 75,
+    "Precio": 75,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -7085,7 +7393,9 @@
   },
   {
     "Codigo": "45-FC3-024 (1)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente Actualización de Buques de Pasaje",
@@ -7097,7 +7407,7 @@
     "F. fin preinscripcion": " 27-10-2025",
     "F.inicio matricula": " 30-10-2025",
     "F. fin matricula": " 31-10-2025",
-    "Precio publico": 60,
+    "Precio": 60,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -7131,7 +7441,9 @@
   },
   {
     "Codigo": "45-FC3-024 (2)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente Actualización de Buques de Pasaje",
@@ -7143,7 +7455,7 @@
     "F. fin preinscripcion": " 19-01-2026",
     "F.inicio matricula": " 22-01-2026",
     "F. fin matricula": " 23-01-2026",
-    "Precio publico": 60,
+    "Precio": 60,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -7177,7 +7489,9 @@
   },
   {
     "Codigo": "45-FC3-024 (3)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Curso Universitario de Formación Permanente Actualización de Buques de Pasaje",
@@ -7189,7 +7503,7 @@
     "F. fin preinscripcion": " 27-04-2026",
     "F.inicio matricula": " 30-04-2026",
     "F. fin matricula": " 04-05-2026",
-    "Precio publico": 60,
+    "Precio": 60,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -7223,7 +7537,9 @@
   },
   {
     "Codigo": "45-MC3-028 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "45",
     "Unidad": "Escuela Técnica Superior de Náutica",
     "Nombre": "Microcredencial Universitaria en MARPOL 73/78: Herramientas de Simulación de Seguimiento de Derrames en el Mar",
@@ -7235,7 +7551,7 @@
     "F. fin preinscripcion": " 15-09-2025",
     "F.inicio matricula": " 17-09-2025",
     "F. fin matricula": " 24-09-2025",
-    "Precio publico": 340,
+    "Precio": 340,
     "Fecha aprob. uo de v1": "26-06-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -7269,7 +7585,9 @@
   },
   {
     "Codigo": "50-MC3-001 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "50",
     "Unidad": "Departamento de Tecnología Electrónica e Ingeniería de Sistemas y Automática",
     "Nombre": "Microcredencial Universitaria en Diseño de Sistemas Integrados Heterogéneos",
@@ -7281,7 +7599,7 @@
     "F. fin preinscripcion": " 21-01-2026",
     "F.inicio matricula": " 27-01-2026",
     "F. fin matricula": " 01-02-2026",
-    "Precio publico": 500,
+    "Precio": 500,
     "Fecha aprob. uo de v1": "23-07-2025",
     "Fecha informe aprobacion cep": "21-07-2025",
     "Se imparte": "SI",
@@ -7315,7 +7633,9 @@
   },
   {
     "Codigo": "50-MC3-002 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "50",
     "Unidad": "Departamento de Tecnología Electrónica e Ingeniería de Sistemas y Automática",
     "Nombre": "Microcredencial Universitaria en MMIC: Diseño, Montaje y Medida",
@@ -7327,7 +7647,7 @@
     "F. fin preinscripcion": " 21-01-2026",
     "F.inicio matricula": " 27-01-2026",
     "F. fin matricula": " 01-02-2026",
-    "Precio publico": 500,
+    "Precio": 500,
     "Fecha aprob. uo de v1": "23-07-2025",
     "Fecha informe aprobacion cep": "21-07-2025",
     "Se imparte": "NO",
@@ -7361,7 +7681,9 @@
   },
   {
     "Codigo": "50-MC3-003 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "50",
     "Unidad": "Departamento de Tecnología Electrónica e Ingeniería de Sistemas y Automática",
     "Nombre": "Microcredencial Universitaria en Diseño y Verificación de Sistemas Digitales Integrados",
@@ -7373,7 +7695,7 @@
     "F. fin preinscripcion": " 21-01-2026",
     "F.inicio matricula": " 27-01-2026",
     "F. fin matricula": " 01-02-2026",
-    "Precio publico": 500,
+    "Precio": 500,
     "Fecha aprob. uo de v1": "23-07-2025",
     "Fecha informe aprobacion cep": "21-07-2025",
     "Se imparte": "SI",
@@ -7407,7 +7729,9 @@
   },
   {
     "Codigo": "50-MC3-004 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "50",
     "Unidad": "Departamento de Tecnología Electrónica e Ingeniería de Sistemas y Automática",
     "Nombre": "Microcredencial Universitaria en Síntesis e Implementación Física de Circuitos Digitales Integrados",
@@ -7419,7 +7743,7 @@
     "F. fin preinscripcion": " 30-09-2025",
     "F.inicio matricula": " 16-10-2025",
     "F. fin matricula": " 28-10-2025",
-    "Precio publico": 500,
+    "Precio": 500,
     "Fecha aprob. uo de v1": "23-07-2023",
     "Fecha informe aprobacion cep": "21-07-2025",
     "Se imparte": "SI",
@@ -7453,7 +7777,9 @@
   },
   {
     "Codigo": "50-MC3-005 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "50",
     "Unidad": "Departamento de Tecnología Electrónica e Ingeniería de Sistemas y Automática",
     "Nombre": "Microcedencial Universitaria en Diseño e Integración de Circuitos Analógicos y Mixtos.",
@@ -7465,7 +7791,7 @@
     "F. fin preinscripcion": " 09-10-2025",
     "F.inicio matricula": " 16-10-2025",
     "F. fin matricula": " 28-10-2025",
-    "Precio publico": 500,
+    "Precio": 500,
     "Fecha aprob. uo de v1": "23-07-2025",
     "Fecha informe aprobacion cep": "21-07-2025",
     "Se imparte": "SI",
@@ -7499,7 +7825,9 @@
   },
   {
     "Codigo": "50-MC3-006 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "50",
     "Unidad": "Departamento de Tecnología Electrónica e Ingeniería de Sistemas y Automática",
     "Nombre": "Microcredencial Universitaria en Plataformas Abiertas RISC-V Configurables",
@@ -7511,7 +7839,7 @@
     "F. fin preinscripcion": " 21-01-2026",
     "F.inicio matricula": " 27-01-2026",
     "F. fin matricula": " 01-02-2026",
-    "Precio publico": 500,
+    "Precio": 500,
     "Fecha aprob. uo de v1": "23-07-2025",
     "Fecha informe aprobacion cep": "21-07-2025",
     "Se imparte": "SI",
@@ -7545,7 +7873,9 @@
   },
   {
     "Codigo": "55-MC3-001 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "55",
     "Unidad": "INST. DE BIOMEDICINA Y BIOTECNOLOGÍA DE CANTABRIA",
     "Nombre": "Microcredencial Universitaria del Laboratorio al Aula: Investigación Biomédica, Divulgación Científica y Recursos Didácticos para Docentes",
@@ -7557,7 +7887,7 @@
     "F. fin preinscripcion": " 09-03-2026",
     "F.inicio matricula": " 16-03-2026",
     "F. fin matricula": " 24-03-2026",
-    "Precio publico": 152,
+    "Precio": 152,
     "Fecha aprob. uo de v1": "30-04-2026",
     "Fecha informe aprobacion cep": "24-02-2026",
     "Se imparte": "SI",
@@ -7591,7 +7921,9 @@
   },
   {
     "Codigo": "56-MC3-001 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "56",
     "Unidad": "Institulo de Hidráulica Ambiental",
     "Nombre": "University Microcredential in Adaptation Pathways through Management and Restoration of Estuarine Ecosystems",
@@ -7603,7 +7935,7 @@
     "F. fin preinscripcion": " 07-11-2025",
     "F.inicio matricula": " 30-09-2025",
     "F. fin matricula": " 28-11-2025",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "29-09-2025",
     "Fecha informe aprobacion cep": "23-09-2025",
     "Se imparte": "SI",
@@ -7637,7 +7969,9 @@
   },
   {
     "Codigo": "56-MC3-001 (2)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "56",
     "Unidad": "Institulo de Hidráulica Ambiental",
     "Nombre": "University Microcredential in Adaptation Pathways through Management and Restoration of Estuarine Ecosystems",
@@ -7649,7 +7983,7 @@
     "F. fin preinscripcion": " 22-05-2026",
     "F.inicio matricula": " 14-04-2026",
     "F. fin matricula": " 29-05-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "19-03-2026",
     "Fecha informe aprobacion cep": "15-03-2026",
     "Se imparte": "SI",
@@ -7683,7 +8017,9 @@
   },
   {
     "Codigo": "56-MC3-002 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "56",
     "Unidad": "Institulo de Hidráulica Ambiental",
     "Nombre": "University Microcredential in Sustainable Marine Ecosystems (TRASMARES)",
@@ -7695,7 +8031,7 @@
     "F. fin preinscripcion": " 07-11-2025",
     "F.inicio matricula": " 30-09-2025",
     "F. fin matricula": " 28-11-2025",
-    "Precio publico": 375,
+    "Precio": 375,
     "Fecha aprob. uo de v1": "29-09-2025",
     "Fecha informe aprobacion cep": "23-09-2025",
     "Se imparte": "SI",
@@ -7729,7 +8065,9 @@
   },
   {
     "Codigo": "56-MC3-002 (2)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "56",
     "Unidad": "Institulo de Hidráulica Ambiental",
     "Nombre": "University Microcredential in Sustainable Marine Ecosystems (TRASMARES)",
@@ -7741,7 +8079,7 @@
     "F. fin preinscripcion": " 22-05-2026",
     "F.inicio matricula": " 14-04-2026",
     "F. fin matricula": " 29-05-2026",
-    "Precio publico": 375,
+    "Precio": 375,
     "Fecha aprob. uo de v1": "19-03-2026",
     "Fecha informe aprobacion cep": "15-03-2026",
     "Se imparte": "SI",
@@ -7775,7 +8113,9 @@
   },
   {
     "Codigo": "56-MC3-003 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "56",
     "Unidad": "Institulo de Hidráulica Ambiental",
     "Nombre": "Microcredencial Universitaria en Gestión de la Calidad de las Aguas Portuarias a Partir del Concepto de la ROM 5.1",
@@ -7787,7 +8127,7 @@
     "F. fin preinscripcion": " 28-11-2025",
     "F.inicio matricula": " 30-09-2025",
     "F. fin matricula": " 28-11-2025",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "29-09-2025",
     "Fecha informe aprobacion cep": "23-09-2025",
     "Se imparte": "SI",
@@ -7821,7 +8161,9 @@
   },
   {
     "Codigo": "56-MC3-003 (2)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "56",
     "Unidad": "Institulo de Hidráulica Ambiental",
     "Nombre": "Microcredencial Universitaria en Gestión de la Calidad de las Aguas Portuarias a Partir del Concepto de la ROM 5.1",
@@ -7833,7 +8175,7 @@
     "F. fin preinscripcion": " 22-05-2026",
     "F.inicio matricula": " 14-04-2026",
     "F. fin matricula": " 29-05-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "19-03-2026",
     "Fecha informe aprobacion cep": "15-03-2026",
     "Se imparte": "SI",
@@ -7867,7 +8209,9 @@
   },
   {
     "Codigo": "56-MC3-004 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "56",
     "Unidad": "Institulo de Hidráulica Ambiental",
     "Nombre": "Microcredencial Universitaria Mitigación y Adaptación al Cambio Climático: el Papel de los Ecosistemas\r\n\r\n",
@@ -7879,7 +8223,7 @@
     "F. fin preinscripcion": " 10-02-2026",
     "F.inicio matricula": " 22-12-2025",
     "F. fin matricula": " 13-02-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "23-12-2025",
     "Fecha informe aprobacion cep": "18-12-2025",
     "Se imparte": "SI",
@@ -7913,7 +8257,9 @@
   },
   {
     "Codigo": "56-MC3-004 (2)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "56",
     "Unidad": "Institulo de Hidráulica Ambiental",
     "Nombre": "Microcredencial Universitaria Mitigación y Adaptación al Cambio Climático: el Papel de los Ecosistemas\r\n\r\n",
@@ -7925,7 +8271,7 @@
     "F. fin preinscripcion": " 22-05-2026",
     "F.inicio matricula": " 14-04-2026",
     "F. fin matricula": " 29-05-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "19-03-2026",
     "Fecha informe aprobacion cep": "15-03-2026",
     "Se imparte": "SI",
@@ -7959,7 +8305,9 @@
   },
   {
     "Codigo": "56-MC3-005 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "56",
     "Unidad": "Institulo de Hidráulica Ambiental",
     "Nombre": "Microcredencial Universitaria Especialización sobre Emergencias Climáticas: Inundaciones",
@@ -7971,7 +8319,7 @@
     "F. fin preinscripcion": " 30-01-2026",
     "F.inicio matricula": " 22-12-2025",
     "F. fin matricula": " 30-01-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "23-12-2025",
     "Fecha informe aprobacion cep": "18-12-2025",
     "Se imparte": "NO",
@@ -8005,7 +8353,9 @@
   },
   {
     "Codigo": "56-MC3-006 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "56",
     "Unidad": "Institulo de Hidráulica Ambiental",
     "Nombre": "Microcredencial Universitaria El Cambio Climático y los Ecosistemas: Educación para la Adaptación y la Mitigación",
@@ -8017,7 +8367,7 @@
     "F. fin preinscripcion": " 13-03-2026",
     "F.inicio matricula": " 14-02-2026",
     "F. fin matricula": " 13-03-2026",
-    "Precio publico": 100,
+    "Precio": 100,
     "Fecha aprob. uo de v1": "18-02-2026",
     "Fecha informe aprobacion cep": "28-01-2026",
     "Se imparte": "SI",
@@ -8051,7 +8401,9 @@
   },
   {
     "Codigo": "57-EX3-004 (1)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "57",
     "Unidad": "Santander Financial Institute (SANFI)",
     "Nombre": "Diploma Universitario de Experto en Banca y Finanzas",
@@ -8063,7 +8415,7 @@
     "F. fin preinscripcion": " 18-09-2025",
     "F.inicio matricula": " 08-09-2025",
     "F. fin matricula": " 18-09-2025",
-    "Precio publico": 875,
+    "Precio": 875,
     "Fecha aprob. uo de v1": "01-08-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -8097,7 +8449,9 @@
   },
   {
     "Codigo": "57-EX3-007 (1)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "57",
     "Unidad": "Santander Financial Institute (SANFI)",
     "Nombre": "Diploma Universitario de Experto en Especialista en Productos de Crédito Inmobiliario",
@@ -8109,7 +8463,7 @@
     "F. fin preinscripcion": "",
     "F.inicio matricula": "",
     "F. fin matricula": "",
-    "Precio publico": 150,
+    "Precio": 150,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -8143,7 +8497,9 @@
   },
   {
     "Codigo": "57-EX3-009 (1)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "57",
     "Unidad": "Santander Financial Institute (SANFI)",
     "Nombre": "Diploma Universitario de Experto en Innovación y Creatividad: Capacidades Personales para el Diseño de Soluciones",
@@ -8155,7 +8511,7 @@
     "F. fin preinscripcion": " 19-09-2025",
     "F.inicio matricula": " 15-09-2025",
     "F. fin matricula": " 21-09-2025",
-    "Precio publico": 490,
+    "Precio": 490,
     "Fecha aprob. uo de v1": "01-09-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -8189,7 +8545,9 @@
   },
   {
     "Codigo": "57-EX3-010 (1)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "57",
     "Unidad": "Santander Financial Institute (SANFI)",
     "Nombre": "Diploma Universitario de Experto en Diseño y Validación de Nuevos Modelos de Negocio",
@@ -8201,7 +8559,7 @@
     "F. fin preinscripcion": " 11-01-2026",
     "F.inicio matricula": " 19-01-2026",
     "F. fin matricula": " 25-01-2026",
-    "Precio publico": 600,
+    "Precio": 600,
     "Fecha aprob. uo de v1": "01-09-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -8235,7 +8593,9 @@
   },
   {
     "Codigo": "57-FC3-018 (1)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "57",
     "Unidad": "Santander Financial Institute (SANFI)",
     "Nombre": "Curso Universitario de Formación Permanente en Derecho de la Unión Europea y Acción Exterior",
@@ -8247,7 +8607,7 @@
     "F. fin preinscripcion": " 27-10-2025",
     "F.inicio matricula": " 20-10-2025",
     "F. fin matricula": " 30-10-2025",
-    "Precio publico": 500,
+    "Precio": 500,
     "Fecha aprob. uo de v1": "05-08-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -8281,7 +8641,9 @@
   },
   {
     "Codigo": "57-MA3-001 (1)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "57",
     "Unidad": "Santander Financial Institute (SANFI)",
     "Nombre": "Máster de Formación Permanente en Banca y Mercados Financieros (Edición España)",
@@ -8293,7 +8655,7 @@
     "F. fin preinscripcion": " 18-09-2025",
     "F.inicio matricula": " 08-09-2025",
     "F. fin matricula": " 18-09-2025",
-    "Precio publico": 12500,
+    "Precio": 12500,
     "Fecha aprob. uo de v1": "01-08-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -8327,7 +8689,9 @@
   },
   {
     "Codigo": "57-MA3-002 (1)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "57",
     "Unidad": "Santander Financial Institute (SANFI)",
     "Nombre": "Máster de Formación Permanente en Banca y Mercados Financieros (Edición México)",
@@ -8339,7 +8703,7 @@
     "F. fin preinscripcion": " 16-02-2026",
     "F.inicio matricula": " 22-09-2025",
     "F. fin matricula": " 16-02-2026",
-    "Precio publico": 19000,
+    "Precio": 19000,
     "Fecha aprob. uo de v1": "01-08-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -8373,7 +8737,9 @@
   },
   {
     "Codigo": "57-MA3-008 (1)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "57",
     "Unidad": "Santander Financial Institute (SANFI)",
     "Nombre": "Máster de Formación Permanente en Innovación y Emprendimiento",
@@ -8385,7 +8751,7 @@
     "F. fin preinscripcion": " 19-09-2025",
     "F.inicio matricula": " 22-09-2025",
     "F. fin matricula": " 23-09-2025",
-    "Precio publico": 1390,
+    "Precio": 1390,
     "Fecha aprob. uo de v1": "01-09-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -8419,7 +8785,9 @@
   },
   {
     "Codigo": "57-MC3-011 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "57",
     "Unidad": "Santander Financial Institute (SANFI)",
     "Nombre": "Microcredencial Universitaria en Metodologías de Investigación en Ciencias Empresariales",
@@ -8431,7 +8799,7 @@
     "F. fin preinscripcion": " 01-12-2025",
     "F.inicio matricula": " 05-12-2025",
     "F. fin matricula": " 15-12-2025",
-    "Precio publico": 350,
+    "Precio": 350,
     "Fecha aprob. uo de v1": "01-08-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -8465,7 +8833,9 @@
   },
   {
     "Codigo": "57-MC3-013 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "57",
     "Unidad": "Santander Financial Institute (SANFI)",
     "Nombre": "Microcredencial Universitaria en Financiación Sostenible",
@@ -8477,7 +8847,7 @@
     "F. fin preinscripcion": " 14-11-2025",
     "F.inicio matricula": " 03-11-2025",
     "F. fin matricula": " 14-11-2025",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "01-08-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -8511,7 +8881,9 @@
   },
   {
     "Codigo": "57-MC3-016 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "57",
     "Unidad": "Santander Financial Institute (SANFI)",
     "Nombre": "Microcredencial Universitaria en Creación y Validación de Startups y otros Modelos de Negocio",
@@ -8523,7 +8895,7 @@
     "F. fin preinscripcion": " 28-10-2025",
     "F.inicio matricula": " 03-11-2025",
     "F. fin matricula": " 09-11-2025",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "23-09-2025",
     "Se imparte": "SI",
@@ -8557,7 +8929,9 @@
   },
   {
     "Codigo": "57-MC3-017 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "57",
     "Unidad": "Santander Financial Institute (SANFI)",
     "Nombre": "Microcredencial Universitaria en Técnicas de Design Thinking para tu Vida Personal y Profesional",
@@ -8569,7 +8943,7 @@
     "F. fin preinscripcion": " 28-10-2025",
     "F.inicio matricula": " 03-11-2025",
     "F. fin matricula": " 09-11-2025",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "23-09-2025",
     "Se imparte": "SI",
@@ -8603,7 +8977,9 @@
   },
   {
     "Codigo": "57-MC3-019 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "57",
     "Unidad": "Santander Financial Institute (SANFI)",
     "Nombre": "Microcredencial Universitaria Conectar para Educar: Claves para una Educación Transformadora",
@@ -8615,7 +8991,7 @@
     "F. fin preinscripcion": " 11-11-2025",
     "F.inicio matricula": " 10-11-2025",
     "F. fin matricula": " 14-11-2025",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "28-10-2025",
     "Se imparte": "NO",
@@ -8649,7 +9025,9 @@
   },
   {
     "Codigo": "57-MC3-023 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "57",
     "Unidad": "Santander Financial Institute (SANFI)",
     "Nombre": "Microcredencial Universitaria en Compliance",
@@ -8661,7 +9039,7 @@
     "F. fin preinscripcion": " 01-11-2025",
     "F.inicio matricula": " 16-10-2025",
     "F. fin matricula": " 02-11-2025",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "26-09-2025",
     "Fecha informe aprobacion cep": "23-09-2025",
     "Se imparte": "SI",
@@ -8695,7 +9073,9 @@
   },
   {
     "Codigo": "57-MC3-024 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "57",
     "Unidad": "Santander Financial Institute (SANFI)",
     "Nombre": "Microcredencial Universitaria en Claves para Organizar la Protección Personal y Patrimonial de las Personas con Discapacidad",
@@ -8707,7 +9087,7 @@
     "F. fin preinscripcion": " 02-12-2025",
     "F.inicio matricula": " 14-11-2025",
     "F. fin matricula": " 02-12-2025",
-    "Precio publico": 150,
+    "Precio": 150,
     "Fecha aprob. uo de v1": "01-11-2025",
     "Fecha informe aprobacion cep": "28-10-2025",
     "Se imparte": "SI",
@@ -8741,7 +9121,9 @@
   },
   {
     "Codigo": "57-MC3-025 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "57",
     "Unidad": "Santander Financial Institute (SANFI)",
     "Nombre": "Microcredencial Universitaria en Fiscalidad Inmobiliaria",
@@ -8753,7 +9135,7 @@
     "F. fin preinscripcion": " 04-12-2025",
     "F.inicio matricula": " 14-11-2025",
     "F. fin matricula": " 21-11-2025",
-    "Precio publico": 150,
+    "Precio": 150,
     "Fecha aprob. uo de v1": "01-11-2025",
     "Fecha informe aprobacion cep": "28-10-2025",
     "Se imparte": "SI",
@@ -8787,7 +9169,9 @@
   },
   {
     "Codigo": "57-MC3-026 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "57",
     "Unidad": "Santander Financial Institute (SANFI)",
     "Nombre": "Microcredencial Universitaria Invertir Hoy: Bolsa, Bonos y Criptoactivos en la Economía Actual",
@@ -8799,7 +9183,7 @@
     "F. fin preinscripcion": " 01-03-2026",
     "F.inicio matricula": " 03-03-2026",
     "F. fin matricula": " 05-03-2026",
-    "Precio publico": 133.34,
+    "Precio": 133.34,
     "Fecha aprob. uo de v1": "01-03-2026",
     "Fecha informe aprobacion cep": "18-02-2026",
     "Se imparte": "SI",
@@ -8833,7 +9217,9 @@
   },
   {
     "Codigo": "98-FC3-038 (2)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "98",
     "Unidad": "Escuela Universitaria de Fisioterapia 'Gimbernat-Cantabria'",
     "Nombre": "Curso Universitario de Formación Permanenete en Fisioterapia en Disfunciones del Suelo Pélvico en el Hombre",
@@ -8845,7 +9231,7 @@
     "F. fin preinscripcion": " 16-04-2026",
     "F.inicio matricula": " 21-04-2026",
     "F. fin matricula": " 22-04-2026",
-    "Precio publico": 675,
+    "Precio": 675,
     "Fecha aprob. uo de v1": "15-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -8879,7 +9265,9 @@
   },
   {
     "Codigo": "98-FC3-041 (2)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "98",
     "Unidad": "Escuela Universitaria de Fisioterapia 'Gimbernat-Cantabria'",
     "Nombre": "Curso Universitario de Formación Permanente en Yoga para Fisioterapeutas. Un Abordaje de las Afectaciones Psicosomáticas",
@@ -8891,7 +9279,7 @@
     "F. fin preinscripcion": " 04-02-2026",
     "F.inicio matricula": " 09-02-2026",
     "F. fin matricula": " 10-02-2026",
-    "Precio publico": 600,
+    "Precio": 600,
     "Fecha aprob. uo de v1": "15-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -8925,7 +9313,9 @@
   },
   {
     "Codigo": "98-FC3-042 (6)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "98",
     "Unidad": "Escuela Universitaria de Fisioterapia 'Gimbernat-Cantabria'",
     "Nombre": "Curso Universitario de Formación Permanente en Dolor Neuromuscular y su Abordaje con Fisioterapia Invasiva",
@@ -8937,7 +9327,7 @@
     "F. fin preinscripcion": " 04-02-2026",
     "F.inicio matricula": " 09-02-2026",
     "F. fin matricula": " 10-02-2026",
-    "Precio publico": 1050,
+    "Precio": 1050,
     "Fecha aprob. uo de v1": "15-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -8971,7 +9361,9 @@
   },
   {
     "Codigo": "98-FC3-047 (1)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "98",
     "Unidad": "Escuela Universitaria de Fisioterapia 'Gimbernat-Cantabria'",
     "Nombre": "Curso Universitario de Formación Permanente en Intervención en Cadenas Musculares con Ejercicio de Suelo e Implementos",
@@ -8983,7 +9375,7 @@
     "F. fin preinscripcion": " 14-01-2026",
     "F.inicio matricula": " 19-01-2026",
     "F. fin matricula": " 20-01-2026",
-    "Precio publico": 1800,
+    "Precio": 1800,
     "Fecha aprob. uo de v1": "15-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -9017,7 +9409,9 @@
   },
   {
     "Codigo": "98-FC3-048 (1)",
-    "Categoría": "Curso Universitario de Formación Permanente",
+    "Categoria": [
+      "Curso Universitario de Formación Permanente"
+    ],
     "Cod. unidad": "98",
     "Unidad": "Escuela Universitaria de Fisioterapia 'Gimbernat-Cantabria'",
     "Nombre": "Curso Universitario de Formación Permanente en Actualización Clínica en Evaluación Vocal: Una Perspectiva Integrada de la Percepción y la Acústica",
@@ -9029,7 +9423,7 @@
     "F. fin preinscripcion": " 09-10-2025",
     "F.inicio matricula": " 14-10-2025",
     "F. fin matricula": " 15-10-2025",
-    "Precio publico": 630,
+    "Precio": 630,
     "Fecha aprob. uo de v1": "15-07-2025",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -9063,7 +9457,9 @@
   },
   {
     "Codigo": "99-EX3-014 (3)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "99",
     "Unidad": "Escuela Universitaria de Turismo Altamira",
     "Nombre": "Diploma Universitario de Experto en Protocolo y Gestión de Eventos",
@@ -9075,7 +9471,7 @@
     "F. fin preinscripcion": " 19-09-2025",
     "F.inicio matricula": " 29-09-2025",
     "F. fin matricula": " 03-10-2025",
-    "Precio publico": 140,
+    "Precio": 140,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -9109,7 +9505,9 @@
   },
   {
     "Codigo": "99-EX3-017 (3)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "99",
     "Unidad": "Escuela Universitaria de Turismo Altamira",
     "Nombre": "Diploma Universitario de Experto en Dirección de Personal en Hoteles y Empresas Turísticas",
@@ -9121,7 +9519,7 @@
     "F. fin preinscripcion": " 06-02-2026",
     "F.inicio matricula": " 16-02-2026",
     "F. fin matricula": " 20-02-2026",
-    "Precio publico": 140,
+    "Precio": 140,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -9155,7 +9553,9 @@
   },
   {
     "Codigo": "99-EX3-022 (1)",
-    "Categoría": "Diploma Universitario de Experto",
+    "Categoria": [
+      "Diploma Universitario de Experto"
+    ],
     "Cod. unidad": "99",
     "Unidad": "Escuela Universitaria de Turismo Altamira",
     "Nombre": "Diploma Universitario de Experto en Marketing Digital y Revenue Management",
@@ -9167,7 +9567,7 @@
     "F. fin preinscripcion": " 19-09-2025",
     "F.inicio matricula": " 29-09-2025",
     "F. fin matricula": " 03-10-2025",
-    "Precio publico": 140,
+    "Precio": 140,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "NO",
@@ -9201,7 +9601,9 @@
   },
   {
     "Codigo": "99-MA3-021 (1)",
-    "Categoría": "Máster de Formación Permanente",
+    "Categoria": [
+      "Máster de Formación Permanente"
+    ],
     "Cod. unidad": "99",
     "Unidad": "Escuela Universitaria de Turismo Altamira",
     "Nombre": "Máster de Formación Permanente en Dirección de Hoteles y Empresas Turísticas",
@@ -9213,7 +9615,7 @@
     "F. fin preinscripcion": "",
     "F.inicio matricula": "",
     "F. fin matricula": "",
-    "Precio publico": 990,
+    "Precio": 990,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -9247,7 +9649,9 @@
   },
   {
     "Codigo": "99-MC3-023 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "99",
     "Unidad": "Escuela Universitaria de Turismo Altamira",
     "Nombre": "Microcredencial Universitaria en Inteligencia Artificial Aplicada al Turismo",
@@ -9259,7 +9663,7 @@
     "F. fin preinscripcion": " 12-09-2025",
     "F.inicio matricula": " 22-09-2025",
     "F. fin matricula": " 26-09-2025",
-    "Precio publico": 140,
+    "Precio": 140,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "11-06-2025",
     "Se imparte": "SI",
@@ -9293,7 +9697,9 @@
   },
   {
     "Codigo": "V2-MC3-001 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "V2",
     "Unidad": "Vicerrectorado de Transformación Universitaria",
     "Nombre": "Microcredencial Universitaria en Ciberdelincuencia y Ciberseguridad en Perspectiva Policial",
@@ -9305,7 +9711,7 @@
     "F. fin preinscripcion": " 19-11-2025",
     "F.inicio matricula": " 14-11-2025",
     "F. fin matricula": " 19-11-2025",
-    "Precio publico": 25,
+    "Precio": 25,
     "Fecha aprob. uo de v1": "20-11-2025",
     "Fecha informe aprobacion cep": "07-11-2025",
     "Se imparte": "SI",
@@ -9339,7 +9745,9 @@
   },
   {
     "Codigo": "V2-MC3-002 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "V2",
     "Unidad": "Vicerrectorado de Transformación Universitaria",
     "Nombre": "Microcredencial Universitaria en Operación en Espacios Confinados. Acceso y Rescate\r\n",
@@ -9351,7 +9759,7 @@
     "F. fin preinscripcion": " 09-02-2026",
     "F.inicio matricula": " 05-02-2026",
     "F. fin matricula": " 09-02-2026",
-    "Precio publico": 300,
+    "Precio": 300,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "05-02-2026",
     "Se imparte": "NO",
@@ -9385,7 +9793,9 @@
   },
   {
     "Codigo": "V2-MC3-003 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "V2",
     "Unidad": "Vicerrectorado de Transformación Universitaria",
     "Nombre": "Microcredencial Universitaria en Lectoescritura en Educación Primaria: Estrategias para Comprender, Escribir y Aprender",
@@ -9397,7 +9807,7 @@
     "F. fin preinscripcion": " 23-02-2026",
     "F.inicio matricula": " 12-02-2026",
     "F. fin matricula": " 24-02-2026",
-    "Precio publico": 133,
+    "Precio": 133,
     "Fecha aprob. uo de v1": "16-02-2026",
     "Fecha informe aprobacion cep": "02-02-2026",
     "Se imparte": "SI",
@@ -9431,7 +9841,9 @@
   },
   {
     "Codigo": "V2-MC3-004 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "V2",
     "Unidad": "Vicerrectorado de Transformación Universitaria",
     "Nombre": "Microcredencial Universitaria en Lectura y Escritura Académica en Educación Secundaria: Leer y Escribir en todas las Áreas\r\n",
@@ -9443,7 +9855,7 @@
     "F. fin preinscripcion": " 01-03-2026",
     "F.inicio matricula": " 05-03-2026",
     "F. fin matricula": " 06-03-2026",
-    "Precio publico": 133,
+    "Precio": 133,
     "Fecha aprob. uo de v1": "16-02-2026",
     "Fecha informe aprobacion cep": "16-02-2026",
     "Se imparte": "SI",
@@ -9477,7 +9889,9 @@
   },
   {
     "Codigo": "V2-MC3-005 (1)",
-    "Categoría": "Microcredencial Universitaria",
+    "Categoria": [
+      "Microcredencial Universitaria"
+    ],
     "Cod. unidad": "V2",
     "Unidad": "Vicerrectorado de Transformación Universitaria",
     "Nombre": "Microcredencial Universitaria la Prehistoria: Puesta al Día\r\n",
@@ -9489,7 +9903,7 @@
     "F. fin preinscripcion": " 26-02-2026",
     "F.inicio matricula": " 02-03-2026",
     "F. fin matricula": " 09-03-2026",
-    "Precio publico": 200,
+    "Precio": 200,
     "Fecha aprob. uo de v1": "",
     "Fecha informe aprobacion cep": "16-02-2026",
     "Se imparte": "SI",
